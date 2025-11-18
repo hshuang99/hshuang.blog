@@ -107,6 +107,8 @@ Allow: /p/blog-questions-challenge/
   
 Allow: /newsletter/
   
+Allow: /p/well-rest-ignore-rest/
+  
 Allow: /tags/%E5%B7%A5%E4%BD%9C%E6%95%88%E7%8E%87/
   
 Allow: /tags/%E4%BC%91%E6%81%AF/
@@ -116,8 +118,6 @@ Allow: /tags/%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF/
 Allow: /tags/%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7/
   
 Allow: /tags/%E7%9D%A1%E7%9C%A0/
-  
-Allow: /p/well-rest-ignore-rest/
   
 Allow: /tags/ptsd/
   
