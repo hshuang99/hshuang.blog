@@ -1475,7 +1475,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         <title>紀錄</title>
         <link>https://scientiatw.live/archives/</link>
         <pubDate>Sat, 24 May 2025 00:00:00 &#43;0000</pubDate>
-        
+        <author>黃宏勝</author>
         <guid>https://scientiatw.live/archives/</guid>
         <description></description>
         </item>
@@ -1483,7 +1483,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         <title>搜尋</title>
         <link>https://scientiatw.live/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
-        
+        <author>黃宏勝</author>
         <guid>https://scientiatw.live/search/</guid>
         <description></description>
         </item>
