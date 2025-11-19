@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Tue, 18 Nov 2025 22:56:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 19 Nov 2025 19:27:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>書單</title>
         <link>https://scientiatw.live/books/</link>
         <pubDate>Tue, 18 Nov 2025 15:09:00 &#43;0800</pubDate>
@@ -117,7 +117,7 @@
       &lt;tr&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;狀態&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;目標&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;過程&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;進度&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -339,7 +339,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;❌&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;捐血10次&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;4/10&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;❌&lt;/td&gt;
