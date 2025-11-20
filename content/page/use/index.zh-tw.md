@@ -2,7 +2,7 @@
 title: 使用
 description: 目前常用的物品
 date: 2025-11-08T09:10:00+08:00
-lastmod: 2025-11-08T09:50:00+08:00
+lastmod: 2025-11-20T18:30:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -21,6 +21,10 @@ menu:
 
 ### 🌏 瀏覽器
 - [Brave](https://brave.com/) - 內建廣告封鎖、阻擋追蹤程式的瀏覽器，設定得當的話可以預防惡意網站的跳轉
+
+### ☀️  瀏覽器插件
+- [Block Site](https://chromewebstore.google.com/detail/block-site/nkedbnokglppcmiencngilkkhhnpcfjb) - 有時候根本無法克制住自己漫無目的的逛一些網站，所以必須封鎖掉在上面花太多時間卻沒得到什麼營養的內容，比起其他款插件，這款可以無限的新增想ban掉的網域
+- [News Feed Eradicator](https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg) - 雖然把幾乎全部的社群媒體帳號都刪掉了，最終Facebook我還是需要它的二手拍賣社團跟Marketplace，但每次打開來看到河道上都有奇怪的內容，而這款插件可以把所有社群媒體上首頁資訊都阻擋掉，可以讓我只專注在自己想找的二手商品上
 
 ### 🗓️ 行程管理
 - Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度

@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Wed, 19 Nov 2025 19:27:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Nov 2025 18:30:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>書單</title>
         <link>https://scientiatw.live/books/</link>
         <pubDate>Tue, 18 Nov 2025 15:09:00 &#43;0800</pubDate>
@@ -745,6 +745,13 @@ Product Structure&lt;/li&gt;
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://brave.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Brave&lt;/a&gt; - 內建廣告封鎖、阻擋追蹤程式的瀏覽器，設定得當的話可以預防惡意網站的跳轉&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;--瀏覽器插件&#34;&gt;☀️  瀏覽器插件
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/block-site/nkedbnokglppcmiencngilkkhhnpcfjb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Block Site&lt;/a&gt; - 有時候根本無法克制住自己漫無目的的逛一些網站，所以必須封鎖掉在上面花太多時間卻沒得到什麼營養的內容，比起其他款插件，這款可以無限的新增想ban掉的網域&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;News Feed Eradicator&lt;/a&gt; - 雖然把幾乎全部的社群媒體帳號都刪掉了，最終Facebook我還是需要它的二手拍賣社團跟Marketplace，但每次打開來看到河道上都有奇怪的內容，而這款插件可以把所有社群媒體上首頁資訊都阻擋掉，可以讓我只專注在自己想找的二手商品上&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;-行程管理&#34;&gt;🗓️ 行程管理
 &lt;/h3&gt;&lt;ul&gt;
