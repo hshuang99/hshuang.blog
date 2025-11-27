@@ -3,17 +3,37 @@ User-agent: *
   
 Allow: /
   
-Allow: /micro/2025-11-20/
+Allow: /categories/
+  
+Allow: /tags/kobo/
+  
+Allow: /tags/mobiscribe-origin/
+  
+Allow: /post/
   
 Allow: /tags/
+  
+Allow: /tags/%E4%BA%BA%E7%94%9F/
+  
+Allow: /categories/%E7%A7%91%E6%8A%80/
+  
+Allow: /tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%96%B1%E8%AE%80%E5%99%A8/
+  
+Allow: /p/ebook-ereader-changes-me/
+  
+Allow: /tags/%E8%AE%80%E5%A2%A8/
+  
+Allow: /page/
+  
+Allow: /use/
+  
+Allow: /micro/2025-11-20/
   
 Allow: /tags/%E5%93%81%E5%91%B3/
   
 Allow: /tags/%E6%8F%90%E5%95%8F/
   
 Allow: /tags/%E8%B3%87%E8%A8%8A/
-  
-Allow: /page/
   
 Allow: /books/
   
@@ -54,12 +74,6 @@ Allow: /tags/%E9%81%8B%E6%B0%A3/
 Allow: /about/
   
 Allow: /links/
-  
-Allow: /use/
-  
-Allow: /categories/
-  
-Allow: /post/
   
 Allow: /categories/%E7%94%9F%E6%B4%BB/
   
@@ -191,11 +205,7 @@ Allow: /tags/oculink/
   
 Allow: /tags/%E5%A4%96%E6%8E%A5%E5%BC%8F%E9%A1%AF%E7%A4%BA%E5%8D%A1/
   
-Allow: /categories/%E7%A7%91%E6%8A%80/
-  
 Allow: /p/sitopia-meaning-of-wonderful-life/
-  
-Allow: /tags/%E4%BA%BA%E7%94%9F/
   
 Allow: /tags/%E5%93%B2%E5%AD%B8/
   
@@ -408,10 +418,6 @@ Allow: /tags/13.3%E5%90%8B/
 Allow: /tags/mooink-pro-2c/
   
 Allow: /tags/readmoo/
-  
-Allow: /tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%96%B1%E8%AE%80%E5%99%A8/
-  
-Allow: /tags/%E8%AE%80%E5%A2%A8/
   
 Allow: /p/readmoo-mooink-pro-2c/
   

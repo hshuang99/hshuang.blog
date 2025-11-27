@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-11-08T09:10:00+08:00
-lastmod: 2025-11-20T18:30:00+08:00
+date: 2025-11-27T13:18:00+08:00
+lastmod: 2025-11-27T18:54:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -28,6 +28,7 @@ menu:
 
 ### 🗓️ 行程管理
 - Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度
+- Notion Calendar - 跟Notion裡的Projects做連動
 
 ### 📟 終端機相關工具
 - [Vim](https://www.vim.org/) - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事
@@ -39,6 +40,7 @@ menu:
 
 ### 📝 筆記軟體/編輯器
 - [Obsidian](https://obsidian.md/) - 免費且開源的筆記軟體，用來撰寫卡片盒筆記很方便，Canvas功能雖與Heptabase的白板相比之下稍嫌不足，但搭配眾多開發者的套件我覺得Obsidian很好用
+- [Notion](https://www.notion.com/) - 用大學信箱就可以免費升級成Plus版本會員很優惠，但Notion目前還沒有支援E2EE，所以我目前不會放太重要的資訊上去
 - [VSCode](https://code.visualstudio.com/) - 用來做Latex Beamer簡報，設計網頁時也比較方便
 
 ### 🗂️ 學術軟體
@@ -60,7 +62,7 @@ menu:
 - [Vienna](https://www.vienna-rss.com/) - macOS上免費且開源的RSS閱讀器
 
 ## 📜 電子紙產品
-- [Readmoo Mooink Pro 2C](https://moo.im/a/luyzKS) - Readmoo讀墨推出的13.3吋彩色電子書閱讀器，柔性螢幕讓機器非常輕薄，讓我在看paper時可以手持走動，也可以在教課時一手握著另一手寫黑板，做研究時的好夥伴
+- [Readmoo Mooink Pro 2C](https://moo.im/a/luyzKS) - Readmoo讀墨推出的13.3吋彩色電子書閱讀器，柔性螢幕讓機器非常輕薄，讓我在看paper時可以手持走動，也可以在教課時一手握著另一手寫黑板，做研究時的好夥伴，可以看[《讀墨 Readmoo mooInk Pro 2C 13.3吋 彩色電子書閱讀器 閱讀PDF檔案的應許之機》](https://scientiatw.live/p/readmoo-mooink-pro-2c/)這篇來詳細瞭解
 - [Kobo Libra 2](https://gl.kobobooks.com/zh/products/kobo-libra-2) - 7吋黑白電子書閱讀器，黑白螢幕讓文字非常清楚，Kobo的系統一直以來都非常穩定，在室內使用很舒適，但新出的彩色版上市後就不再販售了
 - [Kobo Clara BW](https://r10.to/hkkbYN) - Kobo最小尺寸6吋黑白機器，外出時非常好用，我的褲子口袋剛好可以完美裝進去
 
