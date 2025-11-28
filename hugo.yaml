@@ -28,6 +28,12 @@ languages:
                   params:
                       icon: brand-wordpress
 
+                - identifier: mail
+                  name: 電子郵件信箱
+                  url: mailto:hongshenghuang@proton.me
+                  params:
+                      icon: mail-bolt
+
     en:
         languageName: English
         title: Hong-Sheng Huang's Blog
@@ -43,10 +49,16 @@ languages:
                   params:
                       icon: brand-wordpress
 
+                - identifier: mail
+                  name: Email
+                  url: mailto:hongshenghuang@proton.me
+                  params:
+                      icon: mail-bolt
+
 services:
     # Change it to your Disqus shortname before using
     disqus:
-        shortname: "hong-sheng-huang"
+        shortname:
     # GA Tracking ID
     googleAnalytics:
         id: G-GC235QD2XY
@@ -90,8 +102,8 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
-        provider: disqus
+        enabled: False
+        provider:
 
         disqusjs:
             shortname:
