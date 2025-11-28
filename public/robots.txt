@@ -3,6 +3,10 @@ User-agent: *
   
 Allow: /
   
+Allow: /page/
+  
+Allow: /use/
+  
 Allow: /categories/
   
 Allow: /tags/kobo/
@@ -22,10 +26,6 @@ Allow: /tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%96%B1%E8%AE%80%E5%99%A8/
 Allow: /p/ebook-ereader-changes-me/
   
 Allow: /tags/%E8%AE%80%E5%A2%A8/
-  
-Allow: /page/
-  
-Allow: /use/
   
 Allow: /micro/2025-11-20/
   
