@@ -7,7 +7,485 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Fri, 28 Nov 2025 20:05:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 29 Nov 2025 19:47:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>訂閱電子報</title>
+        <link>https://scientiatw.live/newsletter/</link>
+        <pubDate>Sat, 29 Nov 2025 19:40:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>https://scientiatw.live/newsletter/</guid>
+        <description>&lt;div id=&#34;mc_embed_shell&#34;&gt;
+      &lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/classic-061523.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+  &lt;style type=&#34;text/css&#34;&gt;
+           #mc_embed_signup{background: var(--card-background); clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px; max-width: 100%;}
+        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+&lt;/style&gt;
+&lt;div id=&#34;mc_embed_signup&#34;&gt;
+    &lt;form action=&#34;https://live.us12.list-manage.com/subscribe/post?u=1cb9611c999051fe721263138&amp;amp;id=4574579802&amp;amp;f_id=00f29fe0f0&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34;&gt;
+        &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;&lt;h2&gt;訂閱電子報&lt;/h2&gt;
+            &lt;div class=&#34;indicates-required&#34;&gt;&lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt; 必填 &lt;/div&gt;
+            &lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-EMAIL&#34;&gt; 電子郵件 &lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt;&lt;/label&gt;&lt;input type=&#34;email&#34; name=&#34;EMAIL&#34; class=&#34;required email&#34; id=&#34;mce-EMAIL&#34; required=&#34;&#34; value=&#34;&#34;&gt;&lt;/div&gt;&lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-FNAME&#34;&gt;希望我怎麼稱呼你  &lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt;&lt;/label&gt;&lt;input type=&#34;text&#34; name=&#34;FNAME&#34; class=&#34;required text&#34; id=&#34;mce-FNAME&#34; required=&#34;&#34; value=&#34;&#34;&gt;&lt;/div&gt;
+&lt;div hidden=&#34;&#34;&gt;&lt;input type=&#34;hidden&#34; name=&#34;tags&#34; value=&#34;9154059&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;mce-responses&#34; class=&#34;clear foot&#34;&gt;
+            &lt;div class=&#34;response&#34; id=&#34;mce-error-response&#34; style=&#34;display: none;&#34;&gt;&lt;/div&gt;
+            &lt;div class=&#34;response&#34; id=&#34;mce-success-response&#34; style=&#34;display: none;&#34;&gt;&lt;/div&gt;
+        &lt;/div&gt;
+    &lt;div aria-hidden=&#34;true&#34; style=&#34;position: absolute; left: -5000px;&#34;&gt;
+        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+        &lt;input type=&#34;text&#34; name=&#34;b_1cb9611c999051fe721263138_4574579802&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;
+    &lt;/div&gt;
+        &lt;div class=&#34;optionalParent&#34;&gt;
+            &lt;div class=&#34;clear foot&#34;&gt;
+                &lt;input type=&#34;submit&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34; value=&#34;訂閱&#34;&gt;
+                &lt;p style=&#34;margin: 0px auto;&#34;&gt;&lt;a href=&#34;http://eepurl.com/jpAXKs&#34; title=&#34;Mailchimp - email marketing made easy and fun&#34;&gt;&lt;span style=&#34;display: inline-block; background-color: black; border-radius: 4px;&#34;&gt;&lt;img class=&#34;refferal_badge&#34; src=&#34;https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-light.svg&#34; alt=&#34;Intuit Mailchimp&#34; style=&#34;width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34;&gt;(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=&#39;EMAIL&#39;;ftypes[0]=&#39;email&#39;;fnames[1]=&#39;FNAME&#39;;ftypes[1]=&#39;text&#39;;fnames[2]=&#39;LNAME&#39;;ftypes[2]=&#39;text&#39;;fnames[3]=&#39;ADDRESS&#39;;ftypes[3]=&#39;address&#39;;fnames[4]=&#39;PHONE&#39;;ftypes[4]=&#39;phone&#39;;fnames[5]=&#39;BIRTHDAY&#39;;ftypes[5]=&#39;birthday&#39;;fnames[6]=&#39;COMPANY&#39;;ftypes[6]=&#39;text&#39;;}(jQuery));var $mcj = jQuery.noConflict(true);
+    // SMS Phone Multi-Country Functionality
+    if(!window.MC) {
+      window.MC = {};
+    }
+    window.MC.smsPhoneData = {
+      defaultCountryCode: &#39;TW&#39;,
+      programs: [],
+      smsProgramDataCountryNames: []
+    };
+&lt;pre&gt;&lt;code&gt;function getCountryUnicodeFlag(countryCode) {
+   return countryCode.toUpperCase().replace(/./g, (char) =&amp;gt; String.fromCodePoint(char.charCodeAt(0) + 127397))
+};
+
+// HTML sanitization function to prevent XSS
+function sanitizeHtml(str) {
+  if (typeof str !== &#39;string&#39;) return &#39;&#39;;
+  return str
+    .replace(/&amp;amp;/g, &#39;&amp;amp;amp;&#39;)
+    .replace(/&amp;lt;/g, &#39;&amp;amp;lt;&#39;)
+    .replace(/&amp;gt;/g, &#39;&amp;amp;gt;&#39;)
+    .replace(/&amp;quot;/g, &#39;&amp;amp;quot;&#39;)
+    .replace(/&#39;/g, &#39;&amp;amp;#x27;&#39;)
+    .replace(/\//g, &#39;&amp;amp;#x2F;&#39;);
+}
+
+// URL sanitization function to prevent javascript: and data: URLs
+function sanitizeUrl(url) {
+  if (typeof url !== &#39;string&#39;) return &#39;&#39;;
+  const trimmedUrl = url.trim().toLowerCase();
+  if (trimmedUrl.startsWith(&#39;javascript:&#39;) || trimmedUrl.startsWith(&#39;data:&#39;) || trimmedUrl.startsWith(&#39;vbscript:&#39;)) {
+    return &#39;#&#39;;
+  }
+  return url;
+}
+
+const getBrowserLanguage = () =&amp;gt; {
+  if (!window?.navigator?.language?.split(&#39;-&#39;)[1]) {
+    return window?.navigator?.language?.toUpperCase();
+  }
+  return window?.navigator?.language?.split(&#39;-&#39;)[1];
+};
+
+function getDefaultCountryProgram(defaultCountryCode, smsProgramData) {
+  if (!smsProgramData || smsProgramData.length === 0) {
+    return null;
+  }
+
+  const browserLanguage = getBrowserLanguage();
+
+  if (browserLanguage) {
+    const foundProgram = smsProgramData.find(
+      (program) =&amp;gt; program?.countryCode === browserLanguage,
+    );
+    if (foundProgram) {
+      return foundProgram;
+    }
+  }
+
+  if (defaultCountryCode) {
+    const foundProgram = smsProgramData.find(
+      (program) =&amp;gt; program?.countryCode === defaultCountryCode,
+    );
+    if (foundProgram) {
+      return foundProgram;
+    }
+  }
+
+  return smsProgramData[0];
+}
+
+function updateSmsLegalText(countryCode, fieldName) {
+  if (!countryCode || !fieldName) {
+    return;
+  }
+  
+  const programs = window?.MC?.smsPhoneData?.programs;
+  if (!programs || !Array.isArray(programs)) {
+    return;
+  }
+  
+  const program = programs.find(program =&amp;gt; program?.countryCode === countryCode);
+  if (!program || !program.requiredTemplate) {
+    return;
+  }
+  
+  const legalTextElement = document.querySelector(&#39;#legal-text-&#39; + fieldName);
+  if (!legalTextElement) {
+    return;
+  }
+  
+  // Remove HTML tags and clean up the text
+  const divRegex = new RegExp(&#39;&amp;lt;/?[div][^&amp;gt;]*&amp;gt;&#39;, &#39;gi&#39;);
+  const fullAnchorRegex = new RegExp(&#39;&amp;lt;a.*?&amp;lt;/a&amp;gt;&#39;, &#39;g&#39;);
+  const anchorRegex = new RegExp(&#39;&amp;lt;a href=&amp;quot;(.*?)&amp;quot; target=&amp;quot;(.*?)&amp;quot;&amp;gt;(.*?)&amp;lt;/a&amp;gt;&#39;);
+  
+  const requiredLegalText = program.requiredTemplate
+    .replace(divRegex, &#39;&#39;)
+    .replace(fullAnchorRegex, &#39;&#39;)
+    .slice(0, -1);
+  
+  const anchorMatches = program.requiredTemplate.match(anchorRegex);
+  
+  if (anchorMatches &amp;amp;&amp;amp; anchorMatches.length &amp;gt;= 4) {
+    // Create link element safely using DOM methods instead of innerHTML
+    const linkElement = document.createElement(&#39;a&#39;);
+    linkElement.href = sanitizeUrl(anchorMatches[1]);
+    linkElement.target = sanitizeHtml(anchorMatches[2]);
+    linkElement.textContent = sanitizeHtml(anchorMatches[3]);
+    
+    legalTextElement.textContent = requiredLegalText + &#39; &#39;;
+    legalTextElement.appendChild(linkElement);
+    legalTextElement.appendChild(document.createTextNode(&#39;.&#39;));
+  } else {
+    legalTextElement.textContent = requiredLegalText + &#39;.&#39;;
+  }
+}
+
+function generateDropdownOptions(smsProgramData) {
+  if (!smsProgramData || smsProgramData.length === 0) {
+    return &#39;&#39;;
+  }
+  
+  return smsProgramData.map(program =&amp;gt; {
+    const flag = getCountryUnicodeFlag(program.countryCode);
+    const countryName = getCountryName(program.countryCode);
+    const callingCode = program.countryCallingCode || &#39;&#39;;
+    // Sanitize all values to prevent XSS
+    const sanitizedCountryCode = sanitizeHtml(program.countryCode || &#39;&#39;);
+    const sanitizedCountryName = sanitizeHtml(countryName || &#39;&#39;);
+    const sanitizedCallingCode = sanitizeHtml(callingCode || &#39;&#39;);
+    return &#39;&amp;lt;option value=&amp;quot;&#39; + sanitizedCountryCode + &#39;&amp;quot;&amp;gt;&#39; + sanitizedCountryName + &#39; &#39; + sanitizedCallingCode + &#39;&amp;lt;/option&amp;gt;&#39;;
+  }).join(&#39;&#39;);
+}
+
+function getCountryName(countryCode) {
+  if (window.MC?.smsPhoneData?.smsProgramDataCountryNames &amp;amp;&amp;amp; Array.isArray(window.MC.smsPhoneData.smsProgramDataCountryNames)) {
+    for (let i = 0; i &amp;lt; window.MC.smsPhoneData.smsProgramDataCountryNames.length; i++) {
+      if (window.MC.smsPhoneData.smsProgramDataCountryNames[i].code === countryCode) {
+        return window.MC.smsPhoneData.smsProgramDataCountryNames[i].name;
+      }
+    }
+  }
+  return countryCode;
+}
+
+function getDefaultPlaceholder(countryCode) {
+  if (!countryCode || typeof countryCode !== &#39;string&#39;) {
+    return &#39;+1 000 000 0000&#39;; // Default US placeholder
+  }
+  
+  const mockPlaceholders = [
+    {
+  countryCode: &#39;US&#39;,
+  placeholder: &#39;+1 000 000 0000&#39;,
+  helpText: &#39;Include the US country code +1 before the phone number&#39;,
+},
+{
+  countryCode: &#39;GB&#39;,
+  placeholder: &#39;+44 0000 000000&#39;,
+  helpText: &#39;Include the GB country code +44 before the phone number&#39;,
+},
+{
+  countryCode: &#39;CA&#39;,
+  placeholder: &#39;+1 000 000 0000&#39;,
+  helpText: &#39;Include the CA country code +1 before the phone number&#39;,
+},
+{
+  countryCode: &#39;AU&#39;,
+  placeholder: &#39;+61 000 000 000&#39;,
+  helpText: &#39;Include the AU country code +61 before the phone number&#39;,
+},
+{
+  countryCode: &#39;DE&#39;,
+  placeholder: &#39;+49 000 0000000&#39;,
+  helpText: &#39;Fügen Sie vor der Telefonnummer die DE-Ländervorwahl +49 ein&#39;,
+},
+{
+  countryCode: &#39;FR&#39;,
+  placeholder: &#39;+33 0 00 00 00 00&#39;,
+  helpText: &#39;Incluez le code pays FR +33 avant le numéro de téléphone&#39;,
+},
+{
+  countryCode: &#39;ES&#39;,
+  placeholder: &#39;+34 000 000 000&#39;,
+  helpText: &#39;Incluya el código de país ES +34 antes del número de teléfono&#39;,
+},
+{
+  countryCode: &#39;NL&#39;,
+  placeholder: &#39;+31 0 00000000&#39;,
+  helpText: &#39;Voeg de NL-landcode +31 toe vóór het telefoonnummer&#39;,
+},
+{
+  countryCode: &#39;BE&#39;,
+  placeholder: &#39;+32 000 00 00 00&#39;,
+  helpText: &#39;Incluez le code pays BE +32 avant le numéro de téléphone&#39;,
+},
+{
+  countryCode: &#39;CH&#39;,
+  placeholder: &#39;+41 00 000 00 00&#39;,
+  helpText: &#39;Fügen Sie vor der Telefonnummer die CH-Ländervorwahl +41 ein&#39;,
+},
+{
+  countryCode: &#39;AT&#39;,
+  placeholder: &#39;+43 000 000 0000&#39;,
+  helpText: &#39;Fügen Sie vor der Telefonnummer die AT-Ländervorwahl +43 ein&#39;,
+},
+{
+  countryCode: &#39;IE&#39;,
+  placeholder: &#39;+353 00 000 0000&#39;,
+  helpText: &#39;Include the IE country code +353 before the phone number&#39;,
+},
+{
+  countryCode: &#39;IT&#39;,
+  placeholder: &#39;+39 000 000 0000&#39;,
+  helpText:
+    &#39;Includere il prefisso internazionale IT +39 prima del numero di telefono&#39;,
+},
+  ];
+
+  const selectedPlaceholder = mockPlaceholders.find(function(item) {
+    return item &amp;amp;&amp;amp; item.countryCode === countryCode;
+  });
+  
+  return selectedPlaceholder ? selectedPlaceholder.placeholder : mockPlaceholders[0].placeholder;
+}
+
+function updatePlaceholder(countryCode, fieldName) {
+  if (!countryCode || !fieldName) {
+    return;
+  }
+  
+  const phoneInput = document.querySelector(&#39;#mce-&#39; + fieldName);
+  if (!phoneInput) {
+    return;
+  }
+  
+  const placeholder = getDefaultPlaceholder(countryCode);
+  if (placeholder) {
+    phoneInput.placeholder = placeholder;
+  }
+}
+
+function updateCountryCodeInstruction(countryCode, fieldName) {
+  updatePlaceholder(countryCode, fieldName);
+  
+}
+
+function getDefaultHelpText(countryCode) {
+  const mockPlaceholders = [
+    {
+      countryCode: &#39;US&#39;,
+      placeholder: &#39;+1 000 000 0000&#39;,
+      helpText: &#39;Include the US country code +1 before the phone number&#39;,
+    },
+    {
+      countryCode: &#39;GB&#39;,
+      placeholder: &#39;+44 0000 000000&#39;,
+      helpText: &#39;Include the GB country code +44 before the phone number&#39;,
+    },
+    {
+      countryCode: &#39;CA&#39;,
+      placeholder: &#39;+1 000 000 0000&#39;,
+      helpText: &#39;Include the CA country code +1 before the phone number&#39;,
+    },
+    {
+      countryCode: &#39;AU&#39;,
+      placeholder: &#39;+61 000 000 000&#39;,
+      helpText: &#39;Include the AU country code +61 before the phone number&#39;,
+    },
+    {
+      countryCode: &#39;DE&#39;,
+      placeholder: &#39;+49 000 0000000&#39;,
+      helpText: &#39;Fügen Sie vor der Telefonnummer die DE-Ländervorwahl +49 ein&#39;,
+    },
+    {
+      countryCode: &#39;FR&#39;,
+      placeholder: &#39;+33 0 00 00 00 00&#39;,
+      helpText: &#39;Incluez le code pays FR +33 avant le numéro de téléphone&#39;,
+    },
+    {
+      countryCode: &#39;ES&#39;,
+      placeholder: &#39;+34 000 000 000&#39;,
+      helpText: &#39;Incluya el código de país ES +34 antes del número de teléfono&#39;,
+    },
+    {
+      countryCode: &#39;NL&#39;,
+      placeholder: &#39;+31 0 00000000&#39;,
+      helpText: &#39;Voeg de NL-landcode +31 toe vóór het telefoonnummer&#39;,
+    },
+    {
+      countryCode: &#39;BE&#39;,
+      placeholder: &#39;+32 000 00 00 00&#39;,
+      helpText: &#39;Incluez le code pays BE +32 avant le numéro de téléphone&#39;,
+    },
+    {
+      countryCode: &#39;CH&#39;,
+      placeholder: &#39;+41 00 000 00 00&#39;,
+      helpText: &#39;Fügen Sie vor der Telefonnummer die CH-Ländervorwahl +41 ein&#39;,
+    },
+    {
+      countryCode: &#39;AT&#39;,
+      placeholder: &#39;+43 000 000 0000&#39;,
+      helpText: &#39;Fügen Sie vor der Telefonnummer die AT-Ländervorwahl +43 ein&#39;,
+    },
+    {
+      countryCode: &#39;IE&#39;,
+      placeholder: &#39;+353 00 000 0000&#39;,
+      helpText: &#39;Include the IE country code +353 before the phone number&#39;,
+    },
+    {
+      countryCode: &#39;IT&#39;,
+      placeholder: &#39;+39 000 000 0000&#39;,
+      helpText: &#39;Includere il prefisso internazionale IT +39 prima del numero di telefono&#39;,
+    },
+  ];
+  
+  if (!countryCode || typeof countryCode !== &#39;string&#39;) {
+    return mockPlaceholders[0].helpText;
+  }
+  
+  const selectedHelpText = mockPlaceholders.find(function(item) {
+      return item &amp;amp;&amp;amp; item.countryCode === countryCode;
+    });
+    
+    return selectedHelpText ? selectedHelpText.helpText : mockPlaceholders[0].helpText;
+}
+
+function setDefaultHelpText(countryCode) {
+  const helpTextSpan = document.querySelector(&#39;#help-text&#39;);
+  if (!helpTextSpan) {
+    return;
+  }
+
+    
+}
+
+function updateHelpTextCountryCode(countryCode, fieldName) {
+  if (!countryCode || !fieldName) {
+    return;
+  }
+  
+  setDefaultHelpText(countryCode);
+}
+
+function initializeSmsPhoneDropdown(fieldName) {
+  if (!fieldName || typeof fieldName !== &#39;string&#39;) {
+    return;
+  }
+  
+  const dropdown = document.querySelector(&#39;#country-select-&#39; + fieldName);
+  const displayFlag = document.querySelector(&#39;#flag-display-&#39; + fieldName);
+  
+  if (!dropdown || !displayFlag) {
+    return;
+  }
+
+  const smsPhoneData = window.MC?.smsPhoneData;
+  if (smsPhoneData &amp;amp;&amp;amp; smsPhoneData.programs &amp;amp;&amp;amp; Array.isArray(smsPhoneData.programs)) {
+    dropdown.innerHTML = generateDropdownOptions(smsPhoneData.programs);
+  }
+
+  const defaultProgram = getDefaultCountryProgram(smsPhoneData?.defaultCountryCode, smsPhoneData?.programs);
+  if (defaultProgram &amp;amp;&amp;amp; defaultProgram.countryCode) {
+    dropdown.value = defaultProgram.countryCode;
+    
+    const flagSpan = displayFlag?.querySelector(&#39;#flag-emoji-&#39; + fieldName);
+    if (flagSpan) {
+      flagSpan.textContent = getCountryUnicodeFlag(defaultProgram.countryCode);
+      flagSpan.setAttribute(&#39;aria-label&#39;, sanitizeHtml(defaultProgram.countryCode) + &#39; flag&#39;);
+    }
+    
+    updateSmsLegalText(defaultProgram.countryCode, fieldName);
+    updatePlaceholder(defaultProgram.countryCode, fieldName);
+    updateCountryCodeInstruction(defaultProgram.countryCode, fieldName);
+  }
+
+ 
+  var smsNotRequiredRemoveCountryCodeEnabled = true;
+  var smsField = Object.values({&amp;quot;EMAIL&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;EMAIL&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Email Address&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;email&amp;quot;,&amp;quot;required&amp;quot;:true,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Email Address&amp;quot;,&amp;quot;merge_id&amp;quot;:0,&amp;quot;help_text_enabled&amp;quot;:false,&amp;quot;enabled&amp;quot;:true,&amp;quot;order&amp;quot;:0,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;},&amp;quot;FNAME&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;FNAME&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;希望我怎麼稱呼你 &amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:true,&amp;quot;audience_field_name&amp;quot;:&amp;quot;First Name&amp;quot;,&amp;quot;merge_id&amp;quot;:1,&amp;quot;help_text_enabled&amp;quot;:false,&amp;quot;enabled&amp;quot;:true,&amp;quot;order&amp;quot;:1,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;},&amp;quot;LNAME&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;LNAME&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Last Name&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Last Name&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:2},&amp;quot;ADDRESS&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;ADDRESS&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Address&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;address&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Address&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:3,&amp;quot;countries&amp;quot;:{&amp;quot;2&amp;quot;:&amp;quot;Albania&amp;quot;,&amp;quot;3&amp;quot;:&amp;quot;Algeria&amp;quot;,&amp;quot;4&amp;quot;:&amp;quot;Andorra&amp;quot;,&amp;quot;5&amp;quot;:&amp;quot;Angola&amp;quot;,&amp;quot;6&amp;quot;:&amp;quot;Argentina&amp;quot;,&amp;quot;7&amp;quot;:&amp;quot;Armenia&amp;quot;,&amp;quot;8&amp;quot;:&amp;quot;Australia&amp;quot;,&amp;quot;9&amp;quot;:&amp;quot;Austria&amp;quot;,&amp;quot;10&amp;quot;:&amp;quot;Azerbaijan&amp;quot;,&amp;quot;11&amp;quot;:&amp;quot;Bahamas&amp;quot;,&amp;quot;12&amp;quot;:&amp;quot;Bahrain&amp;quot;,&amp;quot;13&amp;quot;:&amp;quot;Bangladesh&amp;quot;,&amp;quot;14&amp;quot;:&amp;quot;Barbados&amp;quot;,&amp;quot;15&amp;quot;:&amp;quot;Belarus&amp;quot;,&amp;quot;16&amp;quot;:&amp;quot;Belgium&amp;quot;,&amp;quot;17&amp;quot;:&amp;quot;Belize&amp;quot;,&amp;quot;18&amp;quot;:&amp;quot;Benin&amp;quot;,&amp;quot;19&amp;quot;:&amp;quot;Bermuda&amp;quot;,&amp;quot;20&amp;quot;:&amp;quot;Bhutan&amp;quot;,&amp;quot;21&amp;quot;:&amp;quot;Bolivia&amp;quot;,&amp;quot;22&amp;quot;:&amp;quot;Bosnia and Herzegovina&amp;quot;,&amp;quot;23&amp;quot;:&amp;quot;Botswana&amp;quot;,&amp;quot;24&amp;quot;:&amp;quot;Brazil&amp;quot;,&amp;quot;25&amp;quot;:&amp;quot;Bulgaria&amp;quot;,&amp;quot;26&amp;quot;:&amp;quot;Burkina Faso&amp;quot;,&amp;quot;27&amp;quot;:&amp;quot;Burundi&amp;quot;,&amp;quot;28&amp;quot;:&amp;quot;Cambodia&amp;quot;,&amp;quot;29&amp;quot;:&amp;quot;Cameroon&amp;quot;,&amp;quot;30&amp;quot;:&amp;quot;Canada&amp;quot;,&amp;quot;31&amp;quot;:&amp;quot;Cape Verde&amp;quot;,&amp;quot;32&amp;quot;:&amp;quot;Cayman Islands&amp;quot;,&amp;quot;33&amp;quot;:&amp;quot;Central African Republic&amp;quot;,&amp;quot;34&amp;quot;:&amp;quot;Chad&amp;quot;,&amp;quot;35&amp;quot;:&amp;quot;Chile&amp;quot;,&amp;quot;36&amp;quot;:&amp;quot;China&amp;quot;,&amp;quot;37&amp;quot;:&amp;quot;Colombia&amp;quot;,&amp;quot;38&amp;quot;:&amp;quot;Congo&amp;quot;,&amp;quot;40&amp;quot;:&amp;quot;Croatia&amp;quot;,&amp;quot;41&amp;quot;:&amp;quot;Cyprus&amp;quot;,&amp;quot;42&amp;quot;:&amp;quot;Czech Republic&amp;quot;,&amp;quot;43&amp;quot;:&amp;quot;Denmark&amp;quot;,&amp;quot;44&amp;quot;:&amp;quot;Djibouti&amp;quot;,&amp;quot;45&amp;quot;:&amp;quot;Ecuador&amp;quot;,&amp;quot;46&amp;quot;:&amp;quot;Egypt&amp;quot;,&amp;quot;47&amp;quot;:&amp;quot;El Salvador&amp;quot;,&amp;quot;48&amp;quot;:&amp;quot;Equatorial Guinea&amp;quot;,&amp;quot;49&amp;quot;:&amp;quot;Eritrea&amp;quot;,&amp;quot;50&amp;quot;:&amp;quot;Estonia&amp;quot;,&amp;quot;51&amp;quot;:&amp;quot;Ethiopia&amp;quot;,&amp;quot;52&amp;quot;:&amp;quot;Fiji&amp;quot;,&amp;quot;53&amp;quot;:&amp;quot;Finland&amp;quot;,&amp;quot;54&amp;quot;:&amp;quot;France&amp;quot;,&amp;quot;56&amp;quot;:&amp;quot;Gabon&amp;quot;,&amp;quot;57&amp;quot;:&amp;quot;Gambia&amp;quot;,&amp;quot;58&amp;quot;:&amp;quot;Georgia&amp;quot;,&amp;quot;59&amp;quot;:&amp;quot;Germany&amp;quot;,&amp;quot;60&amp;quot;:&amp;quot;Ghana&amp;quot;,&amp;quot;61&amp;quot;:&amp;quot;Greece&amp;quot;,&amp;quot;62&amp;quot;:&amp;quot;Guam&amp;quot;,&amp;quot;63&amp;quot;:&amp;quot;Guinea&amp;quot;,&amp;quot;64&amp;quot;:&amp;quot;Guinea-Bissau&amp;quot;,&amp;quot;65&amp;quot;:&amp;quot;Guyana&amp;quot;,&amp;quot;66&amp;quot;:&amp;quot;Honduras&amp;quot;,&amp;quot;67&amp;quot;:&amp;quot;Hong Kong&amp;quot;,&amp;quot;68&amp;quot;:&amp;quot;Hungary&amp;quot;,&amp;quot;69&amp;quot;:&amp;quot;Iceland&amp;quot;,&amp;quot;70&amp;quot;:&amp;quot;India&amp;quot;,&amp;quot;71&amp;quot;:&amp;quot;Indonesia&amp;quot;,&amp;quot;74&amp;quot;:&amp;quot;Ireland&amp;quot;,&amp;quot;75&amp;quot;:&amp;quot;Israel&amp;quot;,&amp;quot;76&amp;quot;:&amp;quot;Italy&amp;quot;,&amp;quot;78&amp;quot;:&amp;quot;Japan&amp;quot;,&amp;quot;79&amp;quot;:&amp;quot;Jordan&amp;quot;,&amp;quot;80&amp;quot;:&amp;quot;Kazakhstan&amp;quot;,&amp;quot;81&amp;quot;:&amp;quot;Kenya&amp;quot;,&amp;quot;82&amp;quot;:&amp;quot;Kuwait&amp;quot;,&amp;quot;83&amp;quot;:&amp;quot;Kyrgyzstan&amp;quot;,&amp;quot;84&amp;quot;:&amp;quot;Lao People&#39;s Democratic Republic&amp;quot;,&amp;quot;85&amp;quot;:&amp;quot;Latvia&amp;quot;,&amp;quot;86&amp;quot;:&amp;quot;Lebanon&amp;quot;,&amp;quot;87&amp;quot;:&amp;quot;Lesotho&amp;quot;,&amp;quot;88&amp;quot;:&amp;quot;Liberia&amp;quot;,&amp;quot;90&amp;quot;:&amp;quot;Liechtenstein&amp;quot;,&amp;quot;91&amp;quot;:&amp;quot;Lithuania&amp;quot;,&amp;quot;92&amp;quot;:&amp;quot;Luxembourg&amp;quot;,&amp;quot;93&amp;quot;:&amp;quot;Macedonia&amp;quot;,&amp;quot;94&amp;quot;:&amp;quot;Madagascar&amp;quot;,&amp;quot;95&amp;quot;:&amp;quot;Malawi&amp;quot;,&amp;quot;96&amp;quot;:&amp;quot;Malaysia&amp;quot;,&amp;quot;97&amp;quot;:&amp;quot;Maldives&amp;quot;,&amp;quot;98&amp;quot;:&amp;quot;Mali&amp;quot;,&amp;quot;99&amp;quot;:&amp;quot;Malta&amp;quot;,&amp;quot;100&amp;quot;:&amp;quot;Mauritania&amp;quot;,&amp;quot;101&amp;quot;:&amp;quot;Mexico&amp;quot;,&amp;quot;102&amp;quot;:&amp;quot;Moldova&amp;quot;,&amp;quot;103&amp;quot;:&amp;quot;Monaco&amp;quot;,&amp;quot;104&amp;quot;:&amp;quot;Mongolia&amp;quot;,&amp;quot;105&amp;quot;:&amp;quot;Morocco&amp;quot;,&amp;quot;106&amp;quot;:&amp;quot;Mozambique&amp;quot;,&amp;quot;107&amp;quot;:&amp;quot;Namibia&amp;quot;,&amp;quot;108&amp;quot;:&amp;quot;Nepal&amp;quot;,&amp;quot;109&amp;quot;:&amp;quot;Netherlands&amp;quot;,&amp;quot;110&amp;quot;:&amp;quot;Netherlands Antilles&amp;quot;,&amp;quot;111&amp;quot;:&amp;quot;New Zealand&amp;quot;,&amp;quot;112&amp;quot;:&amp;quot;Nicaragua&amp;quot;,&amp;quot;113&amp;quot;:&amp;quot;Niger&amp;quot;,&amp;quot;114&amp;quot;:&amp;quot;Nigeria&amp;quot;,&amp;quot;116&amp;quot;:&amp;quot;Norway&amp;quot;,&amp;quot;117&amp;quot;:&amp;quot;Oman&amp;quot;,&amp;quot;118&amp;quot;:&amp;quot;Pakistan&amp;quot;,&amp;quot;119&amp;quot;:&amp;quot;Panama&amp;quot;,&amp;quot;120&amp;quot;:&amp;quot;Paraguay&amp;quot;,&amp;quot;121&amp;quot;:&amp;quot;Peru&amp;quot;,&amp;quot;122&amp;quot;:&amp;quot;Philippines&amp;quot;,&amp;quot;123&amp;quot;:&amp;quot;Poland&amp;quot;,&amp;quot;124&amp;quot;:&amp;quot;Portugal&amp;quot;,&amp;quot;126&amp;quot;:&amp;quot;Qatar&amp;quot;,&amp;quot;127&amp;quot;:&amp;quot;Reunion&amp;quot;,&amp;quot;128&amp;quot;:&amp;quot;Romania&amp;quot;,&amp;quot;129&amp;quot;:&amp;quot;Russia&amp;quot;,&amp;quot;130&amp;quot;:&amp;quot;Rwanda&amp;quot;,&amp;quot;132&amp;quot;:&amp;quot;Samoa (Independent)&amp;quot;,&amp;quot;133&amp;quot;:&amp;quot;Saudi Arabia&amp;quot;,&amp;quot;134&amp;quot;:&amp;quot;Senegal&amp;quot;,&amp;quot;135&amp;quot;:&amp;quot;Seychelles&amp;quot;,&amp;quot;136&amp;quot;:&amp;quot;Sierra Leone&amp;quot;,&amp;quot;137&amp;quot;:&amp;quot;Singapore&amp;quot;,&amp;quot;138&amp;quot;:&amp;quot;Slovakia&amp;quot;,&amp;quot;139&amp;quot;:&amp;quot;Slovenia&amp;quot;,&amp;quot;140&amp;quot;:&amp;quot;Somalia&amp;quot;,&amp;quot;141&amp;quot;:&amp;quot;South Africa&amp;quot;,&amp;quot;142&amp;quot;:&amp;quot;South Korea&amp;quot;,&amp;quot;143&amp;quot;:&amp;quot;Spain&amp;quot;,&amp;quot;144&amp;quot;:&amp;quot;Sri Lanka&amp;quot;,&amp;quot;146&amp;quot;:&amp;quot;Suriname&amp;quot;,&amp;quot;147&amp;quot;:&amp;quot;Swaziland&amp;quot;,&amp;quot;148&amp;quot;:&amp;quot;Sweden&amp;quot;,&amp;quot;149&amp;quot;:&amp;quot;Switzerland&amp;quot;,&amp;quot;152&amp;quot;:&amp;quot;Taiwan&amp;quot;,&amp;quot;153&amp;quot;:&amp;quot;Tanzania&amp;quot;,&amp;quot;154&amp;quot;:&amp;quot;Thailand&amp;quot;,&amp;quot;155&amp;quot;:&amp;quot;Togo&amp;quot;,&amp;quot;156&amp;quot;:&amp;quot;Tunisia&amp;quot;,&amp;quot;157&amp;quot;:&amp;quot;Turkiye&amp;quot;,&amp;quot;158&amp;quot;:&amp;quot;Turkmenistan&amp;quot;,&amp;quot;159&amp;quot;:&amp;quot;Uganda&amp;quot;,&amp;quot;161&amp;quot;:&amp;quot;Ukraine&amp;quot;,&amp;quot;162&amp;quot;:&amp;quot;United Arab Emirates&amp;quot;,&amp;quot;163&amp;quot;:&amp;quot;Uruguay&amp;quot;,&amp;quot;164&amp;quot;:&amp;quot;USA&amp;quot;,&amp;quot;165&amp;quot;:&amp;quot;Uzbekistan&amp;quot;,&amp;quot;166&amp;quot;:&amp;quot;Vatican City State (Holy See)&amp;quot;,&amp;quot;167&amp;quot;:&amp;quot;Venezuela&amp;quot;,&amp;quot;168&amp;quot;:&amp;quot;Vietnam&amp;quot;,&amp;quot;169&amp;quot;:&amp;quot;Virgin Islands (British)&amp;quot;,&amp;quot;170&amp;quot;:&amp;quot;Yemen&amp;quot;,&amp;quot;173&amp;quot;:&amp;quot;Zambia&amp;quot;,&amp;quot;174&amp;quot;:&amp;quot;Zimbabwe&amp;quot;,&amp;quot;175&amp;quot;:&amp;quot;Antigua And Barbuda&amp;quot;,&amp;quot;176&amp;quot;:&amp;quot;Anguilla&amp;quot;,&amp;quot;178&amp;quot;:&amp;quot;American Samoa&amp;quot;,&amp;quot;179&amp;quot;:&amp;quot;Aruba&amp;quot;,&amp;quot;180&amp;quot;:&amp;quot;Brunei Darussalam&amp;quot;,&amp;quot;181&amp;quot;:&amp;quot;Bouvet Island&amp;quot;,&amp;quot;183&amp;quot;:&amp;quot;Cook Islands&amp;quot;,&amp;quot;185&amp;quot;:&amp;quot;Christmas Island&amp;quot;,&amp;quot;187&amp;quot;:&amp;quot;Dominican Republic&amp;quot;,&amp;quot;188&amp;quot;:&amp;quot;Western Sahara&amp;quot;,&amp;quot;189&amp;quot;:&amp;quot;Falkland Islands&amp;quot;,&amp;quot;191&amp;quot;:&amp;quot;Faroe Islands&amp;quot;,&amp;quot;192&amp;quot;:&amp;quot;Grenada&amp;quot;,&amp;quot;193&amp;quot;:&amp;quot;French Guiana&amp;quot;,&amp;quot;194&amp;quot;:&amp;quot;Gibraltar&amp;quot;,&amp;quot;195&amp;quot;:&amp;quot;Greenland&amp;quot;,&amp;quot;196&amp;quot;:&amp;quot;Guadeloupe&amp;quot;,&amp;quot;198&amp;quot;:&amp;quot;Guatemala&amp;quot;,&amp;quot;200&amp;quot;:&amp;quot;Haiti&amp;quot;,&amp;quot;202&amp;quot;:&amp;quot;Jamaica&amp;quot;,&amp;quot;203&amp;quot;:&amp;quot;Kiribati&amp;quot;,&amp;quot;204&amp;quot;:&amp;quot;Comoros&amp;quot;,&amp;quot;205&amp;quot;:&amp;quot;Saint Kitts and Nevis&amp;quot;,&amp;quot;206&amp;quot;:&amp;quot;Saint Lucia&amp;quot;,&amp;quot;207&amp;quot;:&amp;quot;Marshall Islands&amp;quot;,&amp;quot;208&amp;quot;:&amp;quot;Macau&amp;quot;,&amp;quot;210&amp;quot;:&amp;quot;Martinique&amp;quot;,&amp;quot;212&amp;quot;:&amp;quot;Mauritius&amp;quot;,&amp;quot;213&amp;quot;:&amp;quot;New Caledonia&amp;quot;,&amp;quot;214&amp;quot;:&amp;quot;Norfolk Island&amp;quot;,&amp;quot;215&amp;quot;:&amp;quot;Nauru&amp;quot;,&amp;quot;217&amp;quot;:&amp;quot;Niue&amp;quot;,&amp;quot;219&amp;quot;:&amp;quot;Papua New Guinea&amp;quot;,&amp;quot;221&amp;quot;:&amp;quot;Pitcairn&amp;quot;,&amp;quot;222&amp;quot;:&amp;quot;Palau&amp;quot;,&amp;quot;223&amp;quot;:&amp;quot;Solomon Islands&amp;quot;,&amp;quot;225&amp;quot;:&amp;quot;Svalbard and Jan Mayen Islands&amp;quot;,&amp;quot;227&amp;quot;:&amp;quot;San Marino&amp;quot;,&amp;quot;232&amp;quot;:&amp;quot;Tonga&amp;quot;,&amp;quot;233&amp;quot;:&amp;quot;Timor-Leste&amp;quot;,&amp;quot;234&amp;quot;:&amp;quot;Trinidad and Tobago&amp;quot;,&amp;quot;235&amp;quot;:&amp;quot;Tuvalu&amp;quot;,&amp;quot;237&amp;quot;:&amp;quot;Saint Vincent and the Grenadines&amp;quot;,&amp;quot;238&amp;quot;:&amp;quot;Virgin Islands (U.S.)&amp;quot;,&amp;quot;239&amp;quot;:&amp;quot;Vanuatu&amp;quot;,&amp;quot;241&amp;quot;:&amp;quot;Mayotte&amp;quot;,&amp;quot;242&amp;quot;:&amp;quot;Myanmar&amp;quot;,&amp;quot;255&amp;quot;:&amp;quot;Sao Tome and Principe&amp;quot;,&amp;quot;257&amp;quot;:&amp;quot;South Georgia and the South Sandwich Islands&amp;quot;,&amp;quot;260&amp;quot;:&amp;quot;Tajikistan&amp;quot;,&amp;quot;262&amp;quot;:&amp;quot;United Kingdom&amp;quot;,&amp;quot;268&amp;quot;:&amp;quot;Costa Rica&amp;quot;,&amp;quot;270&amp;quot;:&amp;quot;Guernsey&amp;quot;,&amp;quot;272&amp;quot;:&amp;quot;North Korea&amp;quot;,&amp;quot;274&amp;quot;:&amp;quot;Afghanistan&amp;quot;,&amp;quot;275&amp;quot;:&amp;quot;Cote D&#39;Ivoire&amp;quot;,&amp;quot;276&amp;quot;:&amp;quot;Cuba&amp;quot;,&amp;quot;277&amp;quot;:&amp;quot;French Polynesia&amp;quot;,&amp;quot;278&amp;quot;:&amp;quot;Iran&amp;quot;,&amp;quot;279&amp;quot;:&amp;quot;Iraq&amp;quot;,&amp;quot;281&amp;quot;:&amp;quot;Libya&amp;quot;,&amp;quot;282&amp;quot;:&amp;quot;Palestine&amp;quot;,&amp;quot;285&amp;quot;:&amp;quot;Syria&amp;quot;,&amp;quot;286&amp;quot;:&amp;quot;Aaland Islands&amp;quot;,&amp;quot;287&amp;quot;:&amp;quot;Turks &amp;amp; Caicos Islands&amp;quot;,&amp;quot;288&amp;quot;:&amp;quot;Jersey  (Channel Islands)&amp;quot;,&amp;quot;289&amp;quot;:&amp;quot;Dominica&amp;quot;,&amp;quot;290&amp;quot;:&amp;quot;Montenegro&amp;quot;,&amp;quot;293&amp;quot;:&amp;quot;Sudan&amp;quot;,&amp;quot;294&amp;quot;:&amp;quot;Montserrat&amp;quot;,&amp;quot;298&amp;quot;:&amp;quot;Curacao&amp;quot;,&amp;quot;302&amp;quot;:&amp;quot;Sint Maarten&amp;quot;,&amp;quot;311&amp;quot;:&amp;quot;South Sudan&amp;quot;,&amp;quot;315&amp;quot;:&amp;quot;Republic of Kosovo&amp;quot;,&amp;quot;318&amp;quot;:&amp;quot;Congo, Democratic Republic of the&amp;quot;,&amp;quot;323&amp;quot;:&amp;quot;Isle of Man&amp;quot;,&amp;quot;324&amp;quot;:&amp;quot;Saint Martin&amp;quot;,&amp;quot;325&amp;quot;:&amp;quot;Bonaire, Saint Eustatius and Saba&amp;quot;,&amp;quot;326&amp;quot;:&amp;quot;Serbia&amp;quot;},&amp;quot;defaultcountry&amp;quot;:164},&amp;quot;PHONE&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;PHONE&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Phone Number&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;phone&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Phone Number&amp;quot;,&amp;quot;phoneformat&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:4},&amp;quot;BIRTHDAY&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;BIRTHDAY&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Birthday&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;birthday&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Birthday&amp;quot;,&amp;quot;dateformat&amp;quot;:&amp;quot;MM/DD&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:5},&amp;quot;COMPANY&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;COMPANY&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Company&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Company&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:6}}).find(function(f) { return f.name === fieldName &amp;amp;&amp;amp; f.type === &#39;smsphone&#39;; });
+  var isRequired = smsField ? smsField.required : false;
+  var shouldAppendCountryCode = smsNotRequiredRemoveCountryCodeEnabled ? isRequired : true;
+  
+  var phoneInput = document.querySelector(&#39;#mce-&#39; + fieldName);
+  if (phoneInput &amp;amp;&amp;amp; defaultProgram.countryCallingCode &amp;amp;&amp;amp; shouldAppendCountryCode) {
+    phoneInput.value = defaultProgram.countryCallingCode;
+  }
+  
+
+
+  displayFlag?.addEventListener(&#39;click&#39;, function(e) {
+    dropdown.focus();
+  });
+
+
+  dropdown?.addEventListener(&#39;change&#39;, function() {
+    const selectedCountry = this.value;
+    
+    if (!selectedCountry || typeof selectedCountry !== &#39;string&#39;) {
+      return;
+    }
+    
+    const flagSpan = displayFlag?.querySelector(&#39;#flag-emoji-&#39; + fieldName);
+    if (flagSpan) {
+      flagSpan.textContent = getCountryUnicodeFlag(selectedCountry);
+      flagSpan.setAttribute(&#39;aria-label&#39;, sanitizeHtml(selectedCountry) + &#39; flag&#39;);
+    }
+
+     
+    const selectedProgram = window.MC?.smsPhoneData?.programs.find(function(program) {
+      return program &amp;amp;&amp;amp; program.countryCode === selectedCountry;
+    });
+
+    var smsNotRequiredRemoveCountryCodeEnabled = true;
+    var smsField = Object.values({&amp;quot;EMAIL&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;EMAIL&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Email Address&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;email&amp;quot;,&amp;quot;required&amp;quot;:true,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Email Address&amp;quot;,&amp;quot;merge_id&amp;quot;:0,&amp;quot;help_text_enabled&amp;quot;:false,&amp;quot;enabled&amp;quot;:true,&amp;quot;order&amp;quot;:0,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;},&amp;quot;FNAME&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;FNAME&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;希望我怎麼稱呼你 &amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:true,&amp;quot;audience_field_name&amp;quot;:&amp;quot;First Name&amp;quot;,&amp;quot;merge_id&amp;quot;:1,&amp;quot;help_text_enabled&amp;quot;:false,&amp;quot;enabled&amp;quot;:true,&amp;quot;order&amp;quot;:1,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;},&amp;quot;LNAME&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;LNAME&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Last Name&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Last Name&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:2},&amp;quot;ADDRESS&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;ADDRESS&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Address&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;address&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Address&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:3,&amp;quot;countries&amp;quot;:{&amp;quot;2&amp;quot;:&amp;quot;Albania&amp;quot;,&amp;quot;3&amp;quot;:&amp;quot;Algeria&amp;quot;,&amp;quot;4&amp;quot;:&amp;quot;Andorra&amp;quot;,&amp;quot;5&amp;quot;:&amp;quot;Angola&amp;quot;,&amp;quot;6&amp;quot;:&amp;quot;Argentina&amp;quot;,&amp;quot;7&amp;quot;:&amp;quot;Armenia&amp;quot;,&amp;quot;8&amp;quot;:&amp;quot;Australia&amp;quot;,&amp;quot;9&amp;quot;:&amp;quot;Austria&amp;quot;,&amp;quot;10&amp;quot;:&amp;quot;Azerbaijan&amp;quot;,&amp;quot;11&amp;quot;:&amp;quot;Bahamas&amp;quot;,&amp;quot;12&amp;quot;:&amp;quot;Bahrain&amp;quot;,&amp;quot;13&amp;quot;:&amp;quot;Bangladesh&amp;quot;,&amp;quot;14&amp;quot;:&amp;quot;Barbados&amp;quot;,&amp;quot;15&amp;quot;:&amp;quot;Belarus&amp;quot;,&amp;quot;16&amp;quot;:&amp;quot;Belgium&amp;quot;,&amp;quot;17&amp;quot;:&amp;quot;Belize&amp;quot;,&amp;quot;18&amp;quot;:&amp;quot;Benin&amp;quot;,&amp;quot;19&amp;quot;:&amp;quot;Bermuda&amp;quot;,&amp;quot;20&amp;quot;:&amp;quot;Bhutan&amp;quot;,&amp;quot;21&amp;quot;:&amp;quot;Bolivia&amp;quot;,&amp;quot;22&amp;quot;:&amp;quot;Bosnia and Herzegovina&amp;quot;,&amp;quot;23&amp;quot;:&amp;quot;Botswana&amp;quot;,&amp;quot;24&amp;quot;:&amp;quot;Brazil&amp;quot;,&amp;quot;25&amp;quot;:&amp;quot;Bulgaria&amp;quot;,&amp;quot;26&amp;quot;:&amp;quot;Burkina Faso&amp;quot;,&amp;quot;27&amp;quot;:&amp;quot;Burundi&amp;quot;,&amp;quot;28&amp;quot;:&amp;quot;Cambodia&amp;quot;,&amp;quot;29&amp;quot;:&amp;quot;Cameroon&amp;quot;,&amp;quot;30&amp;quot;:&amp;quot;Canada&amp;quot;,&amp;quot;31&amp;quot;:&amp;quot;Cape Verde&amp;quot;,&amp;quot;32&amp;quot;:&amp;quot;Cayman Islands&amp;quot;,&amp;quot;33&amp;quot;:&amp;quot;Central African Republic&amp;quot;,&amp;quot;34&amp;quot;:&amp;quot;Chad&amp;quot;,&amp;quot;35&amp;quot;:&amp;quot;Chile&amp;quot;,&amp;quot;36&amp;quot;:&amp;quot;China&amp;quot;,&amp;quot;37&amp;quot;:&amp;quot;Colombia&amp;quot;,&amp;quot;38&amp;quot;:&amp;quot;Congo&amp;quot;,&amp;quot;40&amp;quot;:&amp;quot;Croatia&amp;quot;,&amp;quot;41&amp;quot;:&amp;quot;Cyprus&amp;quot;,&amp;quot;42&amp;quot;:&amp;quot;Czech Republic&amp;quot;,&amp;quot;43&amp;quot;:&amp;quot;Denmark&amp;quot;,&amp;quot;44&amp;quot;:&amp;quot;Djibouti&amp;quot;,&amp;quot;45&amp;quot;:&amp;quot;Ecuador&amp;quot;,&amp;quot;46&amp;quot;:&amp;quot;Egypt&amp;quot;,&amp;quot;47&amp;quot;:&amp;quot;El Salvador&amp;quot;,&amp;quot;48&amp;quot;:&amp;quot;Equatorial Guinea&amp;quot;,&amp;quot;49&amp;quot;:&amp;quot;Eritrea&amp;quot;,&amp;quot;50&amp;quot;:&amp;quot;Estonia&amp;quot;,&amp;quot;51&amp;quot;:&amp;quot;Ethiopia&amp;quot;,&amp;quot;52&amp;quot;:&amp;quot;Fiji&amp;quot;,&amp;quot;53&amp;quot;:&amp;quot;Finland&amp;quot;,&amp;quot;54&amp;quot;:&amp;quot;France&amp;quot;,&amp;quot;56&amp;quot;:&amp;quot;Gabon&amp;quot;,&amp;quot;57&amp;quot;:&amp;quot;Gambia&amp;quot;,&amp;quot;58&amp;quot;:&amp;quot;Georgia&amp;quot;,&amp;quot;59&amp;quot;:&amp;quot;Germany&amp;quot;,&amp;quot;60&amp;quot;:&amp;quot;Ghana&amp;quot;,&amp;quot;61&amp;quot;:&amp;quot;Greece&amp;quot;,&amp;quot;62&amp;quot;:&amp;quot;Guam&amp;quot;,&amp;quot;63&amp;quot;:&amp;quot;Guinea&amp;quot;,&amp;quot;64&amp;quot;:&amp;quot;Guinea-Bissau&amp;quot;,&amp;quot;65&amp;quot;:&amp;quot;Guyana&amp;quot;,&amp;quot;66&amp;quot;:&amp;quot;Honduras&amp;quot;,&amp;quot;67&amp;quot;:&amp;quot;Hong Kong&amp;quot;,&amp;quot;68&amp;quot;:&amp;quot;Hungary&amp;quot;,&amp;quot;69&amp;quot;:&amp;quot;Iceland&amp;quot;,&amp;quot;70&amp;quot;:&amp;quot;India&amp;quot;,&amp;quot;71&amp;quot;:&amp;quot;Indonesia&amp;quot;,&amp;quot;74&amp;quot;:&amp;quot;Ireland&amp;quot;,&amp;quot;75&amp;quot;:&amp;quot;Israel&amp;quot;,&amp;quot;76&amp;quot;:&amp;quot;Italy&amp;quot;,&amp;quot;78&amp;quot;:&amp;quot;Japan&amp;quot;,&amp;quot;79&amp;quot;:&amp;quot;Jordan&amp;quot;,&amp;quot;80&amp;quot;:&amp;quot;Kazakhstan&amp;quot;,&amp;quot;81&amp;quot;:&amp;quot;Kenya&amp;quot;,&amp;quot;82&amp;quot;:&amp;quot;Kuwait&amp;quot;,&amp;quot;83&amp;quot;:&amp;quot;Kyrgyzstan&amp;quot;,&amp;quot;84&amp;quot;:&amp;quot;Lao People&#39;s Democratic Republic&amp;quot;,&amp;quot;85&amp;quot;:&amp;quot;Latvia&amp;quot;,&amp;quot;86&amp;quot;:&amp;quot;Lebanon&amp;quot;,&amp;quot;87&amp;quot;:&amp;quot;Lesotho&amp;quot;,&amp;quot;88&amp;quot;:&amp;quot;Liberia&amp;quot;,&amp;quot;90&amp;quot;:&amp;quot;Liechtenstein&amp;quot;,&amp;quot;91&amp;quot;:&amp;quot;Lithuania&amp;quot;,&amp;quot;92&amp;quot;:&amp;quot;Luxembourg&amp;quot;,&amp;quot;93&amp;quot;:&amp;quot;Macedonia&amp;quot;,&amp;quot;94&amp;quot;:&amp;quot;Madagascar&amp;quot;,&amp;quot;95&amp;quot;:&amp;quot;Malawi&amp;quot;,&amp;quot;96&amp;quot;:&amp;quot;Malaysia&amp;quot;,&amp;quot;97&amp;quot;:&amp;quot;Maldives&amp;quot;,&amp;quot;98&amp;quot;:&amp;quot;Mali&amp;quot;,&amp;quot;99&amp;quot;:&amp;quot;Malta&amp;quot;,&amp;quot;100&amp;quot;:&amp;quot;Mauritania&amp;quot;,&amp;quot;101&amp;quot;:&amp;quot;Mexico&amp;quot;,&amp;quot;102&amp;quot;:&amp;quot;Moldova&amp;quot;,&amp;quot;103&amp;quot;:&amp;quot;Monaco&amp;quot;,&amp;quot;104&amp;quot;:&amp;quot;Mongolia&amp;quot;,&amp;quot;105&amp;quot;:&amp;quot;Morocco&amp;quot;,&amp;quot;106&amp;quot;:&amp;quot;Mozambique&amp;quot;,&amp;quot;107&amp;quot;:&amp;quot;Namibia&amp;quot;,&amp;quot;108&amp;quot;:&amp;quot;Nepal&amp;quot;,&amp;quot;109&amp;quot;:&amp;quot;Netherlands&amp;quot;,&amp;quot;110&amp;quot;:&amp;quot;Netherlands Antilles&amp;quot;,&amp;quot;111&amp;quot;:&amp;quot;New Zealand&amp;quot;,&amp;quot;112&amp;quot;:&amp;quot;Nicaragua&amp;quot;,&amp;quot;113&amp;quot;:&amp;quot;Niger&amp;quot;,&amp;quot;114&amp;quot;:&amp;quot;Nigeria&amp;quot;,&amp;quot;116&amp;quot;:&amp;quot;Norway&amp;quot;,&amp;quot;117&amp;quot;:&amp;quot;Oman&amp;quot;,&amp;quot;118&amp;quot;:&amp;quot;Pakistan&amp;quot;,&amp;quot;119&amp;quot;:&amp;quot;Panama&amp;quot;,&amp;quot;120&amp;quot;:&amp;quot;Paraguay&amp;quot;,&amp;quot;121&amp;quot;:&amp;quot;Peru&amp;quot;,&amp;quot;122&amp;quot;:&amp;quot;Philippines&amp;quot;,&amp;quot;123&amp;quot;:&amp;quot;Poland&amp;quot;,&amp;quot;124&amp;quot;:&amp;quot;Portugal&amp;quot;,&amp;quot;126&amp;quot;:&amp;quot;Qatar&amp;quot;,&amp;quot;127&amp;quot;:&amp;quot;Reunion&amp;quot;,&amp;quot;128&amp;quot;:&amp;quot;Romania&amp;quot;,&amp;quot;129&amp;quot;:&amp;quot;Russia&amp;quot;,&amp;quot;130&amp;quot;:&amp;quot;Rwanda&amp;quot;,&amp;quot;132&amp;quot;:&amp;quot;Samoa (Independent)&amp;quot;,&amp;quot;133&amp;quot;:&amp;quot;Saudi Arabia&amp;quot;,&amp;quot;134&amp;quot;:&amp;quot;Senegal&amp;quot;,&amp;quot;135&amp;quot;:&amp;quot;Seychelles&amp;quot;,&amp;quot;136&amp;quot;:&amp;quot;Sierra Leone&amp;quot;,&amp;quot;137&amp;quot;:&amp;quot;Singapore&amp;quot;,&amp;quot;138&amp;quot;:&amp;quot;Slovakia&amp;quot;,&amp;quot;139&amp;quot;:&amp;quot;Slovenia&amp;quot;,&amp;quot;140&amp;quot;:&amp;quot;Somalia&amp;quot;,&amp;quot;141&amp;quot;:&amp;quot;South Africa&amp;quot;,&amp;quot;142&amp;quot;:&amp;quot;South Korea&amp;quot;,&amp;quot;143&amp;quot;:&amp;quot;Spain&amp;quot;,&amp;quot;144&amp;quot;:&amp;quot;Sri Lanka&amp;quot;,&amp;quot;146&amp;quot;:&amp;quot;Suriname&amp;quot;,&amp;quot;147&amp;quot;:&amp;quot;Swaziland&amp;quot;,&amp;quot;148&amp;quot;:&amp;quot;Sweden&amp;quot;,&amp;quot;149&amp;quot;:&amp;quot;Switzerland&amp;quot;,&amp;quot;152&amp;quot;:&amp;quot;Taiwan&amp;quot;,&amp;quot;153&amp;quot;:&amp;quot;Tanzania&amp;quot;,&amp;quot;154&amp;quot;:&amp;quot;Thailand&amp;quot;,&amp;quot;155&amp;quot;:&amp;quot;Togo&amp;quot;,&amp;quot;156&amp;quot;:&amp;quot;Tunisia&amp;quot;,&amp;quot;157&amp;quot;:&amp;quot;Turkiye&amp;quot;,&amp;quot;158&amp;quot;:&amp;quot;Turkmenistan&amp;quot;,&amp;quot;159&amp;quot;:&amp;quot;Uganda&amp;quot;,&amp;quot;161&amp;quot;:&amp;quot;Ukraine&amp;quot;,&amp;quot;162&amp;quot;:&amp;quot;United Arab Emirates&amp;quot;,&amp;quot;163&amp;quot;:&amp;quot;Uruguay&amp;quot;,&amp;quot;164&amp;quot;:&amp;quot;USA&amp;quot;,&amp;quot;165&amp;quot;:&amp;quot;Uzbekistan&amp;quot;,&amp;quot;166&amp;quot;:&amp;quot;Vatican City State (Holy See)&amp;quot;,&amp;quot;167&amp;quot;:&amp;quot;Venezuela&amp;quot;,&amp;quot;168&amp;quot;:&amp;quot;Vietnam&amp;quot;,&amp;quot;169&amp;quot;:&amp;quot;Virgin Islands (British)&amp;quot;,&amp;quot;170&amp;quot;:&amp;quot;Yemen&amp;quot;,&amp;quot;173&amp;quot;:&amp;quot;Zambia&amp;quot;,&amp;quot;174&amp;quot;:&amp;quot;Zimbabwe&amp;quot;,&amp;quot;175&amp;quot;:&amp;quot;Antigua And Barbuda&amp;quot;,&amp;quot;176&amp;quot;:&amp;quot;Anguilla&amp;quot;,&amp;quot;178&amp;quot;:&amp;quot;American Samoa&amp;quot;,&amp;quot;179&amp;quot;:&amp;quot;Aruba&amp;quot;,&amp;quot;180&amp;quot;:&amp;quot;Brunei Darussalam&amp;quot;,&amp;quot;181&amp;quot;:&amp;quot;Bouvet Island&amp;quot;,&amp;quot;183&amp;quot;:&amp;quot;Cook Islands&amp;quot;,&amp;quot;185&amp;quot;:&amp;quot;Christmas Island&amp;quot;,&amp;quot;187&amp;quot;:&amp;quot;Dominican Republic&amp;quot;,&amp;quot;188&amp;quot;:&amp;quot;Western Sahara&amp;quot;,&amp;quot;189&amp;quot;:&amp;quot;Falkland Islands&amp;quot;,&amp;quot;191&amp;quot;:&amp;quot;Faroe Islands&amp;quot;,&amp;quot;192&amp;quot;:&amp;quot;Grenada&amp;quot;,&amp;quot;193&amp;quot;:&amp;quot;French Guiana&amp;quot;,&amp;quot;194&amp;quot;:&amp;quot;Gibraltar&amp;quot;,&amp;quot;195&amp;quot;:&amp;quot;Greenland&amp;quot;,&amp;quot;196&amp;quot;:&amp;quot;Guadeloupe&amp;quot;,&amp;quot;198&amp;quot;:&amp;quot;Guatemala&amp;quot;,&amp;quot;200&amp;quot;:&amp;quot;Haiti&amp;quot;,&amp;quot;202&amp;quot;:&amp;quot;Jamaica&amp;quot;,&amp;quot;203&amp;quot;:&amp;quot;Kiribati&amp;quot;,&amp;quot;204&amp;quot;:&amp;quot;Comoros&amp;quot;,&amp;quot;205&amp;quot;:&amp;quot;Saint Kitts and Nevis&amp;quot;,&amp;quot;206&amp;quot;:&amp;quot;Saint Lucia&amp;quot;,&amp;quot;207&amp;quot;:&amp;quot;Marshall Islands&amp;quot;,&amp;quot;208&amp;quot;:&amp;quot;Macau&amp;quot;,&amp;quot;210&amp;quot;:&amp;quot;Martinique&amp;quot;,&amp;quot;212&amp;quot;:&amp;quot;Mauritius&amp;quot;,&amp;quot;213&amp;quot;:&amp;quot;New Caledonia&amp;quot;,&amp;quot;214&amp;quot;:&amp;quot;Norfolk Island&amp;quot;,&amp;quot;215&amp;quot;:&amp;quot;Nauru&amp;quot;,&amp;quot;217&amp;quot;:&amp;quot;Niue&amp;quot;,&amp;quot;219&amp;quot;:&amp;quot;Papua New Guinea&amp;quot;,&amp;quot;221&amp;quot;:&amp;quot;Pitcairn&amp;quot;,&amp;quot;222&amp;quot;:&amp;quot;Palau&amp;quot;,&amp;quot;223&amp;quot;:&amp;quot;Solomon Islands&amp;quot;,&amp;quot;225&amp;quot;:&amp;quot;Svalbard and Jan Mayen Islands&amp;quot;,&amp;quot;227&amp;quot;:&amp;quot;San Marino&amp;quot;,&amp;quot;232&amp;quot;:&amp;quot;Tonga&amp;quot;,&amp;quot;233&amp;quot;:&amp;quot;Timor-Leste&amp;quot;,&amp;quot;234&amp;quot;:&amp;quot;Trinidad and Tobago&amp;quot;,&amp;quot;235&amp;quot;:&amp;quot;Tuvalu&amp;quot;,&amp;quot;237&amp;quot;:&amp;quot;Saint Vincent and the Grenadines&amp;quot;,&amp;quot;238&amp;quot;:&amp;quot;Virgin Islands (U.S.)&amp;quot;,&amp;quot;239&amp;quot;:&amp;quot;Vanuatu&amp;quot;,&amp;quot;241&amp;quot;:&amp;quot;Mayotte&amp;quot;,&amp;quot;242&amp;quot;:&amp;quot;Myanmar&amp;quot;,&amp;quot;255&amp;quot;:&amp;quot;Sao Tome and Principe&amp;quot;,&amp;quot;257&amp;quot;:&amp;quot;South Georgia and the South Sandwich Islands&amp;quot;,&amp;quot;260&amp;quot;:&amp;quot;Tajikistan&amp;quot;,&amp;quot;262&amp;quot;:&amp;quot;United Kingdom&amp;quot;,&amp;quot;268&amp;quot;:&amp;quot;Costa Rica&amp;quot;,&amp;quot;270&amp;quot;:&amp;quot;Guernsey&amp;quot;,&amp;quot;272&amp;quot;:&amp;quot;North Korea&amp;quot;,&amp;quot;274&amp;quot;:&amp;quot;Afghanistan&amp;quot;,&amp;quot;275&amp;quot;:&amp;quot;Cote D&#39;Ivoire&amp;quot;,&amp;quot;276&amp;quot;:&amp;quot;Cuba&amp;quot;,&amp;quot;277&amp;quot;:&amp;quot;French Polynesia&amp;quot;,&amp;quot;278&amp;quot;:&amp;quot;Iran&amp;quot;,&amp;quot;279&amp;quot;:&amp;quot;Iraq&amp;quot;,&amp;quot;281&amp;quot;:&amp;quot;Libya&amp;quot;,&amp;quot;282&amp;quot;:&amp;quot;Palestine&amp;quot;,&amp;quot;285&amp;quot;:&amp;quot;Syria&amp;quot;,&amp;quot;286&amp;quot;:&amp;quot;Aaland Islands&amp;quot;,&amp;quot;287&amp;quot;:&amp;quot;Turks &amp;amp; Caicos Islands&amp;quot;,&amp;quot;288&amp;quot;:&amp;quot;Jersey  (Channel Islands)&amp;quot;,&amp;quot;289&amp;quot;:&amp;quot;Dominica&amp;quot;,&amp;quot;290&amp;quot;:&amp;quot;Montenegro&amp;quot;,&amp;quot;293&amp;quot;:&amp;quot;Sudan&amp;quot;,&amp;quot;294&amp;quot;:&amp;quot;Montserrat&amp;quot;,&amp;quot;298&amp;quot;:&amp;quot;Curacao&amp;quot;,&amp;quot;302&amp;quot;:&amp;quot;Sint Maarten&amp;quot;,&amp;quot;311&amp;quot;:&amp;quot;South Sudan&amp;quot;,&amp;quot;315&amp;quot;:&amp;quot;Republic of Kosovo&amp;quot;,&amp;quot;318&amp;quot;:&amp;quot;Congo, Democratic Republic of the&amp;quot;,&amp;quot;323&amp;quot;:&amp;quot;Isle of Man&amp;quot;,&amp;quot;324&amp;quot;:&amp;quot;Saint Martin&amp;quot;,&amp;quot;325&amp;quot;:&amp;quot;Bonaire, Saint Eustatius and Saba&amp;quot;,&amp;quot;326&amp;quot;:&amp;quot;Serbia&amp;quot;},&amp;quot;defaultcountry&amp;quot;:164},&amp;quot;PHONE&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;PHONE&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Phone Number&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;phone&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Phone Number&amp;quot;,&amp;quot;phoneformat&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:4},&amp;quot;BIRTHDAY&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;BIRTHDAY&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Birthday&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;birthday&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Birthday&amp;quot;,&amp;quot;dateformat&amp;quot;:&amp;quot;MM/DD&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:5},&amp;quot;COMPANY&amp;quot;:{&amp;quot;name&amp;quot;:&amp;quot;COMPANY&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Company&amp;quot;,&amp;quot;helper_text&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;required&amp;quot;:false,&amp;quot;audience_field_name&amp;quot;:&amp;quot;Company&amp;quot;,&amp;quot;enabled&amp;quot;:false,&amp;quot;order&amp;quot;:null,&amp;quot;field_type&amp;quot;:&amp;quot;merge&amp;quot;,&amp;quot;merge_id&amp;quot;:6}}).find(function(f) { return f.name === fieldName &amp;amp;&amp;amp; f.type === &#39;smsphone&#39;; });
+    var isRequired = smsField ? smsField.required : false;
+    var shouldAppendCountryCode = smsNotRequiredRemoveCountryCodeEnabled ? isRequired : true;
+    
+    var phoneInput = document.querySelector(&#39;#mce-&#39; + fieldName);
+    if (phoneInput &amp;amp;&amp;amp; selectedProgram.countryCallingCode &amp;amp;&amp;amp; shouldAppendCountryCode) {
+      phoneInput.value = selectedProgram.countryCallingCode;
+    }
+    
+    
+    updateSmsLegalText(selectedCountry, fieldName);
+    updatePlaceholder(selectedCountry, fieldName);
+    updateCountryCodeInstruction(selectedCountry, fieldName);
+  });
+}
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const smsPhoneFields = document.querySelectorAll(&#39;[id^=&amp;quot;country-select-&amp;quot;]&#39;);
+  
+  smsPhoneFields.forEach(function(dropdown) {
+    const fieldName = dropdown?.id.replace(&#39;country-select-&#39;, &#39;&#39;);
+    initializeSmsPhoneDropdown(fieldName);
+  });
+});
+&amp;lt;/script&amp;gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        </item>
+        <item>
         <title>使用</title>
         <link>https://scientiatw.live/use/</link>
         <pubDate>Fri, 28 Nov 2025 20:04:00 &#43;0800</pubDate>
@@ -858,570 +1336,6 @@ Product Structure&lt;/li&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-</description>
-        </item>
-        <item>
-        <title>訂閱電子報</title>
-        <link>https://scientiatw.live/newsletter/</link>
-        <pubDate>Wed, 15 Oct 2025 00:00:00 &#43;0000</pubDate>
-        <author>黃宏勝</author>
-        <guid>https://scientiatw.live/newsletter/</guid>
-        <description>&lt;div id=&#34;mc_embed_shell&#34;&gt;
-      &lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/classic-061523.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
-  &lt;style type=&#34;text/css&#34;&gt;
-        /* #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;} */
-	#mc_embed_signup {
-      	background: #ffffff;
-      	color: #333333;
-      	clear: left;
-      	font: 14px Helvetica, Arial, sans-serif;
-      	width: 600px;
-      	max-width: 100%;
-      	border-radius: 8px;
-     	padding: 20px;
-    	}
-        /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-	/* Dark mode support */
-    @media (prefers-color-scheme: dark) {
-      #mc_embed_signup {
-        background: #2d2d2d;
-        color: #e0e0e0;
-      }
-&lt;pre&gt;&lt;code&gt;  #mc_embed_signup h2 {
-    color: #ffffff;
-  }
-
-  #mc_embed_signup input[type=&amp;quot;email&amp;quot;],
-  #mc_embed_signup input[type=&amp;quot;text&amp;quot;] {
-    background-color: #3a3a3a;
-    color: #ffffff;
-    border: 1px solid #555;
-  }
-
-  #mc_embed_signup input[type=&amp;quot;email&amp;quot;]:focus,
-  #mc_embed_signup input[type=&amp;quot;text&amp;quot;]:focus {
-    border-color: #777;
-    background-color: #404040;
-  }
-
-  #mc_embed_signup label {
-    color: #e0e0e0;
-  }
-
-  #mc_embed_signup .asterisk {
-    color: #ff6b6b;
-  }
-
-  #mc_embed_signup .button {
-    background-color: #0066cc;
-    color: #ffffff;
-  }
-
-  #mc_embed_signup .button:hover {
-    background-color: #0052a3;
-  }
-
-  #mc_embed_signup a {
-    color: #66b3ff;
-  }
-}
-
-/* Force dark mode class (if your blog uses a class-based dark mode) */
-.dark-mode #mc_embed_signup,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup {
-  background: #2d2d2d;
-  color: #e0e0e0;
-}
-
-.dark-mode #mc_embed_signup h2,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup h2 {
-  color: #ffffff;
-}
-
-.dark-mode #mc_embed_signup input[type=&amp;quot;email&amp;quot;],
-.dark-mode #mc_embed_signup input[type=&amp;quot;text&amp;quot;],
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup input[type=&amp;quot;email&amp;quot;],
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup input[type=&amp;quot;text&amp;quot;] {
-  background-color: #3a3a3a;
-  color: #ffffff;
-  border: 1px solid #555;
-}
-
-.dark-mode #mc_embed_signup input[type=&amp;quot;email&amp;quot;]:focus,
-.dark-mode #mc_embed_signup input[type=&amp;quot;text&amp;quot;]:focus,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup input[type=&amp;quot;email&amp;quot;]:focus,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup input[type=&amp;quot;text&amp;quot;]:focus {
-  border-color: #777;
-  background-color: #404040;
-}
-
-.dark-mode #mc_embed_signup label,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup label {
-  color: #e0e0e0;
-}
-
-.dark-mode #mc_embed_signup .asterisk,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup .asterisk {
-  color: #ff6b6b;
-}
-
-.dark-mode #mc_embed_signup .button,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup .button {
-  background-color: #0066cc;
-  color: #ffffff;
-}
-
-.dark-mode #mc_embed_signup .button:hover,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup .button:hover {
-  background-color: #0052a3;
-}
-
-.dark-mode #mc_embed_signup a,
-[data-theme=&amp;quot;dark&amp;quot;] #mc_embed_signup a {
-  color: #66b3ff;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;/style&gt;&lt;/p&gt;
-&lt;div id=&#34;mc_embed_signup&#34;&gt;
-    &lt;form action=&#34;https://live.us12.list-manage.com/subscribe/post?u=1cb9611c999051fe721263138&amp;amp;id=4574579802&amp;amp;f_id=00f29fe0f0&#34; method=&#34;post&#34; id=&#34;mc-embedded-subscribe-form&#34; name=&#34;mc-embedded-subscribe-form&#34; class=&#34;validate&#34; target=&#34;_blank&#34;&gt;
-        &lt;div id=&#34;mc_embed_signup_scroll&#34;&gt;
-            &lt;div class=&#34;indicates-required&#34;&gt;&lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt; 必填 &lt;/div&gt;
-            &lt;div class=&#34;mc-field-group&#34;&gt;&lt;label for=&#34;mce-EMAIL&#34;&gt; 電子郵件 &lt;span class=&#34;asterisk&#34;&gt;*&lt;/span&gt;&lt;/label&gt;&lt;input type=&#34;email&#34; name=&#34;EMAIL&#34; class=&#34;required email&#34; id=&#34;mce-EMAIL&#34; required=&#34;&#34; value=&#34;&#34;&gt;&lt;/div&gt;
-	    &lt;div hidden=&#34;&#34;&gt;&lt;input type=&#34;hidden&#34; name=&#34;tags&#34; value=&#34;9154059&#34;&gt;&lt;/div&gt;
-        &lt;div id=&#34;mce-responses&#34; class=&#34;clear foot&#34;&gt;
-            &lt;div class=&#34;response&#34; id=&#34;mce-error-response&#34; style=&#34;display: none;&#34;&gt;&lt;/div&gt;
-            &lt;div class=&#34;response&#34; id=&#34;mce-success-response&#34; style=&#34;display: none;&#34;&gt;&lt;/div&gt;
-        &lt;/div&gt;
-    &lt;div aria-hidden=&#34;true&#34; style=&#34;position: absolute; left: -5000px;&#34;&gt;
-        /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
-        &lt;input type=&#34;text&#34; name=&#34;b_1cb9611c999051fe721263138_4574579802&#34; tabindex=&#34;-1&#34; value=&#34;&#34;&gt;
-    &lt;/div&gt;
-        &lt;div class=&#34;optionalParent&#34;&gt;
-            &lt;div class=&#34;clear foot&#34;&gt;
-                &lt;input type=&#34;submit&#34; name=&#34;subscribe&#34; id=&#34;mc-embedded-subscribe&#34; class=&#34;button&#34; value=&#34;訂閱&#34;&gt;
-                &lt;p style=&#34;margin: 0px auto;&#34;&gt;&lt;a href=&#34;http://eepurl.com/jpAXKs&#34; title=&#34;Mailchimp - email marketing made easy and fun&#34;&gt;&lt;span style=&#34;display: inline-block; background-color: black; border-radius: 4px;&#34;&gt;&lt;img class=&#34;refferal_badge&#34; src=&#34;https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-light.svg&#34; alt=&#34;Intuit Mailchimp&#34; style=&#34;width: 220px; height: 40px; display: flex; padding: 2px 0px; justify-content: center; align-items: center;&#34;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/form&gt;
-&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js&#34;&gt;&lt;/script&gt;&lt;script type=&#34;text/javascript&#34;&gt;(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]=&#39;EMAIL&#39;;ftypes[0]=&#39;email&#39;;fnames[1]=&#39;FNAME&#39;;ftypes[1]=&#39;text&#39;;fnames[2]=&#39;LNAME&#39;;ftypes[2]=&#39;text&#39;;fnames[3]=&#39;ADDRESS&#39;;ftypes[3]=&#39;address&#39;;fnames[4]=&#39;PHONE&#39;;ftypes[4]=&#39;phone&#39;;fnames[5]=&#39;BIRTHDAY&#39;;ftypes[5]=&#39;birthday&#39;;fnames[6]=&#39;COMPANY&#39;;ftypes[6]=&#39;text&#39;;}(jQuery));var $mcj = jQuery.noConflict(true);
-    // SMS Phone Multi-Country Functionality
-    if(!window.MC) {
-      window.MC = {};
-    }
-    window.MC.smsPhoneData = {
-      defaultCountryCode: &#39;TW&#39;,
-      programs: [],
-      smsProgramDataCountryNames: []
-    };
-&lt;pre&gt;&lt;code&gt;function getCountryUnicodeFlag(countryCode) {
-   return countryCode.toUpperCase().replace(/./g, (char) =&amp;gt; String.fromCodePoint(char.charCodeAt(0) + 127397))
-};
-
-// HTML sanitization function to prevent XSS
-function sanitizeHtml(str) {
-  if (typeof str !== &#39;string&#39;) return &#39;&#39;;
-  return str
-    .replace(/&amp;amp;/g, &#39;&amp;amp;amp;&#39;)
-    .replace(/&amp;lt;/g, &#39;&amp;amp;lt;&#39;)
-    .replace(/&amp;gt;/g, &#39;&amp;amp;gt;&#39;)
-    .replace(/&amp;quot;/g, &#39;&amp;amp;quot;&#39;)
-    .replace(/&#39;/g, &#39;&amp;amp;#x27;&#39;)
-    .replace(/\//g, &#39;&amp;amp;#x2F;&#39;);
-}
-
-// URL sanitization function to prevent javascript: and data: URLs
-function sanitizeUrl(url) {
-  if (typeof url !== &#39;string&#39;) return &#39;&#39;;
-  const trimmedUrl = url.trim().toLowerCase();
-  if (trimmedUrl.startsWith(&#39;javascript:&#39;) || trimmedUrl.startsWith(&#39;data:&#39;) || trimmedUrl.startsWith(&#39;vbscript:&#39;)) {
-    return &#39;#&#39;;
-  }
-  return url;
-}
-
-const getBrowserLanguage = () =&amp;gt; {
-  if (!window?.navigator?.language?.split(&#39;-&#39;)[1]) {
-    return window?.navigator?.language?.toUpperCase();
-  }
-  return window?.navigator?.language?.split(&#39;-&#39;)[1];
-};
-
-function getDefaultCountryProgram(defaultCountryCode, smsProgramData) {
-  if (!smsProgramData || smsProgramData.length === 0) {
-    return null;
-  }
-
-  const browserLanguage = getBrowserLanguage();
-
-  if (browserLanguage) {
-    const foundProgram = smsProgramData.find(
-      (program) =&amp;gt; program?.countryCode === browserLanguage,
-    );
-    if (foundProgram) {
-      return foundProgram;
-    }
-  }
-
-  if (defaultCountryCode) {
-    const foundProgram = smsProgramData.find(
-      (program) =&amp;gt; program?.countryCode === defaultCountryCode,
-    );
-    if (foundProgram) {
-      return foundProgram;
-    }
-  }
-
-  return smsProgramData[0];
-}
-
-function updateSmsLegalText(countryCode, fieldName) {
-  if (!countryCode || !fieldName) {
-    return;
-  }
-  
-  const programs = window?.MC?.smsPhoneData?.programs;
-  if (!programs || !Array.isArray(programs)) {
-    return;
-  }
-  
-  const program = programs.find(program =&amp;gt; program?.countryCode === countryCode);
-  if (!program || !program.requiredTemplate) {
-    return;
-  }
-  
-  const legalTextElement = document.querySelector(&#39;#legal-text-&#39; + fieldName);
-  if (!legalTextElement) {
-    return;
-  }
-  
-  // Remove HTML tags and clean up the text
-  const divRegex = new RegExp(&#39;&amp;lt;/?[div][^&amp;gt;]*&amp;gt;&#39;, &#39;gi&#39;);
-  const fullAnchorRegex = new RegExp(&#39;&amp;lt;a.*?&amp;lt;/a&amp;gt;&#39;, &#39;g&#39;);
-  const anchorRegex = new RegExp(&#39;&amp;lt;a href=&amp;quot;(.*?)&amp;quot; target=&amp;quot;(.*?)&amp;quot;&amp;gt;(.*?)&amp;lt;/a&amp;gt;&#39;);
-  
-  const requiredLegalText = program.requiredTemplate
-    .replace(divRegex, &#39;&#39;)
-    .replace(fullAnchorRegex, &#39;&#39;)
-    .slice(0, -1);
-  
-  const anchorMatches = program.requiredTemplate.match(anchorRegex);
-  
-  if (anchorMatches &amp;amp;&amp;amp; anchorMatches.length &amp;gt;= 4) {
-    // Create link element safely using DOM methods instead of innerHTML
-    const linkElement = document.createElement(&#39;a&#39;);
-    linkElement.href = sanitizeUrl(anchorMatches[1]);
-    linkElement.target = sanitizeHtml(anchorMatches[2]);
-    linkElement.textContent = sanitizeHtml(anchorMatches[3]);
-    
-    legalTextElement.textContent = requiredLegalText + &#39; &#39;;
-    legalTextElement.appendChild(linkElement);
-    legalTextElement.appendChild(document.createTextNode(&#39;.&#39;));
-  } else {
-    legalTextElement.textContent = requiredLegalText + &#39;.&#39;;
-  }
-}
-
-function generateDropdownOptions(smsProgramData) {
-  if (!smsProgramData || smsProgramData.length === 0) {
-    return &#39;&#39;;
-  }
-  
-  return smsProgramData.map(program =&amp;gt; {
-    const flag = getCountryUnicodeFlag(program.countryCode);
-    const countryName = getCountryName(program.countryCode);
-    const callingCode = program.countryCallingCode || &#39;&#39;;
-    // Sanitize all values to prevent XSS
-    const sanitizedCountryCode = sanitizeHtml(program.countryCode || &#39;&#39;);
-    const sanitizedCountryName = sanitizeHtml(countryName || &#39;&#39;);
-    const sanitizedCallingCode = sanitizeHtml(callingCode || &#39;&#39;);
-    return &#39;&amp;lt;option value=&amp;quot;&#39; + sanitizedCountryCode + &#39;&amp;quot;&amp;gt;&#39; + sanitizedCountryName + &#39; &#39; + sanitizedCallingCode + &#39;&amp;lt;/option&amp;gt;&#39;;
-  }).join(&#39;&#39;);
-}
-
-function getCountryName(countryCode) {
-  if (window.MC?.smsPhoneData?.smsProgramDataCountryNames &amp;amp;&amp;amp; Array.isArray(window.MC.smsPhoneData.smsProgramDataCountryNames)) {
-    for (let i = 0; i &amp;lt; window.MC.smsPhoneData.smsProgramDataCountryNames.length; i++) {
-      if (window.MC.smsPhoneData.smsProgramDataCountryNames[i].code === countryCode) {
-        return window.MC.smsPhoneData.smsProgramDataCountryNames[i].name;
-      }
-    }
-  }
-  return countryCode;
-}
-
-function getDefaultPlaceholder(countryCode) {
-  if (!countryCode || typeof countryCode !== &#39;string&#39;) {
-    return &#39;+1 000 000 0000&#39;; // Default US placeholder
-  }
-  
-  const mockPlaceholders = [
-    {
-  countryCode: &#39;US&#39;,
-  placeholder: &#39;+1 000 000 0000&#39;,
-  helpText: &#39;Include the US country code +1 before the phone number&#39;,
-},
-{
-  countryCode: &#39;GB&#39;,
-  placeholder: &#39;+44 0000 000000&#39;,
-  helpText: &#39;Include the GB country code +44 before the phone number&#39;,
-},
-{
-  countryCode: &#39;CA&#39;,
-  placeholder: &#39;+1 000 000 0000&#39;,
-  helpText: &#39;Include the CA country code +1 before the phone number&#39;,
-},
-{
-  countryCode: &#39;AU&#39;,
-  placeholder: &#39;+61 000 000 000&#39;,
-  helpText: &#39;Include the AU country code +61 before the phone number&#39;,
-},
-{
-  countryCode: &#39;DE&#39;,
-  placeholder: &#39;+49 000 0000000&#39;,
-  helpText: &#39;Fügen Sie vor der Telefonnummer die DE-Ländervorwahl +49 ein&#39;,
-},
-{
-  countryCode: &#39;FR&#39;,
-  placeholder: &#39;+33 0 00 00 00 00&#39;,
-  helpText: &#39;Incluez le code pays FR +33 avant le numéro de téléphone&#39;,
-},
-{
-  countryCode: &#39;ES&#39;,
-  placeholder: &#39;+34 000 000 000&#39;,
-  helpText: &#39;Incluya el código de país ES +34 antes del número de teléfono&#39;,
-},
-{
-  countryCode: &#39;NL&#39;,
-  placeholder: &#39;+31 0 00000000&#39;,
-  helpText: &#39;Voeg de NL-landcode +31 toe vóór het telefoonnummer&#39;,
-},
-{
-  countryCode: &#39;BE&#39;,
-  placeholder: &#39;+32 000 00 00 00&#39;,
-  helpText: &#39;Incluez le code pays BE +32 avant le numéro de téléphone&#39;,
-},
-{
-  countryCode: &#39;CH&#39;,
-  placeholder: &#39;+41 00 000 00 00&#39;,
-  helpText: &#39;Fügen Sie vor der Telefonnummer die CH-Ländervorwahl +41 ein&#39;,
-},
-{
-  countryCode: &#39;AT&#39;,
-  placeholder: &#39;+43 000 000 0000&#39;,
-  helpText: &#39;Fügen Sie vor der Telefonnummer die AT-Ländervorwahl +43 ein&#39;,
-},
-{
-  countryCode: &#39;IE&#39;,
-  placeholder: &#39;+353 00 000 0000&#39;,
-  helpText: &#39;Include the IE country code +353 before the phone number&#39;,
-},
-{
-  countryCode: &#39;IT&#39;,
-  placeholder: &#39;+39 000 000 0000&#39;,
-  helpText:
-    &#39;Includere il prefisso internazionale IT +39 prima del numero di telefono&#39;,
-},
-  ];
-
-  const selectedPlaceholder = mockPlaceholders.find(function(item) {
-    return item &amp;amp;&amp;amp; item.countryCode === countryCode;
-  });
-  
-  return selectedPlaceholder ? selectedPlaceholder.placeholder : mockPlaceholders[0].placeholder;
-}
-
-function updatePlaceholder(countryCode, fieldName) {
-  if (!countryCode || !fieldName) {
-    return;
-  }
-  
-  const phoneInput = document.querySelector(&#39;#mce-&#39; + fieldName);
-  if (!phoneInput) {
-    return;
-  }
-  
-  const placeholder = getDefaultPlaceholder(countryCode);
-  if (placeholder) {
-    phoneInput.placeholder = placeholder;
-  }
-}
-
-function updateCountryCodeInstruction(countryCode, fieldName) {
-  updatePlaceholder(countryCode, fieldName);
-  updateHelpTextCountryCode(countryCode, fieldName);
-}
-
-function getDefaultHelpText(countryCode) {
-  const mockPlaceholders = [
-    {
-      countryCode: &#39;US&#39;,
-      placeholder: &#39;+1 000 000 0000&#39;,
-      helpText: &#39;Include the US country code +1 before the phone number&#39;,
-    },
-    {
-      countryCode: &#39;GB&#39;,
-      placeholder: &#39;+44 0000 000000&#39;,
-      helpText: &#39;Include the GB country code +44 before the phone number&#39;,
-    },
-    {
-      countryCode: &#39;CA&#39;,
-      placeholder: &#39;+1 000 000 0000&#39;,
-      helpText: &#39;Include the CA country code +1 before the phone number&#39;,
-    },
-    {
-      countryCode: &#39;AU&#39;,
-      placeholder: &#39;+61 000 000 000&#39;,
-      helpText: &#39;Include the AU country code +61 before the phone number&#39;,
-    },
-    {
-      countryCode: &#39;DE&#39;,
-      placeholder: &#39;+49 000 0000000&#39;,
-      helpText: &#39;Fügen Sie vor der Telefonnummer die DE-Ländervorwahl +49 ein&#39;,
-    },
-    {
-      countryCode: &#39;FR&#39;,
-      placeholder: &#39;+33 0 00 00 00 00&#39;,
-      helpText: &#39;Incluez le code pays FR +33 avant le numéro de téléphone&#39;,
-    },
-    {
-      countryCode: &#39;ES&#39;,
-      placeholder: &#39;+34 000 000 000&#39;,
-      helpText: &#39;Incluya el código de país ES +34 antes del número de teléfono&#39;,
-    },
-    {
-      countryCode: &#39;NL&#39;,
-      placeholder: &#39;+31 0 00000000&#39;,
-      helpText: &#39;Voeg de NL-landcode +31 toe vóór het telefoonnummer&#39;,
-    },
-    {
-      countryCode: &#39;BE&#39;,
-      placeholder: &#39;+32 000 00 00 00&#39;,
-      helpText: &#39;Incluez le code pays BE +32 avant le numéro de téléphone&#39;,
-    },
-    {
-      countryCode: &#39;CH&#39;,
-      placeholder: &#39;+41 00 000 00 00&#39;,
-      helpText: &#39;Fügen Sie vor der Telefonnummer die CH-Ländervorwahl +41 ein&#39;,
-    },
-    {
-      countryCode: &#39;AT&#39;,
-      placeholder: &#39;+43 000 000 0000&#39;,
-      helpText: &#39;Fügen Sie vor der Telefonnummer die AT-Ländervorwahl +43 ein&#39;,
-    },
-    {
-      countryCode: &#39;IE&#39;,
-      placeholder: &#39;+353 00 000 0000&#39;,
-      helpText: &#39;Include the IE country code +353 before the phone number&#39;,
-    },
-    {
-      countryCode: &#39;IT&#39;,
-      placeholder: &#39;+39 000 000 0000&#39;,
-      helpText: &#39;Includere il prefisso internazionale IT +39 prima del numero di telefono&#39;,
-    },
-  ];
-  
-  if (!countryCode || typeof countryCode !== &#39;string&#39;) {
-    return mockPlaceholders[0].helpText;
-  }
-  
-  const selectedHelpText = mockPlaceholders.find(function(item) {
-      return item &amp;amp;&amp;amp; item.countryCode === countryCode;
-    });
-    
-    return selectedHelpText ? selectedHelpText.helpText : mockPlaceholders[0].helpText;
-}
-
-function setDefaultHelpText(countryCode) {
-  const helpTextSpan = document.querySelector(&#39;#help-text&#39;);
-  if (!helpTextSpan) {
-    return;
-  }
-
-    const helpText = getDefaultHelpText(countryCode); helpTextSpan.textContent = helpText;
-}
-
-function updateHelpTextCountryCode(countryCode, fieldName) {
-  if (!countryCode || !fieldName) {
-    return;
-  }
-  
-  setDefaultHelpText(countryCode);
-}
-
-function initializeSmsPhoneDropdown(fieldName) {
-  if (!fieldName || typeof fieldName !== &#39;string&#39;) {
-    return;
-  }
-  
-  const dropdown = document.querySelector(&#39;#country-select-&#39; + fieldName);
-  const displayFlag = document.querySelector(&#39;#flag-display-&#39; + fieldName);
-  
-  if (!dropdown || !displayFlag) {
-    return;
-  }
-
-  const smsPhoneData = window.MC?.smsPhoneData;
-  if (smsPhoneData &amp;amp;&amp;amp; smsPhoneData.programs &amp;amp;&amp;amp; Array.isArray(smsPhoneData.programs)) {
-    dropdown.innerHTML = generateDropdownOptions(smsPhoneData.programs);
-  }
-
-  const defaultProgram = getDefaultCountryProgram(smsPhoneData?.defaultCountryCode, smsPhoneData?.programs);
-  if (defaultProgram &amp;amp;&amp;amp; defaultProgram.countryCode) {
-    dropdown.value = defaultProgram.countryCode;
-    
-    const flagSpan = displayFlag?.querySelector(&#39;#flag-emoji-&#39; + fieldName);
-    if (flagSpan) {
-      flagSpan.textContent = getCountryUnicodeFlag(defaultProgram.countryCode);
-      flagSpan.setAttribute(&#39;aria-label&#39;, sanitizeHtml(defaultProgram.countryCode) + &#39; flag&#39;);
-    }
-    
-    updateSmsLegalText(defaultProgram.countryCode, fieldName);
-    updatePlaceholder(defaultProgram.countryCode, fieldName);
-    updateCountryCodeInstruction(defaultProgram.countryCode, fieldName);
-  }
-
- 
-
-
-  displayFlag?.addEventListener(&#39;click&#39;, function(e) {
-    dropdown.focus();
-  });
-
-
-  dropdown?.addEventListener(&#39;change&#39;, function() {
-    const selectedCountry = this.value;
-    
-    if (!selectedCountry || typeof selectedCountry !== &#39;string&#39;) {
-      return;
-    }
-    
-    const flagSpan = displayFlag?.querySelector(&#39;#flag-emoji-&#39; + fieldName);
-    if (flagSpan) {
-      flagSpan.textContent = getCountryUnicodeFlag(selectedCountry);
-      flagSpan.setAttribute(&#39;aria-label&#39;, sanitizeHtml(selectedCountry) + &#39; flag&#39;);
-    }
-
-     
-    
-    updateSmsLegalText(selectedCountry, fieldName);
-    updatePlaceholder(selectedCountry, fieldName);
-    updateCountryCodeInstruction(selectedCountry, fieldName);
-  });
-}
-
-document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
-  const smsPhoneFields = document.querySelectorAll(&#39;[id^=&amp;quot;country-select-&amp;quot;]&#39;);
-  
-  smsPhoneFields.forEach(function(dropdown) {
-    const fieldName = dropdown?.id.replace(&#39;country-select-&#39;, &#39;&#39;);
-    initializeSmsPhoneDropdown(fieldName);
-  });
-});
-&amp;lt;/script&amp;gt;&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
 </description>
         </item>
         <item>
