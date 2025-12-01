@@ -44,7 +44,7 @@ languages:
         menu:
             social:
                 - identifier: website
-                  name: Atoms of Cybersecurity
+                  name: ZhiAn — Knowledge is Power in Cybersecurity
                   url: https://scientia-potentia-est.com/en/
                   params:
                       icon: brand-wordpress
