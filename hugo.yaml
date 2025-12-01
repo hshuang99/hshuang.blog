@@ -23,7 +23,7 @@ languages:
         menu:
             social:
                 - identifier: website
-                  name: 資通安全第一品牌
+                  name: 知安即力量 — 資通安全第一品牌
                   url: https://scientia-potentia-est.com/zh/
                   params:
                       icon: brand-wordpress
