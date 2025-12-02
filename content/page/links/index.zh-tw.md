@@ -16,10 +16,8 @@ menu:
 ## 🎰 部落格
 | 網站名稱    | 內容 |
 | -------- | ------- |
-| [Wiwi.Blog](https://wiwi.blog/)  | [好和弦](https://nicechord.com/)創辦人Wiwi Kuan的個人部落格，寫些生活見解    |
 | [Alex Hsu 徐小翔](https://alexhsu.com/) | 獨立iOS開發者的生活型部落格，他最近在寫遊戲心法相關的文章  |
-| [Sheracaolity](https://sheracaolity.ghost.io/)    | [Heptabase](https://heptabase.com/)卡片盒軟體工具創辦人詹雨安的個人部落格，紀錄自己人生的旅程    |
-| [Huli's blog](https://life.huli.tw/)    | 前端開發者兼網頁安全研究員[Huli](https://blog.huli.tw/)的生活型部落格，分享他自己的生活見解    |
+| [Wiwi.Blog](https://wiwi.blog/)  | [好和弦](https://nicechord.com/)創辦人Wiwi Kuan的個人部落格，寫些生活見解    |
 | [一些走過的路](https://ericntuncu.blogspot.com/) | 只恨老天沒眼睛，讀書沒有贏 |
 | [知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh) | 自己的資安部落格，當然要推廣一下 |
 
