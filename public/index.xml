@@ -1005,11 +1005,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;❌&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;經營Podcast&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;❌&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;速寫完成100幅作品&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
