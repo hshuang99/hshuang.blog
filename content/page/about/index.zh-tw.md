@@ -1,7 +1,7 @@
 ---
 title: 關於
 description: 介紹本站與我
-date: '2025-11-08T13:00:00+08:00'
+date: '2025-12-06T19:10:00+08:00'
 author: "黃宏勝"
 aliases:
   - about
@@ -9,7 +9,7 @@ aliases:
   - about-me
   - about-site
 slug: about
-lastmod: '2025-12-01T15:03:00+08:00'
+lastmod: '2025-12-06T19:12:00+08:00'
 menu:
     main: 
         weight: -80
@@ -25,7 +25,7 @@ menu:
 
 訂閱本站RSS的話請用這個連結：[RSS](https://scientiatw.live/index.xml)
 
-技術部落格的話請前往：[知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh)
+歡迎逛逛我的資安部落格：[知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh)
 
 任何問題請寄到信箱內：hongshenghuang@proton.me
 

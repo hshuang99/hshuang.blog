@@ -5,6 +5,8 @@ Allow: /
   
 Allow: /page/
   
+Allow: /about/
+  
 Allow: /newsletter/
   
 Allow: /use/
@@ -72,8 +74,6 @@ Allow: /tags/%E5%8F%8D%E6%80%9D/
 Allow: /tags/%E6%84%9F%E6%81%A9/
   
 Allow: /tags/%E9%81%8B%E6%B0%A3/
-  
-Allow: /about/
   
 Allow: /links/
   
