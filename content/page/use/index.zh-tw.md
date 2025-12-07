@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-12-07T15:50:00+08:00
-lastmod: 2025-12-07T15:51:00+08:00
+date: 2025-12-07T21:40:00+08:00
+lastmod: 2025-12-07T21:42:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -24,7 +24,7 @@ menu:
 
 ### 🗓️ 行程管理
 - Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度
-- Notion Calendar - 跟Notion裡的Projects做連動
+- [Notion Calendar](https://www.notion.com/product/calendar) - 跟Notion裡的Projects做連動，安排事件進度
 
 ### 📟 終端機相關工具
 - [Vim](https://www.vim.org/) - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事
@@ -39,7 +39,7 @@ menu:
 - [VSCode](https://code.visualstudio.com/) - 用來做Latex Beamer簡報，設計網頁時也比較方便
 
 ### 🗂️ 學術軟體
-- [EndNote 21](https://endnote.com/product-details/) - 大學幾乎都會購買21版的授權，用來記載自己看過的paper，要插入到word或者overleaf裡都很方便
+- [EndNote](https://endnote.com/) - 幾乎每間大學都有購買EndNote的校園授權，除了給校內教師使用，研究生用來記載自己看過的paper，要插入到word或者overleaf裡都很方便
 - [TeXShop](https://pages.uoregon.edu/koch/texshop/) - 在macOS上搭配VSCode編輯Tex檔案，也可以在local端編譯，之前有一次晚上Overleaf網站掛掉時我正在趕報告，搞得我心急如焚所以才想到也必須有備援方案，建議把Overleaf上心儀的模板也備份一組到硬碟中
 
 ### 💬 通訊軟體
@@ -52,9 +52,6 @@ menu:
 ### 💻 網站製作
 - [Wordpress](https://wordpress.com/) - 動態網站建構系統，如果有表單或互動需求就只能依賴有資料庫的系統
 - [Hugo](https://gohugo.io/) - 靜態網頁生成套件，搭配Github Page就可以做出非常精美的網站了
-
-### 📡 RSS閱讀器
-- [Vienna](https://www.vienna-rss.com/) - macOS上免費且開源的RSS閱讀器
 
 ## 📜 電子紙產品
 - [Readmoo Mooink Pro 2C](https://moo.im/a/luyzKS) - Readmoo讀墨推出的13.3吋彩色電子書閱讀器，柔性螢幕讓機器非常輕薄，讓我在看paper時可以手持走動，也可以在教課時一手握著另一手寫黑板，做研究時的好夥伴，可以看[《讀墨 Readmoo mooInk Pro 2C 13.3吋 彩色電子書閱讀器 閱讀PDF檔案的應許之機》](https://scientiatw.live/p/readmoo-mooink-pro-2c/)這篇來詳細瞭解

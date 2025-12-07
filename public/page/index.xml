@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Sun, 07 Dec 2025 15:51:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 07 Dec 2025 21:42:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用</title>
         <link>https://scientiatw.live/use/</link>
-        <pubDate>Sun, 07 Dec 2025 15:50:00 &#43;0800</pubDate>
+        <pubDate>Sun, 07 Dec 2025 21:40:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
         <guid>https://scientiatw.live/use/</guid>
         <description>&lt;h2 id=&#34;-電腦軟體&#34;&gt;🖥️ 電腦軟體
@@ -29,7 +29,8 @@
 &lt;h3 id=&#34;-行程管理&#34;&gt;🗓️ 行程管理
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度&lt;/li&gt;
-&lt;li&gt;Notion Calendar - 跟Notion裡的Projects做連動&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.notion.com/product/calendar&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Notion Calendar&lt;/a&gt; - 跟Notion裡的Projects做連動，安排事件進度&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;-終端機相關工具&#34;&gt;📟 終端機相關工具
 &lt;/h3&gt;&lt;ul&gt;
@@ -55,8 +56,8 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;-學術軟體&#34;&gt;🗂️ 學術軟體
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://endnote.com/product-details/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;EndNote 21&lt;/a&gt; - 大學幾乎都會購買21版的授權，用來記載自己看過的paper，要插入到word或者overleaf裡都很方便&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://endnote.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;EndNote&lt;/a&gt; - 幾乎每間大學都有購買EndNote的校園授權，除了給校內教師使用，研究生用來記載自己看過的paper，要插入到word或者overleaf裡都很方便&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://pages.uoregon.edu/koch/texshop/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;TeXShop&lt;/a&gt; - 在macOS上搭配VSCode編輯Tex檔案，也可以在local端編譯，之前有一次晚上Overleaf網站掛掉時我正在趕報告，搞得我心急如焚所以才想到也必須有備援方案，建議把Overleaf上心儀的模板也備份一組到硬碟中&lt;/li&gt;
 &lt;/ul&gt;
@@ -77,11 +78,6 @@
     &gt;Wordpress&lt;/a&gt; - 動態網站建構系統，如果有表單或互動需求就只能依賴有資料庫的系統&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt; - 靜態網頁生成套件，搭配Github Page就可以做出非常精美的網站了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-rss閱讀器&#34;&gt;📡 RSS閱讀器
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.vienna-rss.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Vienna&lt;/a&gt; - macOS上免費且開源的RSS閱讀器&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-電子紙產品&#34;&gt;📜 電子紙產品
 &lt;/h2&gt;&lt;ul&gt;
