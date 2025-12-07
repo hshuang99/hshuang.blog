@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-11-28T20:04:00+08:00
-lastmod: 2025-11-28T20:05:00+08:00
+date: 2025-12-07T15:50:00+08:00
+lastmod: 2025-12-07T15:51:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -28,7 +28,6 @@ menu:
 
 ### 📟 終端機相關工具
 - [Vim](https://www.vim.org/) - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事
-- [Neovim](https://neovim.io/) - 在vim上提供漂亮的顏色支援，讓寫code時keyword跟function有顏色區別
 - [tmux](https://github.com/tmux/tmux/wiki) - 強大的終端機Session管理工具，遠端控制實驗通常要花很多時間常常實驗做一做就出去吃個飯，又害怕網路突然讓ssh斷線，有了session控管就可以把實驗結果叫回來，以及常常要開好幾個頁面調整code，tmux能夠開啟多組pane分別編輯不同的區塊
 
 ### 📊 簡報

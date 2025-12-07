@@ -104,18 +104,21 @@
         <description>&lt;img src="https://scientia-potentia-est.com/wp-content/uploads/2025/08/rss-cover-scaled.webp" alt="Featured image of post 自主選擇乾淨的資訊，回歸RSS的懷抱吧！" /&gt;&lt;p&gt;上班一整天身心已經俱疲，下班回到家吃晚餐打開手機裡的社群媒體APP左滑右刷，這邊看了朋友的限動那邊又換去幫另一個朋友點愛心，你不經意間就吃完飯了繼續坐著滑滑河道(文字型社群媒體如Facebook、Plurk、X及Threads等首頁頁面用語，因需要一直往下滑載入資訊故有時稱作河道)跟看看短影音&lt;/p&gt;
 &lt;p&gt;回過神來一看時間驚覺已經快晚上十點了，你匆匆忙忙地拿衣服去洗澡，洗完澡後你覺得這樣子今天就會浪費過去了，你打開那本已經看了三個月的書，然而看不到五分鐘你就開始分心默默的拿起手機看看有沒有漏掉任何訊息&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;你是否覺得這樣的生活樣態很熟悉呢？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;你是否覺得這樣的生活樣態很熟悉呢？&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;這些社群媒體的開發公司高層花了大把的錢聘請心理學家利用你那想要無時無刻看到所有事情的心態來讓你高度黏著在他們的產品上，透過APP或網頁版追蹤器時時刻刻地分析著你的行為，以此來改變演算法的策略使你的注意力完全放在上面，甚至最大的競爭對手是你的睡眠時間&lt;/p&gt;
 &lt;p&gt;當你在河道裡一直往下滑你通常只會看到其他公司投放的廣告跟一堆毫無相關的貼文資訊，這類演算法的設計本意是想讓你看到你只想知道的事情，如果你追蹤越多同性質的粉絲專頁或個人帳號的確會讓其關鍵字權重變高，然而如果只是讓你看那些你自己想看的，那社群媒體公司要怎麼賺錢？&lt;/p&gt;
 &lt;p&gt;十年前的Facebook也許是你跟你的小夥伴們談天說地的好去處，然而時至今日上面只有一堆損害你大腦的言論、瘋狂毫無相關的廣告以及無腦幹片(&lt;strong&gt;霸道總裁回鄉跟村霸尬上什麼怪力亂神的劇情都有&lt;/strong&gt;)，所以人們決定逃到新的地方，到Instagram想著這裡就是桃源鄉，結果還是沒逃過Meta的魔掌，現在逃到Threads上但我最終應該還是會變成Instagram跟Facebook的形狀，畢竟經營一個平台總不可能不賺錢一直燒資金吧&lt;/p&gt;
 &lt;p&gt;那如果已經厭煩了社群媒體的人們有什麼辦法嗎？&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;你需要的是民族救星&lt;strong&gt;RSS&lt;/strong&gt;！！&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;你需要的是民族救星&lt;strong&gt;RSS&lt;/strong&gt;！！&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id=&#34;rss是什麼東東&#34;&gt;RSS是什麼東東？
 &lt;/h2&gt;&lt;p&gt;1999年網路上發布了一套叫做RDF Site Summary或者Really Simple Syndication(非常簡單的聚合器))簡稱&lt;strong&gt;RSS&lt;/strong&gt;的工具，讀者可以想像這是一個會在網路上幫你把資訊整理起來自動寄送給你的服務，它免費且輕巧而且你可以選擇你想要收到的資訊，它其實就是把其他網站的文字資料壓縮打包成一種叫做XML的格式然後像信件一樣寄送給你&lt;/p&gt;
 &lt;p&gt;所以網路上不論是各大部落格網站、新聞網站、Youtube甚至Podcast(現在各Podcast平台也都是把影音檔做成RSS讓用戶下載罷了)只要網站一進行更新，這個XML檔就會新增資訊而你可以自動抓下來，所以這個工具不依賴任何演算法隨機跳出一些你不想要的內容給你，它只會把你訂閱的網站上所有資訊文章用時間順序排列呈現給你看&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;那為什麼我們在社群媒體網站上似乎沒看到這個東西？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;那為什麼我們在社群媒體網站上似乎沒看到這個東西？&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;因為如果使用者可以自己決定只看自己想看的，那這些大公司要怎麼跟蹤你的網路足跡？要怎麼根據你看的內容投放超爛商品的廣告給你？要怎麼偷偷地收集你的資料賣給其他廠商呢？&lt;/p&gt;
 &lt;p&gt;十年前的Facebook還有提供這個工具但今天蜥蜴人老闆肯定要讓使用者一直花時間在他的產品底下瀏覽，Instagram跟Threads也同樣得一直抓著你，怎麼可以提供RSS讓平台無法控制你呢？&lt;/p&gt;
 &lt;h2 id=&#34;為什麼我喜歡rss&#34;&gt;為什麼我喜歡RSS？

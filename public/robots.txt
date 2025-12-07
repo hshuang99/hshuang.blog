@@ -5,11 +5,11 @@ Allow: /
   
 Allow: /page/
   
+Allow: /use/
+  
 Allow: /about/
   
 Allow: /newsletter/
-  
-Allow: /use/
   
 Allow: /categories/
   
