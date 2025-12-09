@@ -48,7 +48,7 @@ slug: "ebook-ereader-changes-me"
 
 而接下來每天的日子就是看讀墨跟Kobo書城的特價書籍是什麼，有意思或對我有幫助的書就直接買授權，而不需要再等寄送的過程，宿舍的櫃子也慢慢清空了，搬東西時不再需要帶很多東西，我觀察到每次搬宿舍裝箱最重的應該是放書的箱子
 
-最終，電子書閱讀器成為我生命中不可或缺的一塊，目前服役的是7吋[Kobo Libra 2](https://gl.kobobooks.com/zh/products/kobo-libra-2)跟6吋[Kobo Clara BW](https://r10.to/hkkbYN)兩台，在室內就用Libra 2閱讀，離開實驗室去學餐吃飯就靠Clara BW，即使有保護套要放進我褲子口袋裡，也是從從容容遊刃有餘
+最終，電子書閱讀器成為我生命中不可或缺的一塊，目前服役的是7吋[Kobo Libra 2](https://r10.to/hPY3vV)跟6吋[Kobo Clara BW](https://r10.to/hkkbYN)兩台，在室內就用Libra 2閱讀，離開實驗室去學餐吃飯就靠Clara BW，即使有保護套要放進我褲子口袋裡，也是從從容容遊刃有餘
 
 <figure>
   <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/Clara-and-Libra-2-scaled.webp" alt="Kobo Clara BW and Libra 2">
