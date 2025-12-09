@@ -1,12 +1,12 @@
 ---
 title: 圖冊
 description: 本頁顯示所有圖文創作以及相關的文章
-date: '2025-11-10T14:21:00+08:00'
+date: '2025-12-09T16:50:00+08:00'
 author: "黃宏勝"
 aliases:
   - gallery
 slug: gallery
-lastmod: '2025-11-10T14:21:00+08:00'
+lastmod: '2025-12-09T16:58:00+08:00'
 layout: "photos"
 menu:
     main:
@@ -30,4 +30,5 @@ comments: False
 <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/雲豹-藝術家王鼎元-scaled.webp" alt="雲豹-省思Reflection-藝術家王鼎元" data-link="" />
 <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/日日是好日-scaled.webp" alt="日日是好日" data-link="" />
 <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/旦蕉-scaled.webp" alt="旦蕉" data-link="" />
+<img src="https://scientia-potentia-est.com/wp-content/uploads/2025/12/巧巧與牛排-scaled.webp" alt="巧巧與牛排" data-link="" />
 </gallery>

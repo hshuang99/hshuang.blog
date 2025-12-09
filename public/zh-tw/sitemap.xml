@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://scientiatw.live/</loc>
-    <lastmod>2025-12-07T21:42:00+08:00</lastmod>
+    <lastmod>2025-12-09T16:58:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://scientiatw.live/page/</loc>
-    <lastmod>2025-12-07T21:42:00+08:00</lastmod>
+    <lastmod>2025-12-09T16:58:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://scientiatw.live/use/</loc>
-    <lastmod>2025-12-07T21:42:00+08:00</lastmod>
+    <lastmod>2025-12-09T16:57:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,6 +40,9 @@
                 hreflang="zh-tw"
                 href="https://scientiatw.live/use/"
                 />
+  </url><url>
+    <loc>https://scientiatw.live/gallery/</loc>
+    <lastmod>2025-12-09T16:58:00+08:00</lastmod>
   </url><url>
     <loc>https://scientiatw.live/about/</loc>
     <lastmod>2025-12-06T19:12:00+08:00</lastmod>
@@ -161,9 +164,6 @@
   </url><url>
     <loc>https://scientiatw.live/tags/%E6%95%B8%E5%AD%B8/</loc>
     <lastmod>2025-11-10T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://scientiatw.live/gallery/</loc>
-    <lastmod>2025-11-10T14:21:00+08:00</lastmod>
   </url><url>
     <loc>https://scientiatw.live/now/</loc>
     <lastmod>2025-12-01T15:04:00+08:00</lastmod>
