@@ -1,12 +1,12 @@
 ---
 title: 人生清單
 description: 制訂我自己的夢想清單
-date: '2025-11-17T11:04:00+08:00'
+date: '2025-12-10T10:35:00+08:00'
 author: "黃宏勝"
 aliases:
   - Bucket-List
 slug: bucket-list
-lastmod: '2025-11-19T19:27:00+08:00'
+lastmod: '2025-12-10T10:40:00+08:00'
 menu:
     main: 
         weight: -60
@@ -26,6 +26,7 @@ menu:
 | ❌ | 投稿進USENIX Security Symposium會議 |   |
 | ❌ | 投稿進IACR CHES會議 |   |
 | ❌ | 投稿進IACR PKC會議 |   |
+| ❌ | 經營Podcast |   |
 | ❌ | 學會開車  |   |
 | ❌ | 學會素描  |   |
 | ❌ | 學會畫水彩  |   |

@@ -5,6 +5,8 @@ Allow: /
   
 Allow: /page/
   
+Allow: /bucket-list/
+  
 Allow: /use/
   
 Allow: /gallery/
@@ -52,8 +54,6 @@ Allow: /tags/%E6%99%82%E9%96%93/
 Allow: /tags/%E8%83%BD%E9%87%8F/
   
 Allow: /tags/%E7%AE%A1%E7%90%86/
-  
-Allow: /bucket-list/
   
 Allow: /micro/2025-11-10/
   
