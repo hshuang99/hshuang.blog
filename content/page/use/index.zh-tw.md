@@ -55,7 +55,6 @@ menu:
 
 ## 📜 電子紙產品
 - [Readmoo Mooink Pro 2C](https://moo.im/a/luyzKS) - Readmoo讀墨推出的13.3吋彩色電子書閱讀器，柔性螢幕讓機器非常輕薄，讓我在看paper時可以手持走動，也可以在教課時一手握著另一手寫黑板，做研究時的好夥伴，可以看[《讀墨 Readmoo mooInk Pro 2C 13.3吋 彩色電子書閱讀器 閱讀PDF檔案的應許之機》](https://scientiatw.live/p/readmoo-mooink-pro-2c/)這篇來詳細瞭解
-- [Kobo Libra 2](https://r10.to/hPY3vV) - 7吋黑白電子書閱讀器，黑白螢幕讓文字非常清楚，Kobo的系統一直以來都非常穩定，在室內使用很舒適
 - [Kobo Clara BW](https://r10.to/hkkbYN) - Kobo最小尺寸6吋黑白機器，外出時非常好用，我的褲子口袋剛好可以完美裝進去
 
 ## ☁️  線上服務
