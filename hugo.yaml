@@ -40,7 +40,7 @@ languages:
         weight: 2
         params:
             sidebar:
-                subtitle: Stay Curious and Take Action
+                subtitle: Stay Curious and Walk the Walk
         menu:
             social:
                 - identifier: website
