@@ -3,6 +3,18 @@ User-agent: *
   
 Allow: /
   
+Allow: /micro/2025-12-13/
+  
+Allow: /tags/
+  
+Allow: /tags/%E4%BA%BA%E7%94%9F/
+  
+Allow: /tags/%E5%A4%A9%E8%B3%A6/
+  
+Allow: /tags/%E6%96%B9%E5%90%91/
+  
+Allow: /tags/%E6%88%90%E5%8A%9F/
+  
 Allow: /page/
   
 Allow: /use/
@@ -24,10 +36,6 @@ Allow: /tags/kobo/
 Allow: /tags/mobiscribe-origin/
   
 Allow: /post/
-  
-Allow: /tags/
-  
-Allow: /tags/%E4%BA%BA%E7%94%9F/
   
 Allow: /categories/%E7%A7%91%E6%8A%80/
   
