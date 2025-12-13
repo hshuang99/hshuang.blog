@@ -5,11 +5,11 @@ Allow: /
   
 Allow: /page/
   
+Allow: /use/
+  
 Allow: /now/
   
 Allow: /bucket-list/
-  
-Allow: /use/
   
 Allow: /gallery/
   
