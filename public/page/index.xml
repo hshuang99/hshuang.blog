@@ -7,7 +7,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Thu, 11 Dec 2025 18:02:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Dec 2025 11:34:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>近況</title>
+        <link>https://scientiatw.live/now/</link>
+        <pubDate>Sat, 13 Dec 2025 11:30:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>https://scientiatw.live/now/</guid>
+        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法&lt;/li&gt;
+&lt;li&gt;🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息&lt;/li&gt;
+&lt;li&gt;🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店&lt;/li&gt;
+&lt;li&gt;🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇&lt;/li&gt;
+&lt;li&gt;⏳ 工作近況：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;知安即力量 — 資通安全第一品牌&lt;/a&gt;：&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/newsletter-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;電子報服務&lt;/a&gt;開始規劃第一份電子報中&lt;/li&gt;
+&lt;li&gt;🗓 社群部落格：不斷更新&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/bucket-list/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;人生清單&lt;/a&gt;中，因為這會影響我子彈筆記裡的年度計劃選項，希望透過這兩項能限制我平時的行為，而不要隨波逐流的在網路上閒逛&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
+Product Structure&lt;/li&gt;
+&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010587254?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《發現天賦之旅》&lt;/a&gt;：從自身出發到周遭的影響，從而發現自己的天賦與天命，如果對於自己的生命有所疑惑可以看看&lt;/li&gt;
+&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;茫DAY不錄&lt;/a&gt;：不適合，那可能是濁水溪吧，不是河😐&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>人生清單</title>
         <link>https://scientiatw.live/bucket-list/</link>
         <pubDate>Thu, 11 Dec 2025 18:00:00 &#43;0800</pubDate>
@@ -1116,48 +1158,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-</description>
-        </item>
-        <item>
-        <title>近況</title>
-        <link>https://scientiatw.live/now/</link>
-        <pubDate>Sat, 08 Nov 2025 21:50:00 &#43;0800</pubDate>
-        <author>黃宏勝</author>
-        <guid>https://scientiatw.live/now/</guid>
-        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🚎 新竹台北兩地跑：花更多時間坐在南港的辦公室裡&lt;/li&gt;
-&lt;li&gt;🏃 盡可能每天運動：回歸健身，但練腿時總是高估自己，每次都痛的快走不了路&lt;/li&gt;
-&lt;li&gt;🛏 睡眠：晚上十一點收東西回宿舍洗澡，十二點睡覺早上八點起床固定作息，不然有時實驗做太晚延遲上床時間，即便睡滿八小時也算是熬夜&lt;/li&gt;
-&lt;li&gt;⏳ 工作近況：趕第一階段實驗&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;知安即力量 — 資通安全第一品牌&lt;/a&gt;：&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/newsletter-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;電子報服務&lt;/a&gt;持續開放中，每月寄送近期需要特別關注的漏洞資訊以及新技術給讀者&lt;/li&gt;
-&lt;li&gt;🗓 社群部落格：新增&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/micro/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;微短文&lt;/a&gt;頁面，前身是動態頁面，但單一頁面如果太多篇要一直滑，用年份分類改善之後重新上架了&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🖥️ &lt;a class=&#34;link&#34; href=&#34;https://github.com/Scientia-Potentia-Est-Tw/Modified-Improved-Greedy-Algorithm&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Modified Improved Greedy Algorithm&lt;/a&gt;：針對2024/381優化他們的貪婪演算法，提出更多的策略以及加速他們在挑選時的步驟&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🥡 最近主菜都是一整塊豆腐配半勺的蒸蛋，比肉類更容易消化，蛋白質含量也夠&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
-Product Structure&lt;/li&gt;
-&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010887563?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202511&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《星期天被遺忘的人》&lt;/a&gt;：我很喜歡海倫跟呂西恩的故事&lt;/li&gt;
-&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;茫DAY不錄&lt;/a&gt;：最近開始聽的Podcast，把諧音梗用到極致也是一種韻味&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         </item>
         <item>
