@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://scientiatw.live/</loc>
-    <lastmod>2025-12-13T18:45:00+08:00</lastmod>
+    <lastmod>2025-12-13T22:08:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +14,22 @@
                 hreflang="zh-tw"
                 href="https://scientiatw.live/"
                 />
+  </url><url>
+    <loc>https://scientiatw.live/page/</loc>
+    <lastmod>2025-12-13T22:08:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://scientiatw.live/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://scientiatw.live/page/"
+                />
+  </url><url>
+    <loc>https://scientiatw.live/bucket-list/</loc>
+    <lastmod>2025-12-13T22:08:00+08:00</lastmod>
   </url><url>
     <loc>https://scientiatw.live/micro/2025-12-13/</loc>
     <lastmod>2025-12-13T18:45:00+08:00</lastmod>
@@ -43,19 +59,6 @@
     <loc>https://scientiatw.live/tags/%E6%88%90%E5%8A%9F/</loc>
     <lastmod>2025-12-13T18:45:00+08:00</lastmod>
   </url><url>
-    <loc>https://scientiatw.live/page/</loc>
-    <lastmod>2025-12-13T17:26:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/page/"
-                />
-  </url><url>
     <loc>https://scientiatw.live/use/</loc>
     <lastmod>2025-12-13T17:26:00+08:00</lastmod>
     <xhtml:link
@@ -81,9 +84,6 @@
                 hreflang="zh-tw"
                 href="https://scientiatw.live/now/"
                 />
-  </url><url>
-    <loc>https://scientiatw.live/bucket-list/</loc>
-    <lastmod>2025-12-11T18:02:00+08:00</lastmod>
   </url><url>
     <loc>https://scientiatw.live/gallery/</loc>
     <lastmod>2025-12-09T16:58:00+08:00</lastmod>
