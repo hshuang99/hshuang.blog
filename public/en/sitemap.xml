@@ -67,80 +67,6 @@
                 href="https://scientiatw.live/en/now/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/categories/academic/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://scientiatw.live/en/categories/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/categories/"
-                />
-  </url><url>
-    <loc>https://scientiatw.live/en/tags/conference/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://scientiatw.live/en/tags/post-quantum-cryptography/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://scientiatw.live/en/post/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/post/"
-                />
-  </url><url>
-    <loc>https://scientiatw.live/en/tags/pqcrypto/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/tags/pqcrypto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/tags/pqcrypto/"
-                />
-  </url><url>
-    <loc>https://scientiatw.live/en/p/pqcrypto-2025/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/p/pqcrypto-2025/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/p/pqcrypto-2025/"
-                />
-  </url><url>
-    <loc>https://scientiatw.live/en/tags/</loc>
-    <lastmod>2025-06-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/tags/"
-                />
-  </url><url>
     <loc>https://scientiatw.live/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -154,6 +80,20 @@
                 href="https://scientiatw.live/en/archives/"
                 />
   </url><url>
+    <loc>https://scientiatw.live/en/categories/academic/</loc>
+  </url><url>
+    <loc>https://scientiatw.live/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://scientiatw.live/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://scientiatw.live/en/categories/"
+                />
+  </url><url>
     <loc>https://scientiatw.live/en/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -164,6 +104,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://scientiatw.live/en/search/"
+                />
+  </url><url>
+    <loc>https://scientiatw.live/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://scientiatw.live/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://scientiatw.live/en/tags/"
                 />
   </url>
 </urlset>
