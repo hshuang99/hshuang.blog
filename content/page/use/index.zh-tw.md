@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-12-13T17:20:00+08:00
-lastmod: 2025-12-13T17:26:00+08:00
+date: 2025-12-17T14:30:00+08:00
+lastmod: 2025-12-17T14:32:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -28,7 +28,6 @@ menu:
 
 ### 🗓️ 行程管理
 - Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度
-- [Notion Calendar](https://www.notion.com/product/calendar) - 跟Notion裡的Projects做連動，安排事件進度
 
 ### 📟 終端機相關工具
 - [Vim](https://www.vim.org/) - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事
@@ -39,7 +38,6 @@ menu:
 
 ### 📝 筆記軟體/編輯器
 - [Obsidian](https://obsidian.md/) - 免費且開源的筆記軟體，用來撰寫卡片盒筆記很方便，Canvas功能雖與Heptabase的白板相比之下稍嫌不足，但搭配眾多開發者的套件我覺得Obsidian很好用
-- [Notion](https://www.notion.com/) - 用大學信箱就可以免費升級成Plus版本會員很優惠，但Notion目前還沒有支援E2EE，所以我目前不會放太重要的資訊上去
 - [VSCode](https://code.visualstudio.com/) - 用來做Latex Beamer簡報，設計網頁時也比較方便
 
 ### 🗂️ 學術軟體

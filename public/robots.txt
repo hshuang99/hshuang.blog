@@ -5,6 +5,8 @@ Allow: /
   
 Allow: /page/
   
+Allow: /use/
+  
 Allow: /about/
   
 Allow: /bucket-list/
@@ -20,8 +22,6 @@ Allow: /tags/%E5%A4%A9%E8%B3%A6/
 Allow: /tags/%E6%96%B9%E5%90%91/
   
 Allow: /tags/%E6%88%90%E5%8A%9F/
-  
-Allow: /use/
   
 Allow: /now/
   
@@ -457,11 +457,11 @@ Allow: /search/
   
 Allow: /en/
   
-Allow: /en/about/
-  
 Allow: /en/page/
   
 Allow: /en/use/
+  
+Allow: /en/about/
   
 Allow: /en/now/
   

@@ -1,12 +1,12 @@
 ---
 title: Use
 description: Items I use regularly
-date: '2025-11-08T10:10:00+08:00'
+date: '2025-12-17T14:30:00+08:00'
 author: "Hong-Sheng Huang"
 aliases:
   - use
 slug: use
-lastmod: '2025-11-08T10:12:00+08:00'
+lastmod: '2025-12-17T14:33:00+08:00'
 menu:
     main: 
         weight: -60
@@ -28,7 +28,6 @@ menu:
 
 ### 📟 Terminal-related tools
 - [Vim](https://www.vim.org/) - The most powerful terminal editor, bar none; its rich set of shortcuts lets you accomplish anything without taking your fingers off the keyboard.
-- [Neovim](https://neovim.io/) - Offers nice color highlighting in Vim, so keywords and functions are visually distinct when writing code.
 - [tmux](https://github.com/tmux/tmux/wiki) - A powerful terminal session management tool. Remote-controlled experiments often take a lot of time, and it’s common to step away for a meal while the experiment is running, but there’s always the risk of SSH disconnects due to network issues. With session management, you can resume your experiment results. Also, since multiple windows are often needed to edit different parts of the code, tmux allows you to open multiple panes to edit separate sections simultaneously.
 
 ### 📊 Presentation Slide
@@ -55,7 +54,6 @@ menu:
 
 ## 📜 E-Ink Product
 - [Readmoo Mooink Pro 2C](https://goodereader.com/blog/electronic-readers/readmoo-mooink-pro-2c-is-a-13-3-e-ink-kaleido-3-e-note) - The first 13.3-inch colour e-paper reader on the Taiwanese market was launched by Readmoo. Its flexible screen makes the device very lightweight and thin, allowing me to hold it while walking when reading papers. I can also hold it in one hand and write on the blackboard with the other during lectures—truly a great companion for research.
-- [Kobo Libra 2](https://www.amazon.com/Kobo-Touchscreen-Waterproof-Adjustable-Temperature/dp/B09HSRGZRL) - A 7-inch black-and-white e-paper reader with a screen that makes text very clear. Kobo’s system has always been very stable and comfortable to use indoors. However, it is no longer sold after the new color version was released.
 - [Kobo Clara BW](https://www.amazon.com/Kobo-Glare-Free-Touchscreen-ComfortLight-Audiobooks/dp/B0D1KV8J76) - Kobo’s smallest 6-inch black-and-white device is very handy when going out. It fits perfectly in my pants pocket.
 
 ## ☁️  Online Services
