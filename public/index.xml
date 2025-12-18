@@ -7,10 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Wed, 17 Dec 2025 14:32:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Dec 2025 11:42:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用</title>
         <link>https://scientiatw.live/use/</link>
-        <pubDate>Wed, 17 Dec 2025 14:30:00 &#43;0800</pubDate>
+        <pubDate>Thu, 18 Dec 2025 11:41:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
         <guid>https://scientiatw.live/use/</guid>
         <description>&lt;h2 id=&#34;-電腦軟體&#34;&gt;🖥️ 電腦軟體
@@ -39,6 +39,8 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;-終端機相關工具&#34;&gt;📟 終端機相關工具
 &lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://iterm2.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;iTerm2&lt;/a&gt; - 替代macOS裏粗糙的terminal，可以調顏色，寫code時也可以讓不同的變數跟function、feature染色&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.vim.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Vim&lt;/a&gt; - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tmux/tmux/wiki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;

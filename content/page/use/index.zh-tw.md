@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-12-17T14:30:00+08:00
-lastmod: 2025-12-17T14:32:00+08:00
+date: 2025-12-18T11:41:00+08:00
+lastmod: 2025-12-18T11:42:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -30,6 +30,7 @@ menu:
 - Apple Calendar - macOS內建的行事曆軟體，紀錄每月事項進度
 
 ### 📟 終端機相關工具
+- [iTerm2](https://iterm2.com/) - 替代macOS裏粗糙的terminal，可以調顏色，寫code時也可以讓不同的變數跟function、feature染色
 - [Vim](https://www.vim.org/) - 最強的終端機編輯器沒有之一，豐富的快捷鍵能讓你手指不離開鍵盤也能完成任何事
 - [tmux](https://github.com/tmux/tmux/wiki) - 強大的終端機Session管理工具，遠端控制實驗通常要花很多時間常常實驗做一做就出去吃個飯，又害怕網路突然讓ssh斷線，有了session控管就可以把實驗結果叫回來，以及常常要開好幾個頁面調整code，tmux能夠開啟多組pane分別編輯不同的區塊
 
