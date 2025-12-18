@@ -22,7 +22,7 @@ keywords = [
   "病識感",
 ]
 description = "當重大悲傷來臨，我們該如何走過這黑暗，重新拾起希望？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/09/fix-grief-cover-scaled.webp"
+image = "https://secologies.com/wp-content/uploads/2025/09/fix-grief-cover-scaled.webp"
 slug = "fix-grief"
 +++
 人活在世，創傷與悲傷永遠不會缺席，戰爭、災難、家庭或個人生活中，皆有可能一瞬間失去原有的平衡，落入巨大的情緒震盪，任誰都無法逃過，有人因戰火而失去至親，連自己的靈魂都被帶走了、有人長期生活在家庭暴力或虐待之下，從小就把內心封閉起來、有人在校園或職場上遭受霸凌與羞辱，終日懷疑自己存活的價值、也有人面對突如其來的意外事故，眼看至愛離世，只留下了充滿空洞的自己

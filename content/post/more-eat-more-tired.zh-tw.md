@@ -22,7 +22,7 @@ keywords = [
   "原型食物",
 ]
 description = "外食族想要吃得對，其實沒那麼難！"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/09/more-eat-more-tired-cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/09/more-eat-more-tired-cover.webp"
 slug = "more-eat-more-tired"
 +++
 代謝變慢所帶來的影響不只是讓人發胖，從血糖波動、慢性發炎到身體機能下降皆與代謝力息息相關，代謝力下降最主要的原因除了年齡與活動量減少外，其中一個關鍵辨識每天吃下肚的食物，成大醫院營養師兼營養部主任的郭素娥營養師表示，人體的代謝運作是一部精密的引擎，食物不只是熱量來源，更是驅動能量轉換、維持生理功能的燃料

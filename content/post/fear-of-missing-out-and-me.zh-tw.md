@@ -24,7 +24,7 @@ keywords = [
   "FOMO",
 ]
 description = "資訊如浪潮般襲來的時代，在AI產生的大量低熵資訊中，錯過任何一則訊息你都覺得被世界遺落了"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/09/fear-of-missing-out-and-me-scaled.webp"
+image = "https://secologies.com/wp-content/uploads/2025/09/fear-of-missing-out-and-me-scaled.webp"
 slug = "fear-of-missing-out-and-me"
 +++
 你是否總是沒幾分鐘就想把手機拿出來，打開IG看看有沒有任何朋友的限時動態，老想著Threads的河道上是不是又有人在開新話題，這種對「可能錯過他人已經歷過有趣、重要或新奇的事件」所產生出來的焦慮與不安感，被稱作「Fear of Missing Out」或簡稱FOMO，是「錯失恐懼」，是「錯失焦慮」，也是「資訊遺漏焦慮」。我們統稱一下叫「錯失焦慮」好了
