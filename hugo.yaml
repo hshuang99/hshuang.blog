@@ -1,4 +1,4 @@
-baseurl: https://scientiatw.live/
+baseurl: https://hshuang.blog/
 languageCode: zh-tw
 theme: hugo-theme-stack
 title: Hong-Sheng Huang's Blog
@@ -23,8 +23,8 @@ languages:
         menu:
             social:
                 - identifier: website
-                  name: 知安即力量 — 資通安全第一品牌
-                  url: https://scientia-potentia-est.com/zh/
+                  name: Secologies
+                  url: https://secologies.com/zh/
                   params:
                       icon: brand-wordpress
 
@@ -44,8 +44,8 @@ languages:
         menu:
             social:
                 - identifier: website
-                  name: ZhiAn — Knowledge is Power in Cybersecurity
-                  url: https://scientia-potentia-est.com/en/
+                  name: Secologies
+                  url: https://secologies.com/en/
                   params:
                       icon: brand-wordpress
 

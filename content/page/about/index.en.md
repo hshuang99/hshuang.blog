@@ -17,12 +17,12 @@ menu:
             icon: user
 ---
 
-I am [Hong-Sheng Huang](https://scientia-potentia-est.com/en/hong-sheng-huang/)
+I am [Hong-Sheng Huang](https://secologies.com/en/hong-sheng-huang/)
 
 This social blog mainly features content on topics such as "reading reflections," "life sharing," and "humanities and arts."
 
 For any collaborations or inquiries, please email: hongshenghuang[at]proton[dot]me
 
-If you want to read the technical blog, please visit：[ZhiAn — Knowledge is Power in Cybersecurity](https://scientia-potentia-est.com/en)
+If you want to read the technical blog, please visit：[Secologies](https://secologies.com/en)
 
-If you want to subscribe to the RSS feed, please use this link：[RSS](https://scientiatw.live/en/index.xml)
+If you want to subscribe to the RSS feed, please use this link：[RSS](https://hshuang.blog/en/index.xml)

@@ -1,7 +1,7 @@
 ---
 title: Now
 description: What have I been doing recently
-date: '2025-11-06'
+date: '2025-12-18T23:36:00+08:00'
 author: "Hong-Sheng Huang"
 aliases:
   - now
@@ -24,8 +24,8 @@ menu:
 - ⏳ Work is heating up: I need to wrap up the first phase of my master’s thesis experiments by the end of June, and at the same time, complete and hand over the main objectives of the ITRI project.
 
 ## 🌐 Recent online activity
-- 💻 [Atoms of Cybersecurity](https://scientia-potentia-est.com/en/): Planning to share some OSCP-related notes and thoughts on my tech blog.
-- 🗓 Social Blog: Planning to share some life experience in Taiwan
+- 💻 [Secologies](https://secologies.com/en/): Change a new domain name.
+- 🗓 Social Blog: Change a new domain name.
 
 ## 🍳 Recent meals and beverages
 - 🍱 Lately, I've been switching the main dish at lunchbox places to two or three eggs or a piece of tofu. I realized that in the past, I mostly picked heavily seasoned pork or beef, or deep-fried frozen foods as the main dish. As long as my routine gets even slightly off, my weight increases really quickly. After all, eating out is still the go-to option in Taiwan, so all I can do is adjust what I’m putting into my mouth as much as possible.

@@ -23,14 +23,14 @@ menu:
 ## 關於本站
 此部落格主要記錄我所有好奇跟想做的事情
 
-訂閱本站RSS的話請用這個連結：[RSS](https://scientiatw.live/index.xml)
+訂閱本站RSS的話請用這個連結：[RSS](https://hshuang.blog/index.xml)
 
-歡迎逛逛我的資安部落格：[知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh)
+歡迎逛逛我的資安部落格：[Secologies](https://secologies.com/zh)
 
 任何問題請寄到信箱內：hongshenghuang@proton.me
 
 ## 關於我
-我是[黃宏勝](https://scientia-potentia-est.com/zh/hong-sheng-huang-zh/)，臺東人，但不騎山豬
+我是[黃宏勝](https://secologies.com/zh/hong-sheng-huang-zh/)，臺東人，但不騎山豬
 
 - Z世代
 - 北漂青年

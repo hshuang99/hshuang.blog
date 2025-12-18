@@ -19,7 +19,7 @@ menu:
 | [Alex Hsu 徐小翔](https://alexhsu.com/) | 獨立iOS開發者的生活型部落格，他最近在寫遊戲心法相關的文章  |
 | [Wiwi.Blog](https://wiwi.blog/)  | [好和弦](https://nicechord.com/)創辦人Wiwi Kuan的個人部落格，寫些生活見解    |
 | [一些走過的路](https://ericntuncu.blogspot.com/) | 只恨老天沒眼睛，讀書沒有贏 |
-| [知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh) | 自己的資安部落格，當然要推廣一下 |
+| [Secologies](https://secologies.com/zh) | 自己的資安部落格，當然要推廣一下 |
 
 ## 📻 Podcast
 | Podcast名稱    | 內容 |

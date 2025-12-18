@@ -2,17 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hong-Sheng Huang&#39;s Blog</title>
-        <link>https://scientiatw.live/en/</link>
+        <link>https://hshuang.blog/en/</link>
         <description>Recent content on Hong-Sheng Huang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Wed, 17 Dec 2025 14:33:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Dec 2025 23:36:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Now</title>
+        <link>https://hshuang.blog/en/now/</link>
+        <pubDate>Thu, 18 Dec 2025 23:36:00 &#43;0800</pubDate>
+        <author>Hong-Sheng Huang</author>
+        <guid>https://hshuang.blog/en/now/</guid>
+        <description>&lt;h2 id=&#34;-recent-status&#34;&gt;🏡 Recent status
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;🚎 Commuting between Hsinchu and Taipei: Each one-way trip takes over an hour and a half. After doing it for three days in a row, it’s starting to feel a bit troublesome. But renting places in both cities would be too much financially. I really admire people who commute to work every day.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🏃 Exercising daily as much as possible: No matter how things are going each day, I try to drop everything and go for a jog at the gym. Comparing different ways to unwind, I still find that exercise is the most effective stress relief—better than online entertainment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;🛏 Sleep: I make sure to get at least 7–8 hours of sleep every night. But my Apple Watch doesn’t have enough battery to track my sleep properly, so I’m still unsure about how much time I spend in REM and non-REM sleep. I’m also trying to rely less on caffeine in the morning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;⏳ Work is heating up: I need to wrap up the first phase of my master’s thesis experiments by the end of June, and at the same time, complete and hand over the main objectives of the ITRI project.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-recent-online-activity&#34;&gt;🌐 Recent online activity
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://secologies.com/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;: Change a new domain name.&lt;/li&gt;
+&lt;li&gt;🗓 Social Blog: Change a new domain name.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-recent-meals-and-beverages&#34;&gt;🍳 Recent meals and beverages
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🍱 Lately, I&amp;rsquo;ve been switching the main dish at lunchbox places to two or three eggs or a piece of tofu. I realized that in the past, I mostly picked heavily seasoned pork or beef, or deep-fried frozen foods as the main dish. As long as my routine gets even slightly off, my weight increases really quickly. After all, eating out is still the go-to option in Taiwan, so all I can do is adjust what I’m putting into my mouth as much as possible.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-recent-reads-listens-and-watches&#34;&gt;📚 Recent reads, listens, and watches
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📃 &lt;a class=&#34;link&#34; href=&#34;https://dl.acm.org/doi/10.1145/3576915.3623131&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Efficient Set Membership Encryption and Applications&lt;/a&gt;: Making Oblivious Transfer efficient enough for real-world implementation is actually quite an ingenious idea.&lt;/li&gt;
+&lt;li&gt;📃 &lt;a class=&#34;link&#34; href=&#34;https://eprint.iacr.org/2024/381&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Quantum Circuits of AES with a Low-depth Linear Layer and a New Structure&lt;/a&gt;: Reducing quantum circuit depth still appears to be the mainstream strategy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Use</title>
-        <link>https://scientiatw.live/en/use/</link>
+        <link>https://hshuang.blog/en/use/</link>
         <pubDate>Wed, 17 Dec 2025 14:30:00 &#43;0800</pubDate>
         <author>Hong-Sheng Huang</author>
-        <guid>https://scientiatw.live/en/use/</guid>
+        <guid>https://hshuang.blog/en/use/</guid>
         <description>&lt;h2 id=&#34;-computer-software&#34;&gt;🖥️ Computer Software
 &lt;/h2&gt;&lt;h3 id=&#34;-operating-system&#34;&gt;💾 Operating System
 &lt;/h3&gt;&lt;ul&gt;
@@ -123,74 +163,34 @@
         </item>
         <item>
         <title>About</title>
-        <link>https://scientiatw.live/en/about/</link>
+        <link>https://hshuang.blog/en/about/</link>
         <pubDate>Mon, 01 Dec 2025 14:30:00 &#43;0800</pubDate>
         <author>Hong-Sheng Huang</author>
-        <guid>https://scientiatw.live/en/about/</guid>
-        <description>&lt;p&gt;I am &lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/en/hong-sheng-huang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://hshuang.blog/en/about/</guid>
+        <description>&lt;p&gt;I am &lt;a class=&#34;link&#34; href=&#34;https://secologies.com/en/hong-sheng-huang/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hong-Sheng Huang&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This social blog mainly features content on topics such as &amp;ldquo;reading reflections,&amp;rdquo; &amp;ldquo;life sharing,&amp;rdquo; and &amp;ldquo;humanities and arts.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;For any collaborations or inquiries, please email: hongshenghuang[at]proton[dot]me&lt;/p&gt;
-&lt;p&gt;If you want to read the technical blog, please visit：&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ZhiAn — Knowledge is Power in Cybersecurity&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;If you want to subscribe to the RSS feed, please use this link：&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/en/index.xml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;p&gt;If you want to read the technical blog, please visit：&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/en&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you want to subscribe to the RSS feed, please use this link：&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/en/index.xml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;RSS&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Now</title>
-        <link>https://scientiatw.live/en/now/</link>
-        <pubDate>Thu, 06 Nov 2025 00:00:00 &#43;0000</pubDate>
-        <author>Hong-Sheng Huang</author>
-        <guid>https://scientiatw.live/en/now/</guid>
-        <description>&lt;h2 id=&#34;-recent-status&#34;&gt;🏡 Recent status
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;🚎 Commuting between Hsinchu and Taipei: Each one-way trip takes over an hour and a half. After doing it for three days in a row, it’s starting to feel a bit troublesome. But renting places in both cities would be too much financially. I really admire people who commute to work every day.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🏃 Exercising daily as much as possible: No matter how things are going each day, I try to drop everything and go for a jog at the gym. Comparing different ways to unwind, I still find that exercise is the most effective stress relief—better than online entertainment.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🛏 Sleep: I make sure to get at least 7–8 hours of sleep every night. But my Apple Watch doesn’t have enough battery to track my sleep properly, so I’m still unsure about how much time I spend in REM and non-REM sleep. I’m also trying to rely less on caffeine in the morning.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;⏳ Work is heating up: I need to wrap up the first phase of my master’s thesis experiments by the end of June, and at the same time, complete and hand over the main objectives of the ITRI project.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-recent-online-activity&#34;&gt;🌐 Recent online activity
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Atoms of Cybersecurity&lt;/a&gt;: Planning to share some OSCP-related notes and thoughts on my tech blog.&lt;/li&gt;
-&lt;li&gt;🗓 Social Blog: Planning to share some life experience in Taiwan&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-recent-meals-and-beverages&#34;&gt;🍳 Recent meals and beverages
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🍱 Lately, I&amp;rsquo;ve been switching the main dish at lunchbox places to two or three eggs or a piece of tofu. I realized that in the past, I mostly picked heavily seasoned pork or beef, or deep-fried frozen foods as the main dish. As long as my routine gets even slightly off, my weight increases really quickly. After all, eating out is still the go-to option in Taiwan, so all I can do is adjust what I’m putting into my mouth as much as possible.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-recent-reads-listens-and-watches&#34;&gt;📚 Recent reads, listens, and watches
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📃 &lt;a class=&#34;link&#34; href=&#34;https://dl.acm.org/doi/10.1145/3576915.3623131&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Efficient Set Membership Encryption and Applications&lt;/a&gt;: Making Oblivious Transfer efficient enough for real-world implementation is actually quite an ingenious idea.&lt;/li&gt;
-&lt;li&gt;📃 &lt;a class=&#34;link&#34; href=&#34;https://eprint.iacr.org/2024/381&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Quantum Circuits of AES with a Low-depth Linear Layer and a New Structure&lt;/a&gt;: Reducing quantum circuit depth still appears to be the mainstream strategy.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>Archives</title>
-        <link>https://scientiatw.live/en/archives/</link>
+        <link>https://hshuang.blog/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 &#43;0000</pubDate>
         
-        <guid>https://scientiatw.live/en/archives/</guid>
+        <guid>https://hshuang.blog/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://scientiatw.live/en/search/</link>
+        <link>https://hshuang.blog/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
         
-        <guid>https://scientiatw.live/en/search/</guid>
+        <guid>https://hshuang.blog/en/search/</guid>
         <description></description>
         </item>
         

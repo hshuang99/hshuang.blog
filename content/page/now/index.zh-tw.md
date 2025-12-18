@@ -1,12 +1,12 @@
 ---
 title: 近況
 description: 最近在做些什麼
-date: '2025-12-13T11:30:00+08:00'
+date: '2025-12-18T23:34:00+08:00'
 author: "黃宏勝"
 aliases:
   - now
 slug: now
-lastmod: '2025-12-13T11:34:00+08:00'
+lastmod: '2025-12-18T23:36:00+08:00'
 menu:
     main: 
         weight: -70
@@ -22,8 +22,8 @@ menu:
 - ⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處
 
 ## 🌐 最近網路上的狀態
-- 💻 [知安即力量 — 資通安全第一品牌](https://scientia-potentia-est.com/zh/)：[電子報服務](https://scientia-potentia-est.com/zh/newsletter-zh/)開始規劃第一份電子報中
-- 🗓 社群部落格：不斷更新[人生清單](https://scientiatw.live/bucket-list/)中，因為這會影響我子彈筆記裡的年度計劃選項，希望透過這兩項能限制我平時的行為，而不要隨波逐流的在網路上閒逛
+- 💻 [Secologies](https://secologies.com/zh/)：由於原先的網域太長而且不好記，實在無法作為產品商業化，所以我換了一個新的網域，比較符合我之後的理念
+- 🗓 社群部落格：更換成新的網域名字，比較短也比較好記憶
 
 ## 🎯 最近的專案
 - 🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏

@@ -2,120 +2,120 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://scientiatw.live/en/</loc>
-    <lastmod>2025-12-17T14:33:00+08:00</lastmod>
+    <loc>https://hshuang.blog/en/</loc>
+    <lastmod>2025-12-18T23:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/"
+                href="https://hshuang.blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/"
+                href="https://hshuang.blog/en/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/page/</loc>
-    <lastmod>2025-12-17T14:33:00+08:00</lastmod>
+    <loc>https://hshuang.blog/en/now/</loc>
+    <lastmod>2025-12-18T23:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/page/"
+                href="https://hshuang.blog/now/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/page/"
+                href="https://hshuang.blog/en/now/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/use/</loc>
-    <lastmod>2025-12-17T14:33:00+08:00</lastmod>
+    <loc>https://hshuang.blog/en/page/</loc>
+    <lastmod>2025-12-18T23:36:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/use/"
+                href="https://hshuang.blog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/use/"
+                href="https://hshuang.blog/en/page/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/about/</loc>
+    <loc>https://hshuang.blog/en/use/</loc>
+    <lastmod>2025-12-17T14:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hshuang.blog/use/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hshuang.blog/en/use/"
+                />
+  </url><url>
+    <loc>https://hshuang.blog/en/about/</loc>
     <lastmod>2025-12-01T15:03:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/about/"
+                href="https://hshuang.blog/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/about/"
+                href="https://hshuang.blog/en/about/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/now/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://scientiatw.live/now/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://scientiatw.live/en/now/"
-                />
-  </url><url>
-    <loc>https://scientiatw.live/en/archives/</loc>
+    <loc>https://hshuang.blog/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/archives/"
+                href="https://hshuang.blog/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/archives/"
+                href="https://hshuang.blog/en/archives/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/categories/academic/</loc>
+    <loc>https://hshuang.blog/en/categories/academic/</loc>
   </url><url>
-    <loc>https://scientiatw.live/en/categories/</loc>
+    <loc>https://hshuang.blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/categories/"
+                href="https://hshuang.blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/categories/"
+                href="https://hshuang.blog/en/categories/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/search/</loc>
+    <loc>https://hshuang.blog/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/search/"
+                href="https://hshuang.blog/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/search/"
+                href="https://hshuang.blog/en/search/"
                 />
   </url><url>
-    <loc>https://scientiatw.live/en/tags/</loc>
+    <loc>https://hshuang.blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://scientiatw.live/tags/"
+                href="https://hshuang.blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://scientiatw.live/en/tags/"
+                href="https://hshuang.blog/en/tags/"
                 />
   </url>
 </urlset>

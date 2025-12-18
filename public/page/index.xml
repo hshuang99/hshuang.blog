@@ -2,17 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Hong-Sheng Huang&#39;s Blog</title>
-        <link>https://scientiatw.live/page/</link>
+        <link>https://hshuang.blog/page/</link>
         <description>Recent content in Pages on Hong-Sheng Huang&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Thu, 18 Dec 2025 11:42:00 +0800</lastBuildDate><atom:link href="https://scientiatw.live/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 18 Dec 2025 23:36:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>近況</title>
+        <link>https://hshuang.blog/now/</link>
+        <pubDate>Thu, 18 Dec 2025 23:34:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>https://hshuang.blog/now/</guid>
+        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法&lt;/li&gt;
+&lt;li&gt;🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息&lt;/li&gt;
+&lt;li&gt;🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店&lt;/li&gt;
+&lt;li&gt;🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇&lt;/li&gt;
+&lt;li&gt;⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;：由於原先的網域太長而且不好記，實在無法作為產品商業化，所以我換了一個新的網域，比較符合我之後的理念&lt;/li&gt;
+&lt;li&gt;🗓 社群部落格：更換成新的網域名字，比較短也比較好記憶&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
+Product Structure&lt;/li&gt;
+&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010587254?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《發現天賦之旅》&lt;/a&gt;：從自身出發到周遭的影響，從而發現自己的天賦與天命，如果對於自己的生命有所疑惑可以看看&lt;/li&gt;
+&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;茫DAY不錄&lt;/a&gt;：不適合，那可能是濁水溪吧，不是河😐&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>使用</title>
-        <link>https://scientiatw.live/use/</link>
+        <link>https://hshuang.blog/use/</link>
         <pubDate>Thu, 18 Dec 2025 11:41:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/use/</guid>
+        <guid>https://hshuang.blog/use/</guid>
         <description>&lt;h2 id=&#34;-電腦軟體&#34;&gt;🖥️ 電腦軟體
 &lt;/h2&gt;&lt;h3 id=&#34;-作業系統&#34;&gt;💾 作業系統
 &lt;/h3&gt;&lt;ul&gt;
@@ -139,21 +179,21 @@
         </item>
         <item>
         <title>關於</title>
-        <link>https://scientiatw.live/about/</link>
+        <link>https://hshuang.blog/about/</link>
         <pubDate>Mon, 15 Dec 2025 11:00:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/about/</guid>
+        <guid>https://hshuang.blog/about/</guid>
         <description>&lt;script&gt;var ConverlyCustomData = {channelId: null};&lt;/script&gt;
 &lt;script async defer src=&#34;https://cdn.affiliates.one/production/adlinks/9632d86e82ddae2c6327eb55c530875fb8f852063ff7075dd96c7f802672af39.js&#34;&gt;&lt;/script&gt;
 &lt;h2 id=&#34;關於本站&#34;&gt;關於本站
 &lt;/h2&gt;&lt;p&gt;此部落格主要記錄我所有好奇跟想做的事情&lt;/p&gt;
-&lt;p&gt;訂閱本站RSS的話請用這個連結：&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/index.xml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;p&gt;訂閱本站RSS的話請用這個連結：&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/index.xml&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;RSS&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;歡迎逛逛我的資安部落格：&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;知安即力量 — 資通安全第一品牌&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;歡迎逛逛我的資安部落格：&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;任何問題請寄到信箱內：hongshenghuang@proton.me&lt;/p&gt;
 &lt;h2 id=&#34;關於我&#34;&gt;關於我
-&lt;/h2&gt;&lt;p&gt;我是&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/hong-sheng-huang-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h2&gt;&lt;p&gt;我是&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh/hong-sheng-huang-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;黃宏勝&lt;/a&gt;，臺東人，但不騎山豬&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Z世代&lt;/li&gt;
@@ -189,10 +229,10 @@
         </item>
         <item>
         <title>人生清單</title>
-        <link>https://scientiatw.live/bucket-list/</link>
+        <link>https://hshuang.blog/bucket-list/</link>
         <pubDate>Sun, 14 Dec 2025 13:49:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/bucket-list/</guid>
+        <guid>https://hshuang.blog/bucket-list/</guid>
         <description>&lt;p&gt;如果說對於自己的人生感到焦慮，似乎覺得某個年紀時就必須何種成就，不斷地將自己的生活跟其他人作比較，那樣活著也太痛苦，所以我決定規劃自己的人生清單，試著不去在乎幾歲時應該要做什麼事，而是把這一生想做的事情都做完，我就覺得生命圓滿，充滿意義了&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -433,53 +473,11 @@
 </description>
         </item>
         <item>
-        <title>近況</title>
-        <link>https://scientiatw.live/now/</link>
-        <pubDate>Sat, 13 Dec 2025 11:30:00 &#43;0800</pubDate>
-        <author>黃宏勝</author>
-        <guid>https://scientiatw.live/now/</guid>
-        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法&lt;/li&gt;
-&lt;li&gt;🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息&lt;/li&gt;
-&lt;li&gt;🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店&lt;/li&gt;
-&lt;li&gt;🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇&lt;/li&gt;
-&lt;li&gt;⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;知安即力量 — 資通安全第一品牌&lt;/a&gt;：&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh/newsletter-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;電子報服務&lt;/a&gt;開始規劃第一份電子報中&lt;/li&gt;
-&lt;li&gt;🗓 社群部落格：不斷更新&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/bucket-list/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;人生清單&lt;/a&gt;中，因為這會影響我子彈筆記裡的年度計劃選項，希望透過這兩項能限制我平時的行為，而不要隨波逐流的在網路上閒逛&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
-Product Structure&lt;/li&gt;
-&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010587254?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《發現天賦之旅》&lt;/a&gt;：從自身出發到周遭的影響，從而發現自己的天賦與天命，如果對於自己的生命有所疑惑可以看看&lt;/li&gt;
-&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;茫DAY不錄&lt;/a&gt;：不適合，那可能是濁水溪吧，不是河😐&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>圖冊</title>
-        <link>https://scientiatw.live/gallery/</link>
+        <link>https://hshuang.blog/gallery/</link>
         <pubDate>Tue, 09 Dec 2025 16:50:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/gallery/</guid>
+        <guid>https://hshuang.blog/gallery/</guid>
         <description>&lt;gallery&gt;
 &lt;!--&lt;img src=&#34;&#34; alt=&#34;&#34; data-link=&#34;&#34; /&gt; --&gt;
 &lt;img src=&#34;https://scientia-potentia-est.com/wp-content/uploads/2025/10/20251025-希臘式優酪-scaled.webp&#34; alt=&#34;希臘式優格&#34; data-link=&#34;&#34; /&gt;
@@ -501,10 +499,10 @@ Product Structure&lt;/li&gt;
         </item>
         <item>
         <title>訂閱電子報</title>
-        <link>https://scientiatw.live/newsletter/</link>
+        <link>https://hshuang.blog/newsletter/</link>
         <pubDate>Sat, 29 Nov 2025 19:40:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/newsletter/</guid>
+        <guid>https://hshuang.blog/newsletter/</guid>
         <description>&lt;div id=&#34;mc_embed_shell&#34;&gt;
       &lt;link href=&#34;//cdn-images.mailchimp.com/embedcode/classic-061523.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
   &lt;style type=&#34;text/css&#34;&gt;
@@ -979,10 +977,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         </item>
         <item>
         <title>書單</title>
-        <link>https://scientiatw.live/books/</link>
+        <link>https://hshuang.blog/books/</link>
         <pubDate>Tue, 18 Nov 2025 15:09:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/books/</guid>
+        <guid>https://hshuang.blog/books/</guid>
         <description>&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -995,79 +993,79 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010954573?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202510&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《決策的邏輯》：行為心理學如何影響我們的選擇？&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;http://scientiatw.live/p/decision-logic-why-change-is-so-hard/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/decision-logic-why-change-is-so-hard/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《決策的邏輯》：為什麼改變會如此困難？&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;商業&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;我想念我自己（經典愛藏版）&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/still-alice/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/still-alice/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《我想念我自己》讀後心得&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;文學小說&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010983296?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202510&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/well-rest-ignore-rest/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/well-rest-ignore-rest/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《好好休息》：職場上忽略了休息，我們最終會面臨什麼？&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;健康&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010973322?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202508&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《自私的藝術》：快樂有理，自私無罪！別再讓「過度妥協」控制你的餘生，美國心理學權威給無私好人的50個自救箴言&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-understand-your-thoughts/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《自私的藝術》：了解自己的想法&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-where-the-way-lead-to-hapiness/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《自私的藝術》：何處才是通往快樂的道路？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-never-compromise/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《自私的藝術》：永遠不要委屈求全&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-root-of-my-problems/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《自私的藝術》：自身問題的根源&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-stress-of-life/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《自私的藝術》：生活的壓力&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-art-of-selfishness-art-of-shirk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-understand-your-thoughts/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《自私的藝術》：了解自己的想法&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-where-the-way-lead-to-hapiness/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《自私的藝術》：何處才是通往快樂的道路？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-never-compromise/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《自私的藝術》：永遠不要委屈求全&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-root-of-my-problems/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《自私的藝術》：自身問題的根源&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-stress-of-life/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《自私的藝術》：生活的壓力&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-art-of-selfishness-art-of-shirk/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《自私的藝術》：偷懶的藝術&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;人生&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010982682?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202507&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《慢老2.0》：不是活得更老，而是延長健康中年！ 全面升級健腦、強肌、抗衰的日常習慣&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/slow-aging-cognitive-reserve/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《慢老2.0》：閱讀、寫信、玩遊戲將失智症延後五年&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/slow-aging-reverse-brain-aging/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《慢老2.0》：運動35天逆轉大腦老化&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/slow-aging-sedentary-destroy-your-memory/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《慢老2.0》：久坐摧毀你的記憶力！&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/slow-aging-ten-ways-to-activate-your-brain/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/slow-aging-cognitive-reserve/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《慢老2.0》：閱讀、寫信、玩遊戲將失智症延後五年&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/slow-aging-reverse-brain-aging/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《慢老2.0》：運動35天逆轉大腦老化&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/slow-aging-sedentary-destroy-your-memory/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《慢老2.0》：久坐摧毀你的記憶力！&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/slow-aging-ten-ways-to-activate-your-brain/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《慢老2.0》讀後心得：活化大腦的十種方法&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;健康&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010926376?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202505&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《子彈思考整理術》：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/the-bullet-journal-method-freedom-of-choose-is-privilege/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/the-bullet-journal-method-freedom-of-choose-is-privilege/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《子彈思考整理術》讀後心得：選擇的自由是一種特權&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;時間管理&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010959050?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202504&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《為什麼要睡覺？》：睡出健康與學習力、夢出創意的新科學&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/why-we-sleep-harm/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《為什麼要睡覺？》讀後心得：睡眠不足對於身體的各種危害&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/why-we-sleep-youth/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《為什麼要睡覺？》讀後心得：理性思考最後才成熟&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/why-we-sleep-type/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/why-we-sleep-harm/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《為什麼要睡覺？》讀後心得：睡眠不足對於身體的各種危害&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/why-we-sleep-youth/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《為什麼要睡覺？》讀後心得：理性思考最後才成熟&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/why-we-sleep-type/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《為什麼要睡覺？》讀後心得：你是早鳥還是夜貓子？&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;健康&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010762863?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202504&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《研究生完全求生手冊》：方法、秘訣、潛規則&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/survival-handbook-for-graduate-student-problematic/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《研究生完全求生手冊》讀後心得：Problematic&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/survival-handbook-for-graduate-student-goal/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《研究生完全求生手冊》讀後心得：為了什麼而研究？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/survival-handbook-for-graduate-student-innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《研究生完全求生手冊》讀後心得：創新要領？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/survival-handbook-for-graduate-student-write/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《研究生完全求生手冊》讀後心得：寫作方向&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/survival-handbook-for-graduate-student-read/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/survival-handbook-for-graduate-student-problematic/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《研究生完全求生手冊》讀後心得：Problematic&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/survival-handbook-for-graduate-student-goal/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《研究生完全求生手冊》讀後心得：為了什麼而研究？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/survival-handbook-for-graduate-student-innovation/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《研究生完全求生手冊》讀後心得：創新要領？&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/survival-handbook-for-graduate-student-write/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《研究生完全求生手冊》讀後心得：寫作方向&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/survival-handbook-for-graduate-student-read/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《研究生完全求生手冊》讀後心得：閱讀期刊論文方法&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;學術&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010928347?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202504&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《長銷!》 內容、定位、行銷、平台, 從個人創作到企業經營都要懂的打造經典之道&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/perennial-seller-content/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《長銷》讀後心讀：內容為王&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/perennial-seller-positioning/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《長銷》讀後心讀：市場定位&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/perennial-seller-platform/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《長銷》讀後心讀：最後的戰場-平台&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientiatw.live/p/perennial-seller-marketing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/perennial-seller-content/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《長銷》讀後心讀：內容為王&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/perennial-seller-positioning/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《長銷》讀後心讀：市場定位&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/perennial-seller-platform/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《長銷》讀後心讀：最後的戰場-平台&lt;/a&gt;&lt;br&gt;&lt;a class=&#34;link&#34; href=&#34;https://hshuang.blog/p/perennial-seller-marketing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;《長銷》讀後心讀：行銷給誰？&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;行銷&lt;/td&gt;
       &lt;/tr&gt;
@@ -1077,10 +1075,10 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         </item>
         <item>
         <title>推薦</title>
-        <link>https://scientiatw.live/links/</link>
+        <link>https://hshuang.blog/links/</link>
         <pubDate>Sat, 08 Nov 2025 09:50:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/links/</guid>
+        <guid>https://hshuang.blog/links/</guid>
         <description>&lt;h2 id=&#34;-部落格&#34;&gt;🎰 部落格
 &lt;/h2&gt;&lt;table&gt;
   &lt;thead&gt;
@@ -1107,8 +1105,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
           &lt;td&gt;只恨老天沒眼睛，讀書沒有贏&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://scientia-potentia-est.com/zh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;知安即力量 — 資通安全第一品牌&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;自己的資安部落格，當然要推廣一下&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -1236,18 +1234,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         </item>
         <item>
         <title>紀錄</title>
-        <link>https://scientiatw.live/archives/</link>
+        <link>https://hshuang.blog/archives/</link>
         <pubDate>Sat, 24 May 2025 00:00:00 &#43;0000</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/archives/</guid>
+        <guid>https://hshuang.blog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜尋</title>
-        <link>https://scientiatw.live/search/</link>
+        <link>https://hshuang.blog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
         <author>黃宏勝</author>
-        <guid>https://scientiatw.live/search/</guid>
+        <guid>https://hshuang.blog/search/</guid>
         <description></description>
         </item>
         
