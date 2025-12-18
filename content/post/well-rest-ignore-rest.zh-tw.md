@@ -22,7 +22,7 @@ keywords = [
   "好好休息",
 ]
 description = "好好休息，不應該被視為工作完成後的附帶產品，而是一個重要的身心修復過程，只有在適當休息過後，我們才能保持高效的生活方式"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/10/rest-well-cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/10/rest-well-cover.webp"
 slug = "well-rest-ignore-rest"
 +++
 ## 漸漸失眠

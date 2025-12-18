@@ -24,7 +24,7 @@ keywords = [
   "自私的藝術",
 ]
 description = "我們所面臨的世界究竟是由他人還是自己在掌控著？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
 slug = "the-art-of-selfishness-root-of-my-problems"
 +++
 **就連釋迦牟尼，都不會順服所有人的意見。他懂得自我的主宰**，隨著歲數的增長，我理解到不管是哪一種人即便表面上顯得沒事，但他們每個人都會有自己的問題，不論事業上的大事，或者煩惱今天晚餐要吃什麼的小事，沒有人可以擺脫掉這一切

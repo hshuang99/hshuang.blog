@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "雖然你我的身體時鐘是運行二十四小時作息，但總會發現有些人早上精神較好，有些人則是晚上才會生龍活虎"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
 slug = "why-we-sleep-type"
 +++
 

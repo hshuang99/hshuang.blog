@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "你會不會覺得十六歲的青少年腦中總是少根筋？然而從腦神經科學中發現其實這是正常的"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
 slug = "why-we-sleep-youth"
 +++
  

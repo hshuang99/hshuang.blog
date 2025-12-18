@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "文獻回顧除了讓你清楚知道各研究流派的前因後果，更能培養出批判性思考的能力，避免沒必要的錯誤和研究上的弱點，並且從文獻回顧中找到創新的靈感與策略，為了達成這些目標，必須先回答三個問題"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/survival_handbook_for_graduate_student_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/survival_handbook_for_graduate_student_cover.webp"
 slug = "survival-handbook-for-graduate-student-innovation"
 +++
 文獻回顧除了讓你清楚知道各研究流派的前因後果，更能培養出批判性思考的能力，避免沒必要的錯誤和研究上的弱點，並且從文獻回顧中找到創新的靈感與策略，為了達成這些目標，必須先回答三個問題

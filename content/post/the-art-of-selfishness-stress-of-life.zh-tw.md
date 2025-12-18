@@ -22,7 +22,7 @@ keywords = [
   "自私的藝術",
 ]
 description = "生命中的難題不斷地堆疊起來"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
 slug = "the-art-of-selfishness-stress-of-life"
 +++
 **在生活中，日複一日單調乏味的付出，足以吞噬一個人的心**，我醒來盥洗收拾書包走出門，7-11一樣的25元台農57號地瓜配上兩顆茶葉蛋，走進實驗室內倒入咖啡豆磨出黑咖啡，一整天在電腦前坐上12\~14小時，食之無味的午、晚餐便當搭配著永遠看不完的paper，尋思著我接下來的35\~40年人生每天就如此循環著

@@ -19,7 +19,7 @@ keywords:
   - 運動
   - 放鬆心情
 description: "您有過血糖波動的經驗嗎？是否會在飯後頭昏腦脹呢？而我們又該如何預防這種情況呢？"
-image: "https://scientia-potentia-est.com/wp-content/uploads/2025/11/control-blood-glucose-ten-ways-cover-scaled.webp"
+image: "https://secologies.com/wp-content/uploads/2025/11/control-blood-glucose-ten-ways-cover-scaled.webp"
 slug: "control-blood-glucose-ten-ways"
 ---
 當我們被診斷出罹患糖尿病時，並不等於要立刻馬上進行藥物治療，治療糖尿病的第一步，也是最核心的一步，是要改變原先的「生活型態」，其實整個療程不只有吃藥而已，事實上，藥物只是輔助工具

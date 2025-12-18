@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "學術著作在撰寫時總需要滿足一些基本的特"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/survival_handbook_for_graduate_student_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/survival_handbook_for_graduate_student_cover.webp"
 slug = "survival-handbook-for-graduate-student-write"
 +++
 學術著作在撰寫時總需要滿足一些基本的特性

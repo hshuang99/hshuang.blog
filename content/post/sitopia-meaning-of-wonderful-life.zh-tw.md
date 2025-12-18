@@ -18,7 +18,7 @@ keywords = [
   "人生",
 ]
 description = "如果不好好吃，怎麼好好思考、好好去愛、好好睡覺？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/08/sitopia-cover.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/08/sitopia-cover.webp" 
 slug = "sitopia-meaning-of-wonderful-life"
 +++
 當我們飢餓、口渴、冷、生病或有危險時追尋美善的生活根本毫無意義，那個時代只有關乎生存的食物、水、溫暖、藥物和棲身之處才是極為珍貴的「商品」，而當科技的進步解決了這些事情之後，我們開始能夠對抗死亡，但也遠離了自己生命有限的事實，從全素食主義、實驗室植物肉，到甚至有人花錢把年輕血液打進自己的身體裡[1]

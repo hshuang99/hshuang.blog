@@ -22,7 +22,7 @@ keywords = [
   "自私的藝術",
 ]
 description = "如何更好地管理工作與生活"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
 slug = "the-art-of-selfishness-art-of-shirk"
 +++
 **只要你使用的方法不對，或許永遠都不會得到適當的回報**，你看著你那比你晚進公司的後輩升上了經理，一臉愜意的坐在他那舒適的位置上，你觀察了他好幾年發現這後輩在職場上總是能留一些時間給自己，而你，我的朋友，你從早到晚一直忙忙碌碌戰戰兢兢地工作，我們應該如何改善這種情況呢？

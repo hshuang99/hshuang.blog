@@ -22,7 +22,7 @@ keywords = [
   "讀後心得",
 ]
 description = "失去了過往而未來也不再期待，因為能夠體驗的只有這個當下，該具備何種勇氣才能繼續走下去？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/10/Still-Alice-Cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/10/Still-Alice-Cover.webp"
 slug = "still-alice"
 +++
 **失智症**，目前在世界上許多已開發國家裡最棘手的疾病之一，隨著醫療技術越加發達，人們的壽命上限一直在擴增，然而身體與大腦卻只會越來越虛弱，當年紀增長大腦的皮質層及腦神經卻不斷地失去功能，最終出現認知功能下降的狀況，我們目前能做的，就只能讓發病時期延緩，而其中最廣為人知也佔了六成大宗的情況就是**阿茲海默症**

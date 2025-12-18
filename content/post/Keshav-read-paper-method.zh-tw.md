@@ -18,7 +18,7 @@ keywords = [
   "如何閱讀paper",
 ]
 description = "由Canada University of Waterloo School of Computer Science professor S. Keshav帶給大家主要使用IEEE journal template的架構來做說明"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/HowToReadAPaperCover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/HowToReadAPaperCover.webp"
 slug = "Keshav-read-paper-method"
 +++
 由Canada University of Waterloo School of Computer Science professor S. Keshav帶給大家主要使用IEEE journal template的架構來做說明

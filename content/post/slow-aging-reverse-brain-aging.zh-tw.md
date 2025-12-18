@@ -24,7 +24,7 @@ keywords = [
   "慢老2.0",
 ]
 description = "三十五天才能體驗到認知能力的顯著改善"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
 slug = "slow-aging-reverse-brain-aging"
 +++
 運動的好處大家有目共睹，預防癌症、強化心血管功能以及提升代謝等，甚至還可以維持大腦的健康，澳洲昆士蘭大學大腦研究所經過十幾年的研究發現，**35天**的運動可以改善學習和記憶力，他們監控實驗小鼠運動後的大腦與腦下垂體組織，觀察生長激素是否刺激了海馬迴

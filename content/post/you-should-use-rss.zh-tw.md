@@ -15,7 +15,7 @@ keywords:
   - 資訊 
   - 壟斷
 description: "在這個注意力被各種事物搶奪的時代，你是否感覺自己在資訊海洋中溺水了？"
-image: "https://scientia-potentia-est.com/wp-content/uploads/2025/08/rss-cover-scaled.webp"
+image: "https://secologies.com/wp-content/uploads/2025/08/rss-cover-scaled.webp"
 slug: "you-should-use-rss"
 ---
  

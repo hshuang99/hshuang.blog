@@ -22,7 +22,7 @@ keywords = [
   "自私的藝術",
 ]
 description = "為什麼我們需要探索自我？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/08/The-Art-of-Selfishness-cover.webp" 
 slug = "the-art-of-selfishness-understand-your-thoughts"
 +++
 **在你開始誠實面對自己的個性後，你很快就會更認識自己。你唯一的義務就是做自己**，夜深人靜躺在床上時，常常想著我自己是什麼樣的人，也許我潛意識早就已經知道了？體內那些被稱之為生命流或生命力的事物被基因所控制著，不論是健康抑或病懨懨的器官跟大腦早已被我的祖先決定，但我必須將注意力從自己的身上移開，將意志專注在解決問題上

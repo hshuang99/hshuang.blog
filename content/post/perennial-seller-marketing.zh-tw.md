@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "除了砸大錢，還有很多高CP值的行銷工具可以用！"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/perennial_seller_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/perennial_seller_cover.webp"
 slug = "perennial-seller-marketing"
 +++
 除了砸大錢，還有很多高CP值的行銷工具可以用！

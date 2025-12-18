@@ -19,7 +19,7 @@ keywords = [
   "子彈思考整理術",
   "讀後心得",
 ]
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/TheBulletJournalMethodCover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/TheBulletJournalMethodCover.webp"
 description = "身處二十一世紀的我們每天說著自己「很忙」，但經過這些忙碌後真的有讓我們得到更多了嗎？"
 slug = "the-bullet-journal-method-freedom-of-choose-is-privilege"
 +++

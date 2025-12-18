@@ -24,14 +24,14 @@ keywords = [
   "讀後心得",
 ]
 description = "梵谷在他短短37年的人生創造了上千件作品留給我們世人"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/06/VincentVanGogh-Cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/06/VincentVanGogh-Cover.webp"
 slug = "Vincent-Van-Gogh"
 +++
  
 文森・梵谷的藝術家之旅始於27歲，在那之前他的工作都挺不順遂的，遊歷海牙回到家鄉紐南時喜歡在大自然中體驗「真正的生活」，1885年4月的第一幅大型油畫作品《吃馬鈴薯的人》誕生，使用的色調非常暗，很明顯是受到米勒的影響
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/The-Potato-Eaters.webp" alt="The-Potato-Eaters">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/The-Potato-Eaters.webp" alt="The-Potato-Eaters">
   <figcaption>《吃馬鈴薯的人》- 1885年, 82cm x 114cm, 阿姆斯特丹梵谷博物館</figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ slug = "Vincent-Van-Gogh"
 > 換而言之，就是生命
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Agostina-Segatori.webp" alt="Agostina Segatori Sitting in the Café du Tambourin">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Agostina-Segatori.webp" alt="Agostina Segatori Sitting in the Café du Tambourin">
   <figcaption>《鈴鼓咖啡廳的阿格斯蒂娜》- 1887年2-3月, 55.5cm x 46.5cm, 奧特洛庫勒-穆勒博物館</figcaption>
 </figure>
 
@@ -55,17 +55,17 @@ slug = "Vincent-Van-Gogh"
 跟弟弟西奧合住讓他在生活上比較能將重心放在藝術上，與顏料店店主唐吉老爹也成了朋友，唐吉老爹的店裡會有進口日本浮世繪版畫的作品，這讓這些聚集在蒙馬特的藝術家可以到店裡臨摹，梵谷等人當時在藝術評論中被描述為「新印象派」
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Portrait-of-Pere-Tanguy.webp" alt="Portrait of Père Tanguy">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Portrait-of-Pere-Tanguy.webp" alt="Portrait of Père Tanguy">
   <figcaption>《唐吉老爹肖像》- 1887年, 65cm x 51cm, 巴黎羅丹博物館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/SunFlower.webp" alt="SunFlowers">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/SunFlower.webp" alt="SunFlowers">
   <figcaption>《向日葵》- 1887年, 43cm x 61cm, 紐約大都會藝術博物館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Asnieres.webp" alt="Asnières-sur-Seine">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Asnieres.webp" alt="Asnières-sur-Seine">
   <figcaption>《塞納河畔阿涅爾的公園》(局部) - 1887年, 65cm x 51cm, 巴黎羅丹博物館</figcaption>
 </figure>
 
@@ -76,12 +76,12 @@ slug = "Vincent-Van-Gogh"
 也許我們的文森被壓力喘不過氣，或者被自己的理想逼到盡頭了，聖誕夜前夕梵谷割下自己的左耳送給別人，這讓高更嚇得直接烙跑，梵谷也進了精神病院接受治療
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Cafe-Terrace-at-Night.webp" alt="Café Terrace at Night">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Cafe-Terrace-at-Night.webp" alt="Café Terrace at Night">
   <figcaption>《夜晚的露天咖啡座》- 1888年9月, 81cm x 65.5cm, 奧特洛庫勒-穆勒博物館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Postman-Joseph-Roulin.webp" alt="Postman Joseph Roulin">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Postman-Joseph-Roulin.webp" alt="Postman Joseph Roulin">
   <figcaption>《郵差魯倫》- 1889年2月, 79.5cm x 63.5cm, 奧特洛庫勒-穆勒博物館</figcaption>
 </figure>
 
@@ -90,19 +90,19 @@ slug = "Vincent-Van-Gogh"
 發病期間不能外出的話就只能在室內臨摹米勒跟林布蘭的作品，嘗試賦予作品新的理解跟生命，被病痛折磨的梵谷在焦慮與孤獨的山谷中徘徊，在走向下次發病時的恐懼與煎熬當中，《星夜》、怒放的《鳶尾花》、橄欖樹、麥田、山脈和山腳下的小村落漸漸的重新賦予了生機
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/The-Starry-Night.webp" alt="The Starry Night">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/The-Starry-Night.webp" alt="The Starry Night">
   <figcaption>《星夜》- 1889年6月, 73.2cm x 92.1cm, 紐約現代藝術博物館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Irises.webp" alt="Irises">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Irises.webp" alt="Irises">
   <figcaption>《鳶尾花》- 1889年5月, 71cm x 93cm, 洛杉磯保羅-蓋蒂博物館</figcaption>
 </figure>
 
 當然在這期間還是有一些好事發生，梵谷生前唯一賣掉的《紅色葡萄園》被比利時畫家尤金·博赫的姊姊安娜·博赫用400法郎買下，西奧的兒子小文森誕生到這個世上
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/The-Red-Vineyard.webp" alt="The Red Vineyard">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/The-Red-Vineyard.webp" alt="The Red Vineyard">
   <figcaption>《紅色葡萄園》- 1888年11月, 73cm x 91cm, 莫斯科普希金美術館</figcaption>
 </figure>
 
@@ -115,17 +115,17 @@ slug = "Vincent-Van-Gogh"
 > 也許梵谷從來都沒有瘋？也許只是他跑得太快了，而時代在他背後氣喘呼呼？
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Portrait-of-Dr.-Gachet.webp" alt="Portrait of Dr. Gachet">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Portrait-of-Dr.-Gachet.webp" alt="Portrait of Dr. Gachet">
   <figcaption>《加歇醫生》- 1890年6月, 68cm x 57cm, 巴黎奧賽博物館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Poppy-Field.webp" alt="The Poppy Field">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Poppy-Field.webp" alt="The Poppy Field">
   <figcaption>《罌粟田》- 1890年6月, 73cm x 92cm, 海牙市立美術館</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/06/Wheatfield-with-Crows-scaled.webp" alt="The Wheatfield with Crows">
+  <img src="https://secologies.com/wp-content/uploads/2025/06/Wheatfield-with-Crows-scaled.webp" alt="The Wheatfield with Crows">
   <figcaption>《麥田烏鴉》- 1890年7月, 50.5cm x 103cm, 阿姆斯特丹梵谷博物館</figcaption>
 </figure>
 

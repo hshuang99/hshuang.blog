@@ -20,7 +20,7 @@ keywords = [
   "讀後心得",
 ]
 description = "人生中健康的三大支柱，有些人排序成「飲食」、「運動」，最後是「睡眠」，但從研究結果來看「睡眠」才是另外兩項條件的基底"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
+image = "https://secologies.com/wp-content/uploads/2025/05/why_we_sleep_cover.webp"
 slug = "why-we-sleep-harm"
 +++
  

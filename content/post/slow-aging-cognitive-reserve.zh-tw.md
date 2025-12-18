@@ -26,7 +26,7 @@ keywords = [
   "慢老2.0",
 ]
 description = "關鍵因素在於你如何處理資訊，任何能刺激心智，對智力有挑戰的活動都有辦法讓認知能力水平下降速度減緩"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
 slug = "slow-aging-cognitive-reserve"
 +++
 「認知儲備」(cognitive reserve)也就是常動腦將腦力儲存在大腦銀行裡，有可能降低失

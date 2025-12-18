@@ -19,7 +19,7 @@ keywords:
   - Kobo
   - MobiScribe Origin
 description: "放下會毒害自己大腦的社群媒體，擁抱單純的閱讀拯救自己的大腦吧"
-image: "https://scientia-potentia-est.com/wp-content/uploads/2025/11/Kobo-Clara-BW-cover.webp"
+image: "https://secologies.com/wp-content/uploads/2025/11/Kobo-Clara-BW-cover.webp"
 slug: "ebook-ereader-changes-me"
 ---
 我最一開始是在Seminar的課上看到教授使用一塊不會發光的平板而感到好奇，一問之下我就越陷越深了，開始在網路上搜尋相關的資訊，找到各個電子書閱讀器品牌的社群，漸漸的對於各品牌有更多的瞭解
@@ -40,26 +40,26 @@ slug: "ebook-ereader-changes-me"
 
 當時沒花多久時間就看到一台二手7吋Kobo Libra H2O狀況還ok，我第二台使用的封閉式閱讀器，體驗是真的不錯，不需要像開放式機器那樣煩惱太多，反正我的需求就只有閱讀跟看Paper，反觀社團裡有些人拿來看社群媒體、看影片，甚至玩遊戲的都有，呱張了
 
-<p align="center"><img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/呱張.webp" alt="呱張" width="400"/></p>
+<p align="center"><img src="https://secologies.com/wp-content/uploads/2025/11/呱張.webp" alt="呱張" width="400"/></p>
 
 帶去實習公司裡也很方便，畢竟7吋才192克，卻至少可以下載6000本書，賺爛了
 
-<p align="center"><img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/賺爛了.webp" alt="賺爛了" width="500"/></p>
+<p align="center"><img src="https://secologies.com/wp-content/uploads/2025/11/賺爛了.webp" alt="賺爛了" width="500"/></p>
 
 而接下來每天的日子就是看讀墨跟Kobo書城的特價書籍是什麼，有意思或對我有幫助的書就直接買授權，而不需要再等寄送的過程，宿舍的櫃子也慢慢清空了，搬東西時不再需要帶很多東西，我觀察到每次搬宿舍裝箱最重的應該是放書的箱子
 
 最終，電子書閱讀器成為我生命中不可或缺的一塊，目前服役的是13.3吋[讀墨 mooInk Pro 2C](https://moo.im/a/luyzKS)跟6吋[Kobo Clara BW](https://r10.to/hkkbYN)兩台，在室內就用mooInk pro看paper，離開實驗室去學餐吃飯就靠Clara BW，即使有保護套要放進我褲子口袋裡，也是從從容容遊刃有餘
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/08/IMG_0403-scaled.webp" alt="讀墨MooInk Pro 2C" width="600">
+  <img src="https://secologies.com/wp-content/uploads/2025/08/IMG_0403-scaled.webp" alt="讀墨MooInk Pro 2C" width="600">
   <figcaption>讀墨 mooInk Pro 2C</figcaption>
 </figure>
 
 <figure>
-  <img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/Clara-and-Libra-2-scaled.webp" alt="Kobo Clara BW" width="800">
+  <img src="https://secologies.com/wp-content/uploads/2025/11/Clara-and-Libra-2-scaled.webp" alt="Kobo Clara BW" width="800">
   <figcaption>Kobo Clara BW (左)</figcaption>
 </figure>
 
-<p align="center"><img src="https://scientia-potentia-est.com/wp-content/uploads/2025/11/Clara從從容容遊刃有餘-scaled.webp" alt="Kobo Clara BW放口袋從從容容游刃有餘" width="400"/></p>
+<p align="center"><img src="https://secologies.com/wp-content/uploads/2025/11/Clara從從容容遊刃有餘-scaled.webp" alt="Kobo Clara BW放口袋從從容容游刃有餘" width="400"/></p>
 
 文字在我的生活中是隨處可見的，可以說，只要靠閱讀器不斷地輸入，我就有可能無限的輸出，它改變了我，也正因為我不再想要讓社群媒體內容荼毒我的大腦，所以我做出了選擇。

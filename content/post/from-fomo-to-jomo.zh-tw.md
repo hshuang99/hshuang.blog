@@ -22,7 +22,7 @@ keywords = [
   "對策",
 ]
 description = "數位原生世代面對FOMO現象更劇烈，有沒有哪些對策可以使用？"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/09/from-FOMO-to-JOMO-cover-scaled.webp"
+image = "https://secologies.com/wp-content/uploads/2025/09/from-FOMO-to-JOMO-cover-scaled.webp"
 slug = "from-fomo-to-jomo"
 +++
 年輕族群自小接觸網際網路，身為數位原住民的他們很早就擁有許多社群平台的帳號，幾乎成長歷程中都有使用社群媒體了解同學、認識新朋友的經驗，卻也更加容易受到FOMO現象影響

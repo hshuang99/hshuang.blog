@@ -23,7 +23,7 @@ keywords = [
   "慢老2.0",
 ]
 description = "從久坐不動的世界中站起來吧，為了你的大腦健康，你必須這麼做"
-image = "https://scientia-potentia-est.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
+image = "https://secologies.com/wp-content/uploads/2025/07/slow-old-cover-2.webp" 
 slug = "slow-aging-sedentary-destroy-your-memory"
 +++
 出門時常常忘記帶錢包、手機或鑰匙，去大賣場採購完又忘了自己車子停在哪層樓，如果害怕大腦失能、認知衰退得太快的話，那中年之後就要常常離開你的椅子，美國加州大學洛杉磯分校(UCLA)對三十五位，45歲\~75歲的人進行訪談並且做大腦核磁共振掃描的研究結果表示每多坐一小時，大腦內側顳葉厚度就會減少2\%，不分年齡只要久坐該腦區都會變薄
