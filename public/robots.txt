@@ -3,7 +3,25 @@ User-agent: *
   
 Allow: /
   
+Allow: /categories/
+  
+Allow: /tags/fomo/
+  
 Allow: /post/
+  
+Allow: /tags/slop/
+  
+Allow: /tags/
+  
+Allow: /categories/%E7%94%9F%E6%B4%BB/
+  
+Allow: /p/sayonara-zuckerberg/
+  
+Allow: /tags/%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94/
+  
+Allow: /tags/%E8%84%AB%E9%9B%A2/
+  
+Allow: /tags/%E6%BC%94%E7%AE%97%E6%B3%95/
   
 Allow: /page/
   
@@ -19,8 +37,6 @@ Allow: /bucket-list/
   
 Allow: /micro/2025-12-13/
   
-Allow: /tags/
-  
 Allow: /tags/%E4%BA%BA%E7%94%9F/
   
 Allow: /tags/%E5%A4%A9%E8%B3%A6/
@@ -32,8 +48,6 @@ Allow: /tags/%E6%88%90%E5%8A%9F/
 Allow: /gallery/
   
 Allow: /newsletter/
-  
-Allow: /categories/
   
 Allow: /tags/kobo/
   
@@ -86,8 +100,6 @@ Allow: /tags/%E6%84%9F%E6%81%A9/
 Allow: /tags/%E9%81%8B%E6%B0%A3/
   
 Allow: /links/
-  
-Allow: /categories/%E7%94%9F%E6%B4%BB/
   
 Allow: /tags/%E8%A1%80%E7%B3%96/
   
@@ -163,8 +175,6 @@ Allow: /tags/%E5%89%B5%E5%82%B7%E5%BE%8C%E5%A3%93%E5%8A%9B%E7%97%87%E5%80%99%E7%
   
 Allow: /tags/%E6%82%B2%E5%82%B7/
   
-Allow: /tags/fomo/
-  
 Allow: /tags/jomo/
   
 Allow: /p/from-fomo-to-jomo/
@@ -178,8 +188,6 @@ Allow: /tags/%E9%8C%AF%E5%A4%B1%E7%84%A6%E6%85%AE/
 Allow: /tags/%E8%87%AA%E6%88%91%E5%83%B9%E5%80%BC/
   
 Allow: /p/fear-of-missing-out-and-me/
-  
-Allow: /tags/%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94/
   
 Allow: /tags/%E7%84%A6%E6%85%AE/
   
