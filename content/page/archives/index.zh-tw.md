@@ -6,7 +6,7 @@ author: "黃宏勝"
 slug: "archives"
 menu:
     main:
-        weight: 0
+        weight: 30
         params: 
             icon: archives
 ---

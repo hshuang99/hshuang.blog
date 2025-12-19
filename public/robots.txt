@@ -5,6 +5,8 @@ Allow: /
   
 Allow: /page/
   
+Allow: /support/
+  
 Allow: /now/
   
 Allow: /use/
