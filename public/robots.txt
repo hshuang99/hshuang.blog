@@ -3,6 +3,8 @@ User-agent: *
   
 Allow: /
   
+Allow: /post/
+  
 Allow: /page/
   
 Allow: /support/
@@ -36,8 +38,6 @@ Allow: /categories/
 Allow: /tags/kobo/
   
 Allow: /tags/mobiscribe-origin/
-  
-Allow: /post/
   
 Allow: /categories/%E7%A7%91%E6%8A%80/
   

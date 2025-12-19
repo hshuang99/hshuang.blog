@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>脫離 on Hong-Sheng Huang&#39;s Blog</title>
+        <link>http://localhost:1313/tags/%E8%84%AB%E9%9B%A2/</link>
+        <description>Recent content in 脫離 on Hong-Sheng Huang&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-tw</language>
+        <copyright>Hong-Sheng Huang</copyright>
+        <lastBuildDate>Fri, 19 Dec 2025 15:58:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%84%AB%E9%9B%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>再見祖克柏</title>
+        <link>http://localhost:1313/p/sayonara-zuckerberg/</link>
+        <pubDate>Fri, 19 Dec 2025 15:57:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>http://localhost:1313/p/sayonara-zuckerberg/</guid>
+        <description>&lt;img src="https://secologies.com/wp-content/uploads/2025/12/祖克柏梗圖-3.webp" alt="Featured image of post 再見祖克柏" /&gt;&lt;p&gt;在ML(Machine Learning, 機器學習)/DL(Deep Learning, 深度學習)/RL(Reinforcement Learning, 強化學習)技術如此盛行的時代，Agent、MCP(Model Context Protocol, 模型上下文協定)已經可以代勞現實中許多事情，這代表，其實我們以前花80%的力氣在處理一些雜事的情況可以省下來&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
