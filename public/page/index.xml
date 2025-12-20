@@ -7,62 +7,10 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Fri, 19 Dec 2025 15:12:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>支持本站</title>
-        <link>https://hshuang.blog/support/</link>
-        <pubDate>Fri, 19 Dec 2025 15:11:00 &#43;0800</pubDate>
-        <author>黃宏勝</author>
-        <guid>https://hshuang.blog/support/</guid>
-        <description>&lt;p&gt;如果覺得此部落格內容有幫助到你，而你也有能力支持站長的話，希望可以考慮幫助《Hong-Sheng Huang&amp;rsquo;s Blog》，讓這個部落格能夠繼續健康的經營下去，為各位讀者帶來更多有趣的內容&lt;/p&gt;
-&lt;p&gt;本站使用綠界科技作為介面，另外請記得輸入你的電子郵件信箱，以便未來寄送贊助者資訊至你的信箱&lt;/p&gt;
-&lt;p&gt;單次贊助：&lt;a class=&#34;link&#34; href=&#34;https://p.ecpay.com.tw/E6AE5CB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://p.ecpay.com.tw/E6AE5CB&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>近況</title>
-        <link>https://hshuang.blog/now/</link>
-        <pubDate>Thu, 18 Dec 2025 23:34:00 &#43;0800</pubDate>
-        <author>黃宏勝</author>
-        <guid>https://hshuang.blog/now/</guid>
-        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法&lt;/li&gt;
-&lt;li&gt;🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息&lt;/li&gt;
-&lt;li&gt;🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店&lt;/li&gt;
-&lt;li&gt;🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇&lt;/li&gt;
-&lt;li&gt;⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Secologies&lt;/a&gt;：由於原先的網域太長而且不好記，實在無法作為產品商業化，所以我換了一個新的網域，比較符合我之後的理念&lt;/li&gt;
-&lt;li&gt;🗓 社群部落格：更換成新的網域名字，比較短也比較好記憶&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
-Product Structure&lt;/li&gt;
-&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010587254?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《發現天賦之旅》&lt;/a&gt;：從自身出發到周遭的影響，從而發現自己的天賦與天命，如果對於自己的生命有所疑惑可以看看&lt;/li&gt;
-&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;茫DAY不錄&lt;/a&gt;：不適合，那可能是濁水溪吧，不是河😐&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sat, 20 Dec 2025 13:34:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用</title>
         <link>https://hshuang.blog/use/</link>
-        <pubDate>Thu, 18 Dec 2025 11:41:00 &#43;0800</pubDate>
+        <pubDate>Sat, 20 Dec 2025 13:30:00 &#43;0800</pubDate>
         <author>黃宏勝</author>
         <guid>https://hshuang.blog/use/</guid>
         <description>&lt;h2 id=&#34;-電腦軟體&#34;&gt;🖥️ 電腦軟體
@@ -131,10 +79,10 @@ Product Structure&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;-網站製作&#34;&gt;💻 網站製作
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wordpress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Wordpress&lt;/a&gt; - 動態網站建構系統，如果有表單或互動需求就只能依賴有資料庫的系統&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://wordpress.org/download/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Wordpress&lt;/a&gt; - 知名的動態網站系統，如果有表單或互動需求就只能依賴有資料庫的系統，基本上只建議買自己的VPS安裝wordpress.org，別買wordpress.com裡的空間，那個太浪費錢了&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt; - 靜態網頁生成套件，搭配Github Page就可以做出非常精美的網站了&lt;/li&gt;
+    &gt;Hugo&lt;/a&gt; - 靜態網頁生成套件，搭配Cloudflare Pages就可以做出非常精美的網站了&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-電子紙產品&#34;&gt;📜 電子紙產品
 &lt;/h2&gt;&lt;ul&gt;
@@ -186,6 +134,58 @@ Product Structure&lt;/li&gt;
     &gt;Logic Pro&lt;/a&gt; - macOS上最受歡迎的DAW，搭配各式各樣的插件就可以模擬許多可能性，只靠MIDI鍵盤還是可以玩得很開心&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://evo.audio/products/audio-interfaces/evo-4/overview/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Audient Evo 4&lt;/a&gt; - 入門級錄音介面，我用數位鋼琴輸出TRS插一組line孔開立體聲監聽對於初學者來說就很夠用了&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>支持本站</title>
+        <link>https://hshuang.blog/support/</link>
+        <pubDate>Fri, 19 Dec 2025 15:11:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>https://hshuang.blog/support/</guid>
+        <description>&lt;p&gt;如果覺得此部落格內容有幫助到你，而你也有能力支持站長的話，希望可以考慮幫助《Hong-Sheng Huang&amp;rsquo;s Blog》，讓這個部落格能夠繼續健康的經營下去，為各位讀者帶來更多有趣的內容&lt;/p&gt;
+&lt;p&gt;本站使用綠界科技作為介面，另外請記得輸入你的電子郵件信箱，以便未來寄送贊助者資訊至你的信箱&lt;/p&gt;
+&lt;p&gt;單次贊助：&lt;a class=&#34;link&#34; href=&#34;https://p.ecpay.com.tw/E6AE5CB&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://p.ecpay.com.tw/E6AE5CB&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>近況</title>
+        <link>https://hshuang.blog/now/</link>
+        <pubDate>Thu, 18 Dec 2025 23:34:00 &#43;0800</pubDate>
+        <author>黃宏勝</author>
+        <guid>https://hshuang.blog/now/</guid>
+        <description>&lt;h2 id=&#34;-最近的狀態&#34;&gt;🏡 最近的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法&lt;/li&gt;
+&lt;li&gt;🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息&lt;/li&gt;
+&lt;li&gt;🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店&lt;/li&gt;
+&lt;li&gt;🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇&lt;/li&gt;
+&lt;li&gt;⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近網路上的狀態&#34;&gt;🌐 最近網路上的狀態
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;💻 &lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Secologies&lt;/a&gt;：由於原先的網域太長而且不好記，實在無法作為產品商業化，所以我換了一個新的網域，比較符合我之後的理念&lt;/li&gt;
+&lt;li&gt;🗓 社群部落格：更換成新的網域名字，比較短也比較好記憶&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近的專案&#34;&gt;🎯 最近的專案
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近吃的喝的&#34;&gt;🍳 最近吃的/喝的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-最近讀的聽的看的&#34;&gt;📚 最近讀的/聽的/看的
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;📝 &lt;a class=&#34;link&#34; href=&#34;https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph&lt;/a&gt;：錯誤更正碼課程期末專案開搞
+Product Structure&lt;/li&gt;
+&lt;li&gt;🧾 &lt;a class=&#34;link&#34; href=&#34;https://www.books.com.tw/exep/assp.php/scientia/products/0010587254?utm_source=scientia&amp;amp;utm_medium=ap-books&amp;amp;utm_content=recommend&amp;amp;utm_campaign=ap-202512&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《發現天賦之旅》&lt;/a&gt;：從自身出發到周遭的影響，從而發現自己的天賦與天命，如果對於自己的生命有所疑惑可以看看&lt;/li&gt;
+&lt;li&gt;🎧 &lt;a class=&#34;link&#34; href=&#34;https://mondayblueeee.firstory.io/episodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;茫DAY不錄&lt;/a&gt;：不適合，那可能是濁水溪吧，不是河😐&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>

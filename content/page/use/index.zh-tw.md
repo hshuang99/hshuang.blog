@@ -1,8 +1,8 @@
 ---
 title: 使用
 description: 目前常用的物品
-date: 2025-12-18T11:41:00+08:00
-lastmod: 2025-12-18T11:42:00+08:00
+date: 2025-12-20T13:30:00+08:00
+lastmod: 2025-12-20T13:34:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -53,8 +53,8 @@ menu:
 - [Streamlabs](https://streamlabs.com/) - 底層用OBS開發的優化版，雖然OBS可以安裝各種插件輔助，但對於macOS使用上會有些卡頓，相較之下Streamlabs改良一些功能不會吃電腦太多資源，一樣可以用來實況跟錄影，尤其pane式錄影可以同時把螢幕畫面跟視訊鏡頭一起搭配麥克風音源一併錄下
 
 ### 💻 網站製作
-- [Wordpress](https://wordpress.com/) - 動態網站建構系統，如果有表單或互動需求就只能依賴有資料庫的系統
-- [Hugo](https://gohugo.io/) - 靜態網頁生成套件，搭配Github Page就可以做出非常精美的網站了
+- [Wordpress](https://wordpress.org/download/) - 知名的動態網站系統，如果有表單或互動需求就只能依賴有資料庫的系統，基本上只建議買自己的VPS安裝wordpress.org，別買wordpress.com裡的空間，那個太浪費錢了
+- [Hugo](https://gohugo.io/) - 靜態網頁生成套件，搭配Cloudflare Pages就可以做出非常精美的網站了
 
 ## 📜 電子紙產品
 - [Readmoo Mooink Pro 2C](https://moo.im/a/luyzKS) - Readmoo讀墨推出的13.3吋彩色電子書閱讀器，柔性螢幕讓機器非常輕薄，讓我在看paper時可以手持走動，也可以在教課時一手握著另一手寫黑板，做研究時的好夥伴，可以看[《讀墨 Readmoo mooInk Pro 2C 13.3吋 彩色電子書閱讀器 閱讀PDF檔案的應許之機》](https://scientiatw.live/p/readmoo-mooink-pro-2c/)這篇來詳細瞭解

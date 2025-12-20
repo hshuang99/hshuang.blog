@@ -3,6 +3,10 @@ User-agent: *
   
 Allow: /
   
+Allow: /page/
+  
+Allow: /use/
+  
 Allow: /categories/
   
 Allow: /tags/fomo/
@@ -23,13 +27,9 @@ Allow: /tags/%E8%84%AB%E9%9B%A2/
   
 Allow: /tags/%E6%BC%94%E7%AE%97%E6%B3%95/
   
-Allow: /page/
-  
 Allow: /support/
   
 Allow: /now/
-  
-Allow: /use/
   
 Allow: /about/
   
