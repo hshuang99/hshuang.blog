@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Sat, 20 Dec 2025 14:09:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Dec 2025 17:00:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>使用</title>
         <link>https://hshuang.blog/use/</link>
         <pubDate>Sat, 20 Dec 2025 13:30:00 &#43;0800</pubDate>
@@ -93,7 +93,14 @@
     &gt;Kobo Clara BW&lt;/a&gt; - Kobo最小尺寸6吋黑白機器，外出時非常好用，我的褲子口袋剛好可以完美裝進去&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;--線上服務&#34;&gt;☁️  線上服務
-&lt;/h2&gt;&lt;h3 id=&#34;-寫作平台&#34;&gt;🖌 寫作平台
+&lt;/h2&gt;&lt;h3 id=&#34;-訂閱制服務&#34;&gt;💰 訂閱制服務
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.namecheap.com/wordpress/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;EasyWP WordPress Hosting&lt;/a&gt; - Namecheap推出的wordpress shared主機，但亞洲沒有伺服器可以選有點煩&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cloudflare.com/products/registrar/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Cloudflare Registrar&lt;/a&gt; - Cloudflare出租網域的地方，基本上他們家網域定價完後都是固定價格，不像GoDaddy、Namecheap、Wix、Hostinger之類的網域商讓價格一直浮動，我明白你們第一年價格便宜是想吸引消費者，但第二年之後價格反彈是在搞心態嗎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-寫作平台&#34;&gt;🖌 寫作平台
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.overleaf.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Overleaf&lt;/a&gt; - 線上學術寫作編輯器，有許多大學提供各式各樣的模板，用校園信箱註冊認證可以升級成Premium方案，多人共同編輯時非常好用&lt;/li&gt;

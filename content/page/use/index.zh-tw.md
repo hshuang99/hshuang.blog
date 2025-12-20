@@ -2,7 +2,7 @@
 title: 使用
 description: 目前常用的物品
 date: 2025-12-20T13:30:00+08:00
-lastmod: 2025-12-20T13:34:00+08:00
+lastmod: 2025-12-20T17:00:00+08:00
 author: "黃宏勝"
 aliases:
   - use
@@ -61,6 +61,10 @@ menu:
 - [Kobo Clara BW](https://r10.to/hkkbYN) - Kobo最小尺寸6吋黑白機器，外出時非常好用，我的褲子口袋剛好可以完美裝進去
 
 ## ☁️  線上服務
+
+### 💰 訂閱制服務
+- [EasyWP WordPress Hosting](https://www.namecheap.com/wordpress/) - Namecheap推出的wordpress shared主機，但亞洲沒有伺服器可以選有點煩
+- [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/) - Cloudflare出租網域的地方，基本上他們家網域定價完後都是固定價格，不像GoDaddy、Namecheap、Wix、Hostinger之類的網域商讓價格一直浮動，我明白你們第一年價格便宜是想吸引消費者，但第二年之後價格反彈是在搞心態嗎
 
 ### 🖌 寫作平台
 - [Overleaf](https://www.overleaf.com/) - 線上學術寫作編輯器，有許多大學提供各式各樣的模板，用校園信箱註冊認證可以升級成Premium方案，多人共同編輯時非常好用
