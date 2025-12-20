@@ -20,4 +20,4 @@ comments: False
 
 本站使用綠界科技作為介面，另外請記得輸入你的電子郵件信箱，以便未來寄送贊助者資訊至你的信箱
 
-單次贊助：[https://p.ecpay.com.tw/E6AE5CB](https://p.ecpay.com.tw/E6AE5CB)
+單次贊助：[https://p.ecpay.com.tw/CB7F090](https://p.ecpay.com.tw/CB7F090)
