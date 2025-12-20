@@ -83,7 +83,7 @@ slug: "you-should-use-rss"
 ## RSS閱讀器工具
 我使用macOS所以找了一套免費且開源叫做Vienna的工具[https://www.vienna-rss.com/](https://www.vienna-rss.com/)，如果你是其他作業系統那麼使用"RSS"、"Feed"跟"Reader"等之類的關鍵字去搜尋應該可以找到其他一樣免費且開源的工具
 
-如果您找到了適合自己的閱讀器，也可以考慮訂閱我的RSS：[https://scientiatw.live/index.xml](https://hshuang.blog/index.xml)
+如果您找到了適合自己的閱讀器，也可以考慮訂閱我的RSS：[https://hshuang.blog/index.xml](https://hshuang.blog/index.xml)
 
 ## 參考資料
 [1] 你需要用 RSS，不要再拖了 - [https://wiwi.blog/blog/you-should-use-rss](https://wiwi.blog/blog/you-should-use-rss)
