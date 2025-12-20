@@ -1,7 +1,7 @@
 ---
 title: "部落格問題挑戰"
 date: "2025-10-18T14:19:00+08:00"
-lastmod: "2025-11-04T10:10:00+08:00"
+lastmod: "2025-12-20T14:09:00+08:00"
 author: "黃宏勝"
 categories:
   - 生活
@@ -88,7 +88,7 @@ slug: "blog-questions-challenge"
 也遇到了許多優秀的個人部落格，每天透過閱讀RSS新文章，就能夠為我每天的生活注入新的火焰
 
 ## 你對部落格有什麼未來計畫嗎？例如重新設計、搬到另一個平台，或是加入新功能？
-技術部落格如我冀望它的名字，《[資通安全第一品牌](https://secologies.com/)》，成為台灣地區學習資安技術的指標之一，另外就是多補充詳細的數學文章彌補讀者的底層知識，讓網站成為自給自足(self-contained)的平台
+技術部落格如我冀望它的名字，《[Secologies](https://secologies.com/)》，希望從數學、硬體到軟體的多維度視角來建構完整的資安生態圈，所以我需要開始多補充詳細的數學文章彌補讀者的底層知識，讓網站成為自給自足(self-contained)的平台
 
 以及目前開放免費的電子報註冊[https://secologies.com/zh/newsletter-zh/](https://secologies.com/zh/newsletter-zh/)，未來打算推出訂閱制的電子報，還有推出一些線上課程，Wordpress模板換了好幾次，目前這個消耗的計算資源最少，應該不會再換了
 

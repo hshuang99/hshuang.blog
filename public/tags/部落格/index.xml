@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-tw</language>
         <copyright>Hong-Sheng Huang</copyright>
-        <lastBuildDate>Tue, 04 Nov 2025 10:10:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Dec 2025 14:09:00 +0800</lastBuildDate><atom:link href="https://hshuang.blog/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>部落格問題挑戰</title>
         <link>https://hshuang.blog/p/blog-questions-challenge/</link>
         <pubDate>Sat, 18 Oct 2025 14:19:00 &#43;0800</pubDate>
@@ -64,7 +64,7 @@
 &lt;p&gt;也遇到了許多優秀的個人部落格，每天透過閱讀RSS新文章，就能夠為我每天的生活注入新的火焰&lt;/p&gt;
 &lt;h2 id=&#34;你對部落格有什麼未來計畫嗎例如重新設計搬到另一個平台或是加入新功能&#34;&gt;你對部落格有什麼未來計畫嗎？例如重新設計、搬到另一個平台，或是加入新功能？
 &lt;/h2&gt;&lt;p&gt;技術部落格如我冀望它的名字，《&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;資通安全第一品牌&lt;/a&gt;》，成為台灣地區學習資安技術的指標之一，另外就是多補充詳細的數學文章彌補讀者的底層知識，讓網站成為自給自足(self-contained)的平台&lt;/p&gt;
+    &gt;Secologies&lt;/a&gt;》，希望從數學、硬體到軟體的多維度視角來建構完整的資安生態圈，所以我需要開始多補充詳細的數學文章彌補讀者的底層知識，讓網站成為自給自足(self-contained)的平台&lt;/p&gt;
 &lt;p&gt;以及目前開放免費的電子報註冊&lt;a class=&#34;link&#34; href=&#34;https://secologies.com/zh/newsletter-zh/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://secologies.com/zh/newsletter-zh/&lt;/a&gt;，未來打算推出訂閱制的電子報，還有推出一些線上課程，Wordpress模板換了好幾次，目前這個消耗的計算資源最少，應該不會再換了&lt;/p&gt;
 &lt;p&gt;而個人部落格未來如果Cloudflare Pages開始收費的話可能又要換平台了，但我對目前的Hugo模板很滿意，之前換過好幾次模板只有這一次的滿足卡片式、關鍵字搜尋、目錄支援且最重要有meta tag的SEO優化，所以未來應該不會考慮換模板&lt;/p&gt;
