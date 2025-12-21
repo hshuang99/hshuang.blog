@@ -45,8 +45,6 @@ Allow: /tags/%E6%96%B9%E5%90%91/
   
 Allow: /tags/%E6%88%90%E5%8A%9F/
   
-Allow: /gallery/
-  
 Allow: /newsletter/
   
 Allow: /tags/kobo/
