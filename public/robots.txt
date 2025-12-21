@@ -5,6 +5,8 @@ Allow: /
   
 Allow: /page/
   
+Allow: /gallery/
+  
 Allow: /use/
   
 Allow: /categories/
