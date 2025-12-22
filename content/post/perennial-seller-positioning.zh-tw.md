@@ -86,10 +86,12 @@ slug = "perennial-seller-positioning"
 
 作品給人最差的印象莫過於：「那是隨便哪個人隨便做出來的。」
 
-《長銷》已經重新再版成《滾動內容複利》：掌握長銷經營者的關鍵行動選擇，持續變現，穩定創收，有興趣的讀者可以透過我的讀墨或Kobo AP購買電子書版本
+《長銷》已經重新再版成《滾動內容複利》：掌握長銷經營者的關鍵行動選擇，持續變現，穩定創收，有興趣的讀者可以透過下列平裝書或電子書連結
+
+博客來實體平裝書：[《滾動內容複利》：掌握長銷經營者的關鍵行動選擇，持續變現，穩定創收](https://www.books.com.tw/exep/assp.php/scientia/products/0010928347?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
 Readmoo電子書版：[《滾動內容複利》](https://moo.im/a/6dlJOY)
 
 Kobo電子書版：[《滾動內容複利》](https://r10.to/hkeLR7)
 
-博客來實體平裝書：[《滾動內容複利》：掌握長銷經營者的關鍵行動選擇，持續變現，穩定創收](https://www.books.com.tw/exep/assp.php/scientia/products/0010928347?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
+Hyread電子書版：[《滾動內容複利》：掌握長銷經營者的關鍵行動選擇 持續變現, 穩定創收](https://shoppingfun.co/3OsOl?uid1=Blog)

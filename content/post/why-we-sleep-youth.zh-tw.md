@@ -38,10 +38,12 @@ slug = "why-we-sleep-youth"
 
 另外科學家用青春期大鼠跟貓來測試剝奪這些動物的深沈睡眠，發現它們腦部的神經連結修整工程也停擺了，其證實深度非快速動眼睡眠推動了腦朝向健康成年期是必要的，另外如果給年幼大鼠咖啡因，也會干擾到它們的深度非快速動眼睡眠，因此延遲了腦部成熟，以及社會活動、自我理毛行為與探索環境的發展，所以最好也不要給青春期孩子喝過量的咖啡因，畢竟要完全戒除生活中的咖啡因太困難了，高中生跟同學去麥當勞喝個可樂就會攝取到
 
-有興趣的讀者可以參考下列讀墨或Kobo電子書版本或者博客來平裝書
+有興趣的讀者可以參考下列電子書版本或平裝書
+
+博客來實體平裝書：[《為什麼要睡覺？》：睡出健康與學習力、夢出創意的新科學](https://www.books.com.tw/exep/assp.php/scientia/products/0010959050?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
 
 Readmoo電子書版本：[《為什麼要睡覺？》：睡出健康與學習力、夢出創意的新科學](https://moo.im/a/1ijmnu)
 
 Kobo電子書版本：[《為什麼要睡覺？》：睡出健康與學習力、夢出創意的新科學](https://r10.to/hkIrxm)
 
-博客來實體平裝書：[《為什麼要睡覺？》：睡出健康與學習力、夢出創意的新科學](https://www.books.com.tw/exep/assp.php/scientia/products/0010959050?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202504)
+Hyread電子書版本：[《為什麼要睡覺?》：睡出健康與學習力、夢出創意的新科學](https://ibestfun.net/3OsOu?uid1=Blog)

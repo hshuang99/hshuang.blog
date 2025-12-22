@@ -40,10 +40,12 @@ slug = "the-bullet-journal-method-freedom-of-choose-is-privilege"
 
 美國前總統歐巴馬(Barack Obama)在專訪時說自己只穿灰色或藍色西裝，就是為了減少決策，而臉書創辦人馬克．祖克柏(Mark Zukerberg)總是穿著灰色的運動衫，蘋果創辦人史帝夫．賈伯斯(Steve Jobs)每次發表會都是黑色高領上衣搭配牛仔褲，這些人都意識到，思考各項選擇都是極為費神的事情，因此盡可能地減少生活中需要做的決策
 
-有興趣的讀者可以參考下列讀墨或Kobo電子書版本或者博客來平裝書
+有興趣的讀者可以參考下列電子書版本或平裝書
+
+博客來實體平裝書：[《子彈思考整理術》：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人](https://www.books.com.tw/exep/assp.php/scientia/products/0010926376?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202505)
 
 Readmoo電子書版本：[《子彈思考整理術》：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生](https://moo.im/a/ajpKMW)
 
 Kobo電子書版本：[《子彈思考整理術》：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人生](https://r10.to/h5Fo19)
 
-博客來實體平裝書：[《子彈思考整理術》：釐清超載思緒，化想法為行動，專注最重要的事，設計你想要的人](https://www.books.com.tw/exep/assp.php/scientia/products/0010926376?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202505)
+Hyread電子書版本：[《子彈思考整理術》：釐清超載思緒, 化想法為行動, 專注最重要的事, 設計你想要的人生](https://igrape.net/3OsOy?uid1=Blog)

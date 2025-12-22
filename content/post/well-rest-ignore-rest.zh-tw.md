@@ -72,10 +72,12 @@ slug = "well-rest-ignore-rest"
 ---
 這就是你我剛出社會時會面臨的可能性，那麼人生中有沒有一種可能Work-Life Balance的實現呢？
 
-有興趣的讀者可以參考下列讀墨或Kobo電子書版本或者博客來平裝書
+有興趣的讀者可以參考下列電子書版本或平裝書
+
+博客來實體平裝書：[《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法](https://www.books.com.tw/exep/assp.php/scientia/products/0010983296?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202510)
 
 Readmoo電子書版：[《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法](https://moo.im/a/3bijsF)
 
 Kobo電子書版：[《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法](https://r10.to/hYF1fN)
 
-博客來實體平裝書：[《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法](https://www.books.com.tw/exep/assp.php/scientia/products/0010983296?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202510)
+Hyread電子書版本：[《好好休息》：心不累、身體不疲憊、大腦不報廢的好眠人生實踐法](https://ibanana.biz/3OsP7?uid1=Blog)

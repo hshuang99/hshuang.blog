@@ -35,10 +35,12 @@ ntate gyrus)連結變得更強，而這造就海馬迴的通道更加緊密，�
 只要有一雙適合的鞋子就可以出門活動身體了，這也是醫學生喜歡出去打球運動的原因之一嗎
 
 ---
-有興趣的讀者可以參考下列讀墨或Kobo電子書版本或者博客來平裝書
+有興趣的讀者可以參考下列電子書版本或平裝書
+
+博客來實體平裝書：[慢老2.0：不是活得更老，而是延長健康中年！ 全面升級健腦、強肌、抗衰的日常習慣](https://www.books.com.tw/exep/assp.php/scientia/products/0010982682?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
 
 Readmoo電子書版本：[慢老2.0：不是活得更老，而是延長健康中年！ 全面升級健腦、強肌、抗衰的日常習慣](https://moo.im/a/ghiBMT)
 
 Kobo電子書版本：[慢老2.0：不是活得更老，而是延長健康中年！ 全面升級健腦、強肌、抗衰的日常習慣](https://r10.to/hR2MOx)
 
-博客來實體平裝書：[慢老2.0：不是活得更老，而是延長健康中年！ 全面升級健腦、強肌、抗衰的日常習慣](https://www.books.com.tw/exep/assp.php/scientia/products/0010982682?utm_source=scientia&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202507)
+Hyread電子書版本：[《慢老2.0》：不是活得更老，而是延長健康中年！全面升級健腦、強肌、抗衰的日常習慣](https://joymall.co/3OsO_?uid1=Blog)
