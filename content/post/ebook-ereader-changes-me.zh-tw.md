@@ -1,7 +1,7 @@
 ---
 title: "電子書閱讀器改變了我的人生"
-date: 2025-11-27T18:56:00+08:00
-lastmod: 2025-12-10T13:51:00+08:00
+date: 2025-12-11T16:28:00+08:00
+lastmod: 2025-12-26T16:29:00+08:00
 author: "黃宏勝"
 categories:
   - 科技
@@ -22,6 +22,8 @@ description: "放下會毒害自己大腦的社群媒體，擁抱單純的閱讀
 image: "https://secologies.com/wp-content/uploads/2025/11/Kobo-Clara-BW-cover.webp"
 slug: "ebook-ereader-changes-me"
 ---
+> 這是我的 2026 年 1 月份 BlogBlog 同樂會投稿，詳細活動資訊可以參考：[https://blogblog.club/party](https://blogblog.club/party)
+
 我最一開始是在Seminar的課上看到教授使用一塊不會發光的平板而感到好奇，一問之下我就越陷越深了，開始在網路上搜尋相關的資訊，找到各個電子書閱讀器品牌的社群，漸漸的對於各品牌有更多的瞭解
 
 在各大電子書閱讀器社團詢問我自己的情境應該適用於哪個尺寸、哪個品牌的閱讀器，翻了很多篇貼文，不斷地審視自己的需求，由於當時我正在做資工系的專題跟修研究所的書報討論課程，所以我有看paper的需求
