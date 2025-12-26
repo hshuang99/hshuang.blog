@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hshuang.blog/</loc>
-    <lastmod>2025-12-26T16:29:00+08:00</lastmod>
+    <lastmod>2025-12-26T21:45:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://hshuang.blog/page/</loc>
-    <lastmod>2025-12-26T16:10:00+08:00</lastmod>
+    <lastmod>2025-12-26T21:45:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +27,9 @@
                 hreflang="zh-tw"
                 href="https://hshuang.blog/page/"
                 />
+  </url><url>
+    <loc>https://hshuang.blog/links/</loc>
+    <lastmod>2025-12-26T21:45:00+08:00</lastmod>
   </url><url>
     <loc>https://hshuang.blog/now/</loc>
     <lastmod>2025-12-26T16:10:00+08:00</lastmod>
@@ -236,9 +239,6 @@
   </url><url>
     <loc>https://hshuang.blog/tags/%E9%81%8B%E6%B0%A3/</loc>
     <lastmod>2025-11-08T19:49:00+08:00</lastmod>
-  </url><url>
-    <loc>https://hshuang.blog/links/</loc>
-    <lastmod>2025-12-01T15:05:00+08:00</lastmod>
   </url><url>
     <loc>https://hshuang.blog/tags/%E8%A1%80%E7%B3%96/</loc>
     <lastmod>2025-11-05T17:32:00+08:00</lastmod>
