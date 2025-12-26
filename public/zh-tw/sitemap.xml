@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hshuang.blog/</loc>
-    <lastmod>2025-12-26T16:00:00+08:00</lastmod>
+    <lastmod>2025-12-26T16:10:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,45 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://hshuang.blog/"
+                />
+  </url><url>
+    <loc>https://hshuang.blog/page/</loc>
+    <lastmod>2025-12-26T16:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hshuang.blog/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hshuang.blog/page/"
+                />
+  </url><url>
+    <loc>https://hshuang.blog/now/</loc>
+    <lastmod>2025-12-26T16:10:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hshuang.blog/en/now/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hshuang.blog/now/"
+                />
+  </url><url>
+    <loc>https://hshuang.blog/about/</loc>
+    <lastmod>2025-12-26T16:02:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hshuang.blog/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://hshuang.blog/about/"
                 />
   </url><url>
     <loc>https://hshuang.blog/categories/</loc>
@@ -65,19 +104,6 @@
     <loc>https://hshuang.blog/tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9F%9F/</loc>
     <lastmod>2025-12-26T16:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://hshuang.blog/page/</loc>
-    <lastmod>2025-12-21T13:37:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hshuang.blog/en/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hshuang.blog/page/"
-                />
-  </url><url>
     <loc>https://hshuang.blog/gallery/</loc>
     <lastmod>2025-12-21T13:37:00+08:00</lastmod>
   </url><url>
@@ -117,32 +143,6 @@
   </url><url>
     <loc>https://hshuang.blog/support/</loc>
     <lastmod>2025-12-19T15:12:00+08:00</lastmod>
-  </url><url>
-    <loc>https://hshuang.blog/now/</loc>
-    <lastmod>2025-12-18T23:36:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hshuang.blog/en/now/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hshuang.blog/now/"
-                />
-  </url><url>
-    <loc>https://hshuang.blog/about/</loc>
-    <lastmod>2025-12-15T11:03:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hshuang.blog/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://hshuang.blog/about/"
-                />
   </url><url>
     <loc>https://hshuang.blog/bucket-list/</loc>
     <lastmod>2025-12-14T13:50:00+08:00</lastmod>

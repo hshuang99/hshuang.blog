@@ -1,7 +1,7 @@
 ---
 title: 關於
 description: 介紹本站與我
-date: '2025-12-15T11:00:00+08:00'
+date: '2025-12-26T16:01:00+08:00'
 author: "黃宏勝"
 aliases:
   - about
@@ -9,7 +9,7 @@ aliases:
   - about-me
   - about-site
 slug: about
-lastmod: '2025-12-15T11:03:00+08:00'
+lastmod: '2025-12-26T16:02:00+08:00'
 menu:
     main: 
         weight: -80
@@ -27,7 +27,7 @@ menu:
 
 歡迎逛逛我的資安部落格：[Secologies](https://secologies.com/zh)
 
-任何問題請寄到信箱內：hongshenghuang@proton.me
+任何問題請寄到信箱內：hshuang@hshuang.blog
 
 ## 關於我
 我是[黃宏勝](https://secologies.com/zh/hong-sheng-huang-zh/)，臺東人，但不騎山豬

@@ -3,6 +3,12 @@ User-agent: *
   
 Allow: /
   
+Allow: /page/
+  
+Allow: /now/
+  
+Allow: /about/
+  
 Allow: /categories/
   
 Allow: /tags/cloudflare/
@@ -23,8 +29,6 @@ Allow: /categories/%E7%A7%91%E6%8A%80/
   
 Allow: /tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9F%9F/
   
-Allow: /page/
-  
 Allow: /gallery/
   
 Allow: /use/
@@ -44,10 +48,6 @@ Allow: /tags/%E8%84%AB%E9%9B%A2/
 Allow: /tags/%E6%BC%94%E7%AE%97%E6%B3%95/
   
 Allow: /support/
-  
-Allow: /now/
-  
-Allow: /about/
   
 Allow: /bucket-list/
   
@@ -479,13 +479,13 @@ Allow: /search/
   
 Allow: /en/
   
-Allow: /en/now/
+Allow: /en/about/
   
 Allow: /en/page/
   
-Allow: /en/use/
+Allow: /en/now/
   
-Allow: /en/about/
+Allow: /en/use/
   
 Allow: /en/archives/
   

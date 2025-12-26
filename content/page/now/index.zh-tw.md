@@ -1,12 +1,12 @@
 ---
 title: 近況
 description: 最近在做些什麼
-date: '2025-12-18T23:34:00+08:00'
+date: '2025-12-26T16:09:00+08:00'
 author: "黃宏勝"
 aliases:
   - now
 slug: now
-lastmod: '2025-12-18T23:36:00+08:00'
+lastmod: '2025-12-26T16:10:00+08:00'
 menu:
     main: 
         weight: -70
@@ -15,21 +15,21 @@ menu:
 ---
 
 ## 🏡 最近的狀態
-- 🚎 通勤：新竹台北兩地實驗室跑，說實話專車單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法
+- 🚎 通勤：新竹台北兩地實驗室跑，說實話台鐵單趟2小時，每次坐都覺得快發瘋了，得盡快想個辦法
 - 🛏 睡眠：盡量十二點多睡覺早上八點多起床固定作息
-- 🥬 飲食：平日盡可能的選擇自助餐，雖然外食不斷地受到其他速食誘惑，但想到為了身體狀況最終都會強迫自己走進可以選多樣蔬菜的店
+- 🥬 飲食：哭啊，學校裡的自助餐收掉了，那是唯一有賣糙米又比較便宜的蔬菜選擇來源，現在只能吃些便當，貴又菜量少，便當為了省錢都有些是加工食品配菜，而健康便當又貴得要死
 - 🏃 運動：跑步機還是最省時間的，尤其現階段得把大部分時間用在工作上，健身房裡唯一可以控管時間的好選擇
-- ⏳ 工作：趕第一階段實驗，但也規劃練琴跟素描等休閒活動，期望這類放鬆可以帶給研究工作上一些益處
+- ⏳ 工作：趕第一階段實驗
 
 ## 🌐 最近網路上的狀態
-- 💻 [Secologies](https://secologies.com/zh/)：由於原先的網域太長而且不好記，實在無法作為產品商業化，所以我換了一個新的網域，比較符合我之後的理念
-- 🗓 社群部落格：更換成新的網域名字，比較短也比較好記憶
+- 💻 [Secologies](https://secologies.com/zh/)：寄送出第一期的電子報，有興趣的可以[訂閱](https://secologies.com/zh/newsletter-zh/)，我也把所有紀錄都更新在電子報頁面中，用該網域註冊了商業版的電子郵件服務，看起來更專業
+- 🗓 社群部落格：利用Cloudflare跟Gmail建了本站網域的信箱，之後要寄電子報時看起來更有識別性
 
 ## 🎯 最近的專案
 - 🖥️ Syndrome-based Normalized Min-Sum BP：針對Belief propagation進行實作，希望之後可以應用進我的碩士論文裏
 
 ## 🍳 最近吃的/喝的
-- 🥡 校內書局有開的日子都會去看有沒有優格，喝了一、兩個禮拜覺得優格真的對我的腸胃有效益，腸胃狀況較好似乎真的對情緒有正面影響，我感覺壓力真的有比較被控制住
+- 🍊 冬天來臨了真的冷到爆炸，晚餐水果改換橘子多補充維生素C、膳食纖維、柑橘多酚、β-胡蘿蔔素和鉀之類的
 
 ## 📚 最近讀的/聽的/看的
 - 📝 [Branch-Assisted Sign-Flipping Belief Propagation Decoding for Topological Quantum Codes Based on Hypergraph](https://www.researchgate.net/publication/371033665_Branch-Assisted_Sign-Flipping_Belief_Propagation_Decoding_for_Topological_Quantum_Codes_Based_On_Hypergraph-Product_Structure)：錯誤更正碼課程期末專案開搞

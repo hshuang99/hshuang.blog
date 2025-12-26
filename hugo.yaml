@@ -30,7 +30,7 @@ languages:
 
                 - identifier: mail
                   name: 電子郵件信箱
-                  url: mailto:hongshenghuang@proton.me
+                  url: mailto:hshuang@hshuang.blog
                   params:
                       icon: mail-bolt
 
@@ -51,7 +51,7 @@ languages:
 
                 - identifier: mail
                   name: Email
-                  url: mailto:hongshenghuang@proton.me
+                  url: mailto:hshuang@hshuang.blog
                   params:
                       icon: mail-bolt
 
