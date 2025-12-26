@@ -3,21 +3,35 @@ User-agent: *
   
 Allow: /
   
+Allow: /categories/
+  
+Allow: /tags/cloudflare/
+  
+Allow: /tags/email-routing/
+  
+Allow: /tags/gmail/
+  
+Allow: /post/
+  
+Allow: /tags/
+  
+Allow: /p/cloudflare-domain-create-free-private-email-using-gmail/
+  
+Allow: /tags/%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%9B%BB%E5%AD%90%E4%BF%A1%E7%AE%B1/
+  
+Allow: /categories/%E7%A7%91%E6%8A%80/
+  
+Allow: /tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9F%9F/
+  
 Allow: /page/
   
 Allow: /gallery/
   
 Allow: /use/
   
-Allow: /categories/
-  
 Allow: /tags/fomo/
   
-Allow: /post/
-  
 Allow: /tags/slop/
-  
-Allow: /tags/
   
 Allow: /categories/%E7%94%9F%E6%B4%BB/
   
@@ -52,8 +66,6 @@ Allow: /newsletter/
 Allow: /tags/kobo/
   
 Allow: /tags/mobiscribe-origin/
-  
-Allow: /categories/%E7%A7%91%E6%8A%80/
   
 Allow: /tags/%E9%9B%BB%E5%AD%90%E6%9B%B8%E9%96%B1%E8%AE%80%E5%99%A8/
   

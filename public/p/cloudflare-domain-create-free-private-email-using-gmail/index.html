@@ -1,0 +1,978 @@
+<!DOCTYPE html>
+<html lang="zh-tw" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="個人化電子郵件信箱讓你看起來更專業，本文向各位介紹如何利用Cloudflare購買的網域搭配免費的Gmail來建立私人信箱">
+<meta name="keywords" content="科技, 客製化電子信箱, Cloudflare, Gmail, 個人網域, Email Routing"><title>利用Cloudflare Domain搭配Gmail建立私人電子信箱</title>
+
+<link rel='canonical' href='https://hshuang.blog/p/cloudflare-domain-create-free-private-email-using-gmail/'>
+
+<link rel="stylesheet" href="/scss/style.min.07a42b3db20eff4c43613c412c8d55d8782b902b41eaa8c8f663804a3488257f.css"><meta property='og:title' content="利用Cloudflare Domain搭配Gmail建立私人電子信箱">
+<meta property='og:description' content="個人化電子郵件信箱讓你看起來更專業，本文向各位介紹如何利用Cloudflare購買的網域搭配免費的Gmail來建立私人信箱">
+<meta property='og:url' content='https://hshuang.blog/p/cloudflare-domain-create-free-private-email-using-gmail/'>
+<meta property='og:site_name' content='Hong-Sheng Huang&#39;s Blog'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='客製化電子信箱' /><meta property='article:tag' content='Cloudflare' /><meta property='article:tag' content='Gmail' /><meta property='article:tag' content='個人網域' /><meta property='article:tag' content='Email Routing' /><meta property='article:published_time' content='2025-12-26T15:59:00&#43;08:00'/><meta property='article:modified_time' content='2025-12-26T16:00:00&#43;08:00'/><meta property='og:image' content='https://secologies.com/wp-content/uploads/2025/12/cloudflare-domain-create-free-private-email-using-gmail.webp' />
+<meta name="twitter:title" content="利用Cloudflare Domain搭配Gmail建立私人電子信箱">
+<meta name="twitter:description" content="個人化電子郵件信箱讓你看起來更專業，本文向各位介紹如何利用Cloudflare購買的網域搭配免費的Gmail來建立私人信箱"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://secologies.com/wp-content/uploads/2025/12/cloudflare-domain-create-free-private-email-using-gmail.webp' />
+    <link rel="shortcut icon" href="/favicon.webp" />
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-GC235QD2XY"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-GC235QD2XY');
+        }
+      </script>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切換選單">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/Author_hu_106d8ba03a16b9e.webp" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🇹🇼</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Hong-Sheng Huang&#39;s Blog</a></h1>
+            <h2 class="site-description">保持好奇心並付諸行動</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://secologies.com/zh/'
+                        target="_blank"
+                        title="Secologies"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-brand-wordpress"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9.5 9h3" /><path d="M4 9h2.5" /><path d="M11 9l3 11l4 -9" /><path d="M5.5 9l3.5 11l3 -7" /><path d="M18 11c.177 -.528 1 -1.364 1 -2.5c0 -1.78 -.776 -2.5 -1.875 -2.5c-.898 0 -1.125 .812 -1.125 1.429c0 1.83 2 2.058 2 3.571z" /><path d="M12 12m-9 0a9 9 0 1 0 18 0a9 9 0 1 0 -18 0" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='mailto:hongshenghuang@proton.me'
+                        target="_blank"
+                        title="電子郵件信箱"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-mail-bolt"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M13 19h-8a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5.5" /><path d="M3 7l9 6l9 -6" /><path d="M19 16l-2 3h4l-2 3" /></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>首頁</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/micro/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-bubble-text"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 10h10" /><path d="M9 14h5" /><path d="M12.4 3a5.34 5.34 0 0 1 4.906 3.239a5.333 5.333 0 0 1 -1.195 10.6a4.26 4.26 0 0 1 -5.28 1.863l-3.831 2.298v-3.134a2.668 2.668 0 0 1 -1.795 -3.773a4.8 4.8 0 0 1 2.908 -8.933a5.33 5.33 0 0 1 4.287 -2.16" /></svg>
+                
+                <span>微短文</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>關於</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/now/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                
+                <span>近況</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/bucket-list/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-checkup-list"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 5h-2a2 2 0 0 0 -2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-12a2 2 0 0 0 -2 -2h-2" /><path d="M9 3m0 2a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v0a2 2 0 0 1 -2 2h-2a2 2 0 0 1 -2 -2z" /><path d="M9 14h.01" /><path d="M9 17h.01" /><path d="M12 16l1 1l3 -3" /></svg>
+                
+                <span>人生清單</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/books/' >
+                
+                
+                
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-books"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z" /><path d="M9 4m0 1a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1z" /><path d="M5 8h4" /><path d="M9 16h4" /><path d="M13.803 4.56l2.184 -.53c.562 -.135 1.133 .19 1.282 .732l3.695 13.418a1.02 1.02 0 0 1 -.634 1.219l-.133 .041l-2.184 .53c-.562 .135 -1.133 -.19 -1.282 -.732l-3.695 -13.418a1.02 1.02 0 0 1 .634 -1.219l.133 -.041z" /><path d="M14 9l4 -1" /><path d="M16 16l3.923 -.98" /></svg>
+                
+                <span>書單</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/use/' >
+                
+                
+                
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-shopping-bag-heart"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M11.5 21h-2.926a3 3 0 0 1 -2.965 -2.544l-1.255 -8.152a2 2 0 0 1 1.977 -2.304h11.339a2 2 0 0 1 1.977 2.304c-.057 .368 -.1 .644 -.127 .828" /><path d="M9 11v-5a3 3 0 0 1 6 0v5" /><path d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.242 2.242 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.242 2.242 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071l3.355 3.296z" /></svg>
+                
+                <span>使用</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-link-plus"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 15l6 -6" /><path d="M11 6l.463 -.536a5 5 0 0 1 7.072 0a4.993 4.993 0 0 1 -.001 7.072" /><path d="M12.603 18.534a5.07 5.07 0 0 1 -7.127 0a4.972 4.972 0 0 1 0 -7.071l.524 -.463" /><path d="M16 19h6" /><path d="M19 16v6" /></svg>
+                
+                <span>推薦</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/newsletter/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-mail-bolt"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M13 19h-8a2 2 0 0 1 -2 -2v-10a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v5.5" /><path d="M3 7l9 6l9 -6" /><path d="M19 16l-2 3h4l-2 3" /></svg>
+                
+                <span>訂閱電子報</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/gallery/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-photo-edit"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M15 8h.01" /><path d="M11 20h-4a3 3 0 0 1 -3 -3v-10a3 3 0 0 1 3 -3h10a3 3 0 0 1 3 3v4" /><path d="M4 15l4 -4c.928 -.893 2.072 -.893 3 0l3 3" /><path d="M14 14l1 -1c.31 -.298 .644 -.497 .987 -.596" /><path d="M18.42 15.61a2.1 2.1 0 0 1 2.97 2.97l-3.39 3.42h-3v-3l3.42 -3.39z" /></svg>
+                
+                <span>圖冊</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/support/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-moneybag-heart"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9.5 3h5a1.5 1.5 0 0 1 1.5 1.5a3.5 3.5 0 0 1 -3.5 3.5h-1a3.5 3.5 0 0 1 -3.5 -3.5a1.5 1.5 0 0 1 1.5 -1.5" /><path d="M11.5 21h-3.5a4 4 0 0 1 -4 -4v-1a8 8 0 0 1 14.376 -4.833" /><path d="M18 22l3.35 -3.284a2.143 2.143 0 0 0 .005 -3.071a2.24 2.24 0 0 0 -3.129 -.006l-.224 .22l-.223 -.22a2.24 2.24 0 0 0 -3.128 -.006a2.143 2.143 0 0 0 -.006 3.071z" /></svg>
+                
+                <span>支持本站</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜尋</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>紀錄</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://hshuang.blog/" selected>繁體中文</option>
+                                
+                                    <option value="https://hshuang.blog/en/" >English</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>夜晚模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目錄</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#cloudflare-email-routing">Cloudflare Email Routing</a></li>
+    <li><a href="#gmail-smtp-server">Gmail SMTP Server</a></li>
+    <li><a href="#測試">測試</a></li>
+    <li><a href="#reference">Reference</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/cloudflare-domain-create-free-private-email-using-gmail/">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/12/cloudflare-domain-create-free-private-email-using-gmail.webp" loading="lazy" alt="Featured image of post 利用Cloudflare Domain搭配Gmail建立私人電子信箱" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/%E7%A7%91%E6%8A%80/" style="background-color: #1a8587; color: #fff;">
+                科技
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/cloudflare-domain-create-free-private-email-using-gmail/">利用Cloudflare Domain搭配Gmail建立私人電子信箱</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            個人化電子郵件信箱讓你看起來更專業，本文向各位介紹如何利用Cloudflare購買的網域搭配免費的Gmail來建立私人信箱
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 26, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    閱讀時間: 5 分鐘
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>你是否擁有了自己的網域後，也想要一個網域的信箱？</p>
+<p>擁有客製化的電子郵件信箱，會讓你看起來更專業，要完成這點，其實不需要額外購買存放SMTP伺服器的網路空間，只需要有免費版的Google Gmail的信箱帳號就能達成，本文將會帶各位一步一步的完成設定</p>
+<p>由於我的網域是在Cloudflare購買的，也比較推薦讀者在該平台租用，原因可以參考Alex Hsu的《如何為網站選一個好域名》[1]以及JN的《想架部落格，需要註冊自己的網域嗎？》[2]等文章，整個流程需要設定兩個主要的部分，首先是Cloudflare端的設定</p>
+<h2 id="cloudflare-email-routing">Cloudflare Email Routing
+</h2><p>在擁有自己的網域後，讀者可以點進去該網域內，我們可以在左側欄位找到所有功能，其中看到Email功能後下拉，會出現Email Routing可以點選</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-Email-Routing-Page.webp" alt="Cloudflare-Email-Routing-Page" width="800">
+  <figcaption>Cloudflare Email Routing頁面</figcaption>
+</figure>
+<p>進到頁面後，就可以做初始設定，按下Get started</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-email-routing-getstart-scaled.webp" alt="Cloudflare-Email-Routing-Get-started" width="800">
+  <figcaption>Cloudflare Email Routing初始設定</figcaption>
+</figure>
+<p>初始設定如果是在Cloudflare購買網域的話，除了custom address可以設定自己想要的信箱名字，@example.com地方可以下拉選擇自己的網域，而我們目前需要的操作是轉寄信件，所以預設的Send to不用動，欲轉寄的位址填寫想要用來收信的Gmail地址，確認之後按下Create and continue</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-email-routing-custom-setting.webp" alt="Cloudflare-email-routing-custom-setting.webp" width="800">
+  <figcaption>Cloudflare Email Routing設定電子郵件位址</figcaption>
+</figure>
+<p>Cloudflare就會寄送一封確認信到你想要轉寄的信箱裡，直接點選驗證即可</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-routing-verify-mail.webp" alt="Cloudflare-Email-Routing-Verify" width="600">
+  <figcaption>Cloudflare Email Routing信箱驗證</figcaption>
+</figure>
+<p>回到Cloudflare Email Routing頁面裡，就可以在Overview看到已新增的個人紀錄，以及在Routing rules可以看到之前的設定</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-email-routing-overview-scaled.webp" alt="Cloudflare-Email-Routing-Overview" width="800">
+  <figcaption>Cloudflare Email Routing總覽</figcaption>
+</figure>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Cloudflare-email-routing-rule-scaled.webp" alt="Cloudflare-Email-Routing-rules" width="800">
+  <figcaption>Cloudflare Email Routing規則</figcaption>
+</figure>
+<p>另外設定完信箱之後，還需要新增DNS紀錄指定給這個網域，會出現在Overview頁面的底下，指示需要啟動下列的紀錄，基本上按下Add records and enable的就行了，不用一個一個自己新增</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/cloudflare-email-routing-required-records.webp" alt="Cloudflare-Email-Routing-required-records" width="800">
+  <figcaption>Cloudflare Email Routing所需的DNS Records</figcaption>
+</figure>
+<p>到這裡Cloudflare Email Routing部分就設定完了，但因為Cloudflare只能夠用來轉寄信件，而如果我們收到電子信件後想要用同樣的地址回覆，中間必須有一個SMTP Server進行轉譯客製化信箱地址，如果讀者使用的是Gmail作為收信地址，則可以利用Google建立SMTP Server，以下說明一下設定流程</p>
+<h2 id="gmail-smtp-server">Gmail SMTP Server
+</h2><blockquote>
+<p>首先第一點請先確認你的Gmail帳號有啟動2FA功能，這是必要的</p>
+</blockquote>
+<p>再來我們得建立一組Gooel APP Password專門給Gmail SMTP伺服器使用，主要用來給設定新增其他電子郵件時，根據自己想要收信的帳號，請用建立一組APP密碼進入：<a class="link" href="https://security.google.com/settings/security/apppasswords"  target="_blank" rel="noopener"
+    >https://security.google.com/settings/security/apppasswords</a></p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/Create-App-Password.webp" alt="create-app-password" width="600">
+  <figcaption>建立App Password</figcaption>
+</figure>
+<p>按下建立之後，就會給一組密碼，請記錄下來，並且把密碼之間的<strong>空格</strong>刪掉，之後在新增信箱時會需要用到，回到Gmail介面當中，按下右上角的齒輪，找到所有設定，並且到&quot;帳號及匯入&quot;的功能裡，按下新增其他電子郵件信箱</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/gmail-see-all-settings.webp" alt="gmail-see-all-settings" width="400">
+  <figcaption>Gmail設定</figcaption>
+</figure>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/add-another-email-address-3-scaled.webp" alt="add-another-email-address-scaled" width="800">
+  <figcaption>Gmail帳號及匯入功能</figcaption>
+</figure>
+<p>此時跳出一個新增信箱的視窗，電子郵件信箱就填寫在Cloudflare Email Routing上的位址，把視為別名的選項<strong>取消</strong>掉，我們需要保留原本的電子郵件地址，再回覆信件時才能夠選擇要用哪個地址來回覆，下方可以指定不一樣的位址，此時該帳號一樣填客製化的信箱，確認完之後點選下一步</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/adding-another-address.webp" alt="adding-another-address" width="800">
+  <figcaption>設定客製化信箱</figcaption>
+</figure>
+<p>下一步設定SMTP Server的內容，SMTP位址我們選擇gmail作為中繼，port選擇標準的587，使用者名稱則是你目前收信的信箱，因為我們是用這個gmail作為送件者，密碼則為方才我們在App Password建立的那一組，請記得密碼之間不用空格，連線選擇標準的TLS即可，所以總共需要填</p>
+<ul>
+<li>SMTP Server: smtp.gmail.com</li>
+<li>port: 587</li>
+<li>Username: 你的gmail信箱地址 (e.g. &hellip;@gmail.com)</li>
+<li>Password: 方才建立的密碼</li>
+<li>勾選TLS</li>
+</ul>
+<p>都確認後就可以按下新增帳號</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/send-mail-through-smtp-server-2.webp" alt="send-mail-through-smtp-server" width="800">
+  <figcaption>設定Gmail SMTP Server</figcaption>
+</figure>
+<p>顯示成功新增後，會寄一封確認信到你的Gmail信箱裡，在按下驗證連結就設定完成了</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/adding-email-done.webp" alt="adding-email-done" width="800">
+  <figcaption>完成Gmail SMTP Server設定</figcaption>
+</figure>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/confirm-gmail-smtp-settings.webp" alt="confirm-gmail-smtp-settings" width="700">
+  <figcaption>驗證Gmail SMTP Server設定</figcaption>
+</figure>
+<p>我們還需要回Cloudflare設定DNS指向Gmail，到你的Domain找到DNS Records新增一條TXT紀錄，為了讓Cloudflare可以驗證Gmail SMTP Server</p>
+<ul>
+<li>Type: TXT</li>
+<li>Name: 你的網域</li>
+<li>Content: v=spf1 include:_spf.mx.cloudflare.net include:_spf.google.com ~all</li>
+</ul>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/cloudflare-gmail-dns.webp" alt="cloudflare-gmail-dns" width="800">
+  <figcaption>Cloudflare驗證Gmail SMTP Server的DNS紀錄</figcaption>
+</figure>
+<p>最後回Gmail帳號的設定，在回覆時可以調整成寄件者指定的信箱作為回信，也可以調整預設回覆的信箱</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/replying-setting-2-scaled.webp" alt="replying-setting-scaled" width="800">
+  <figcaption>Gmail SMTP設定回信的信箱位址</figcaption>
+</figure>
+<h2 id="測試">測試
+</h2><p>最後我們來測試一下有沒有設定成功，利用其他的信箱寄件給Cloudflare Domain的位址一封電子郵件</p>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/sending-test.webp" alt="ending-test.webp" width="600">
+  <figcaption>從protonmail寄送到我的客製化信箱</figcaption>
+</figure>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/receive-test.webp" alt="receive-test" width="600">
+  <figcaption>Gmail確實有收到信件，郵件位址也正確</figcaption>
+</figure>
+<figure>
+  <img src="https://secologies.com/wp-content/uploads/2025/12/reply-test.webp" alt="reply-test.webp" width="600">
+  <figcaption>用Gmail回信，protonmail確實收到來自hshuang@hshuang.blog的信件</figcaption>
+</figure>
+<p>如果上述都有成功，代表讀者的設定都正確，此文以Gmail的SMTP Server作為中繼，如果讀者使用的是Outlook或者其他商業型電子郵件服務，需要確認是否可以免費設定SMTP server，像是protonmail就需要訂閱後才能新增domain name，這點需要特別注意，祝各位可以成功建立自己的網域信箱</p>
+<h2 id="reference">Reference
+</h2><p>[1] Alex Hsu 徐小翔, &ldquo;如何為網站選一個好域名,&rdquo; 2025年12月18日, <a class="link" href="https://alexhsu.com/domain-names"  target="_blank" rel="noopener"
+    >https://alexhsu.com/domain-names</a>.</p>
+<p>[2] 資工小廢物 - JN, &ldquo;想架部落格，需要註冊自己的網域嗎？,&rdquo; 2025-12-19, <a class="link" href="https://blog.giveanornot.com/get-a-domain-or-not/"  target="_blank" rel="noopener"
+    >https://blog.giveanornot.com/get-a-domain-or-not/</a>.</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E5%AE%A2%E8%A3%BD%E5%8C%96%E9%9B%BB%E5%AD%90%E4%BF%A1%E7%AE%B1/">客製化電子信箱</a>
+        
+            <a href="/tags/cloudflare/">Cloudflare</a>
+        
+            <a href="/tags/gmail/">Gmail</a>
+        
+            <a href="/tags/%E5%80%8B%E4%BA%BA%E7%B6%B2%E5%9F%9F/">個人網域</a>
+        
+            <a href="/tags/email-routing/">Email Routing</a>
+        
+    </section>
+
+
+    <section class="article-lastmod">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+        <span>
+            最後更新 Dec 26, 2025 16:00 CST
+        </span>
+    </section></footer>
+
+
+    
+        <link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css"integrity="sha384-n8MVd4RsNIU0tAv4ct0nTaAbDJwPJzDEaqSD1odI&#43;WdtXRGWt2kTvGFasHpSy3SV"crossorigin="anonymous"
+            ><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"integrity="sha384-XjKyOOlGwcjNTAIQHIpgOno0Hl1YQqzUOEleOLALmuqehneUG&#43;vnGctmUb0ZY0l8"crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"integrity="sha384-&#43;VBxd3r6XgURycqtZ117nYw44OOcIax56Z4dCRWbxyPt0Koah1uHoK0o4&#43;/RRE05"crossorigin="anonymous"
+                defer
+                >
+            </script><script>
+    window.addEventListener("DOMContentLoaded", () => {
+	const mainArticleElement = document.querySelector(".main-article");
+        renderMathInElement(mainArticleElement, {
+            delimiters: [
+                { left: "$$", right: "$$", display: true },
+                { left: "$", right: "$", display: false },
+                { left: "\\(", right: "\\)", display: false },
+                { left: "\\[", right: "\\]", display: true }
+            ],
+            ignoredClasses: ["gist"]
+        });})
+</script>
+
+    
+</article>
+
+    
+
+    
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <nav class="post-navigation">
+    
+
+    
+      <a class="prev-post" href="/p/sayonara-zuckerberg/">
+          <span class = "nav-label">較舊一篇</span>
+          <span class = "nav-title">再見祖克柏 &rarr;</span>
+      </a>
+    
+  </nav>
+
+
+
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相關文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/ebook-ereader-changes-me/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/11/Kobo-Clara-BW-cover.webp" loading="lazy" data-key="ebook-ereader-changes-me" data-hash="https://secologies.com/wp-content/uploads/2025/11/Kobo-Clara-BW-cover.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">電子書閱讀器改變了我的人生</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/oculink-egpu-for-cuda/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/09/Oculink-1-scaled.webp" loading="lazy" data-key="oculink-egpu-for-cuda" data-hash="https://secologies.com/wp-content/uploads/2025/09/Oculink-1-scaled.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Framework工作機裝設Oculink</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/ai-vs-robots-txt/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/08/AI-vs-robots-cover-e1756260099688.webp" loading="lazy" data-key="AI-vs-robots-txt" data-hash="https://secologies.com/wp-content/uploads/2025/08/AI-vs-robots-cover-e1756260099688.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Robots.txt與AI爬蟲的愛恨情仇</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/you-should-use-rss/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/08/rss-cover-scaled.webp" loading="lazy" data-key="you-should-use-rss" data-hash="https://secologies.com/wp-content/uploads/2025/08/rss-cover-scaled.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">自主選擇乾淨的資訊，回歸RSS的懷抱吧！</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/readmoo-mooink-pro-2c/">
+        
+        
+            <div class="article-image">
+                
+                    <img src="https://secologies.com/wp-content/uploads/2025/05/Readmoo_mooInk_Pro_2C.webp" loading="lazy" data-key="readmoo-mooink-pro-2c" data-hash="https://secologies.com/wp-content/uploads/2025/05/Readmoo_mooInk_Pro_2C.webp"/>
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">讀墨 Readmoo mooInk Pro 2C 13.3吋 彩色電子書閱讀器 閱讀PDF檔案的應許之機</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hong-sheng-huang" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 Hong-Sheng Huang
+    </section>
+    
+    <section class="powerby">
+        
+            Posts Copyright Hong-Sheng Huang <br/>
+        
+        
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+<script src="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/js/nprogress.min.js" integrity="sha384-bHDlAEUFxsRI7JfULv3DTpL2IXbbgn4JHQJibgo5iiXSK6Iu8muwqHANhun74Cqg" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/zhixuan2333/gh-blog@v0.1.0/css/nprogress.css" integrity="sha384-KJyhr2syt5+4M9Pz5dipCvTrtvOmLk/olWVdfhAp858UCa64Ia5GFpTN7+G4BWpE" crossorigin="anonymous" />
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
+</script>
+
+
+    </body>
+</html>
